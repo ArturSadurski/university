@@ -1,0 +1,497 @@
+                                   Internet
+Visualization of Internet routing paths
+An Opte Project visualization of routing paths through a portion of the
+Internet
+General
+
+  • Access
+  • Activism
+  • Censorship
+  • Data activism
+  • Democracy
+  • Digital divide
+  • Digital rights
+  • Freedom
+  • Freedom of information
+  • Internet phenomena
+  • Net neutrality
+  • Privacy
+  • Right to Internet access
+  • Slacktivism
+  • Sociology
+  • Usage
+  • Vigilantism
+  • Virtual community
+  • Virtual volunteering
+
+Governance
+
+  • IGF
+  • NRO
+  • IANA
+  • ICANN
+  • IETF
+  • ISOC
+
+Information infrastructure
+
+  • Domain Name System
+  • Hypertext Transfer Protocol
+  • Internet exchange point
+  • Internet protocol suite
+      □ Internet Protocol
+      □ Transmission Control Protocol
+  • Internet service provider
+  • IP address
+  • Internet Message Access Protocol
+  • Simple Mail Transfer Protocol
+
+Services
+
+  • Blogs
+      □ Microblogging
+  • Email
+  • Fax
+  • File sharing
+  • File transfer
+  • Games
+  • Instant messaging
+  • Podcasts
+  • Shopping
+  • Television
+  • Voice over IP
+  • World Wide Web
+      □ search
+
+History
+
+  • History of the Internet
+  • Oldest domain names
+  • Pioneers
+  • Protocol Wars
+
+Guides
+
+  • ● Index
+  • Outline
+
+icon Internet portal
+  • v
+  • t
+  • e
+
+Part of a series on
+                     Geography
+[175px-Theatrum_Orbis_Te]
+
+
+  • Portal
+  • Outline
+
+History of geography
+
+  • Graeco-Roman
+  • Chinese
+  • Islamic
+  • Age of Discovery
+  • History of cartography
+  • Historical geography
+  • Environmental determinism
+  • Regional geography
+  • Quantitative revolution
+  • Critical geography
+
+Human geography
+Fields
+
+  • Behavioral
+  • Cognitive
+  • Critical
+  • Cultural
+      □ Animal
+      □ Children's
+      □ Economic
+          ☆ Agricultural
+          ☆ Cyber
+          ☆ Development
+          ☆ Financial
+          ☆ Histo-economic
+          ☆ Labor
+          ☆ Marketing
+          ☆ Retail
+          ☆ Theoretical economic
+          ☆ Transport
+      □ Language
+          ☆ Linguistics
+          ☆ Music
+          ☆ Vernacular
+      □ Moral
+      □ Psychological
+          ☆ Emotional
+          ☆ Neo
+      □ Sexuality
+      □ Religion
+  • Food
+  • Health
+  • Historical
+      □ Palaeo
+  • Imagined
+  • Internet
+  • Political
+      □ Critical geopolitics
+      □ Electoral
+      □ Geopolitics
+          ☆ Strategic
+      □ Military
+  • Population
+      □ Settlement
+          ☆ Regional
+          ☆ Urban
+              ○ Music
+              ○ Transport
+  • Social
+  • Tourism
+  • Tropical
+
+Physical geography
+Fields
+
+  • Biogeography
+      □ Ecology
+      □ Phytogeography
+      □ Zoogeography
+  • Climatology / Paleoclimatology / Palaeogeography
+  • Coastal geography/ Oceanography
+  • Earth science
+  • Geology
+  • Geomorphology
+  • Glaciology
+  • Hydrology / Hydrography
+  • Landscape ecology
+  • Limnology
+  • Pedology
+  • Quaternary science
+
+Technical geography
+Fields
+
+  • Geodesign
+  • Geodesy
+  • Geoinformatics
+  • Geographic information science
+  • Geomatics
+  • Statistical geography
+  • Spatial analysis
+
+Integrated geography
+Fields
+
+  • Environmental social science
+  • Environmental studies
+  • Landscape architecture
+  • Landscape ecology
+
+Methods
+
+Quantitative
+
+  • Cartography
+      □ Computer cartography
+      □ Web mapping
+  • Geochronology
+  • Geographic information system
+      □ Distributed GIS
+      □ Internet GIS
+      □ Web GIS
+  • Geologic modelling
+  • Geomathematics
+  • Geostatistics
+  • Geovisualization
+  • Global Positioning System
+  • Hydrography
+  • Map algebra
+  • Participant observation
+  • Photogrammetry
+  • Remote Sensing
+  • Statistical survey
+  • Surveying
+  • Land change modeling
+
+Qualitative
+
+  • Ethnography
+  • Geopoetics
+  • Interview (research)
+  • Survey (human research)
+
+Theoretical Approaches
+
+  • Behavioral
+  • Critical
+  • Feminist
+  • Marxist
+  • Non-representational theory
+  • Modernism
+      □ Structuralism
+      □ Semiotics
+  • Postmodernism
+      □ Post-structuralism
+      □ Deconstruction
+
+  • Societies
+  • Index
+  • Geographers
+
+  • v
+  • t
+  • e
+
+Internet geography, also called cybergeography, is a subdiscipline of geography
+that studies the spatial organization of the Internet from social, economic,
+cultural, and technological perspectives.^[1]^[2] The core assumption of
+Internet geography is that the location of servers, websites, data, services,
+and infrastructure is key to understand the development and the dynamics of the
+Internet. Among the topics covered by this discipline are information geography
+and digital divides.^[3]
+
+References
+
+ 1. ↑ Green, Emma (2013-09-09). "Mapping the 'Geography' of the Internet". The
+    Atlantic. Retrieved 2015-09-15.
+ 2. ↑ Warf, Barney (2012-08-01). Global Geographies of the Internet. Springer
+    Science & Business Media. ISBN 9789400712454.
+ 3. ↑ Graham, Mark; De Sabbata, Stefano; Zook, Matthew A. (2015-06-01).
+    "Towards a study of information geographies: (im)mutable augmentations and
+    a mapping of the geographies of information". Geo: Geography and
+    Environment. 2 (1): 88–105. Bibcode:2015GeoGE...2...88G. doi:10.1002/geo2.8
+    . hdl:2381/40536. ISSN 2054-4049.
+
+External links
+
+  • Information Geographies Archived 2020-08-12 at the Wayback Machine at the
+    Oxford Internet Institute
+
+                           Links to related articles
+
+                       • v
+                       • t
+                       • e
+
+Sub-fields of and approaches to human geography
+              • Behavioral
+              • Cognitive
+              • Critical
+              • Cultural
+                  □ Animal
+                  □ Children's
+                  □ Economic
+                      ☆ Agricultural
+                      ☆ Cyber
+                      ☆ Development
+                      ☆ Financial
+                      ☆ Histo-economic
+                      ☆ Labor
+                      ☆ Marketing
+                      ☆ Retail
+                      ☆ Theoretical economic
+                      ☆ Transport
+                  □ Language
+                      ☆ Linguistics
+                      ☆ Music
+                      ☆ Vernacular
+                  □ Moral
+                  □ Psychological
+                      ☆ Emotional
+Sub-fields            ☆ Neo
+                  □ Sexuality
+                  □ Religion
+              • Food
+              • Health
+              • Historical
+                  □ Palaeo
+              • Imagined
+              • Internet
+              • Political
+                  □ Critical geopolitics
+                  □ Electoral
+                  □ Geopolitics
+                      ☆ Strategic
+                  □ Military
+              • Population
+                  □ Settlement
+                      ☆ Regional
+                      ☆ Urban
+                          ○ Music
+                          ○ Transport
+              • Social
+              • Tourism
+              • Tropical
+
+              • Critical
+              • Culture theory
+              • Feminist
+              • Marxist
+              • Modernism
+                  □ Structuralism
+                  □ Semiotics
+Approaches    • Non-representational theory
+              • Postmodernism
+                  □ Post-structuralism
+                  □ Deconstruction
+              • Scientific method
+              • Time
+              • Universalism
+
+  • ● Category
+
+                                       • v
+                                       • t
+                                       • e
+
+                               Geography topics
+  • Glossary
+  • History
+  • Philosophy
+  • Index
+  • Outline
+
+                                • Behavioral
+                                • Cognitive
+                                • Critical
+                                • Cultural
+                                    □ Animal
+                                    □ Children's
+                                    □ Economic
+                                        ☆ Agricultural
+                                        ☆ Cyber
+                                        ☆ Development
+                                        ☆ Financial
+                                        ☆ Histo-economic
+                                        ☆ Labor
+                                        ☆ Marketing
+                                        ☆ Retail
+                                        ☆ Theoretical economic
+                                        ☆ Transport
+                                    □ Language
+                                        ☆ Linguistics
+                                        ☆ Music
+                                        ☆ Vernacular
+                                    □ Moral
+                                    □ Psychological
+                                        ☆ Emotional
+                     Human              ☆ Neo
+                                    □ Sexuality
+                                    □ Religion
+                                • Food
+                                • Health
+                                • Historical
+                                    □ Palaeo
+                                • Imagined
+                                • Internet
+                                • Political
+                                    □ Critical geopolitics
+                                    □ Electoral
+                                    □ Geopolitics
+                                        ☆ Strategic
+                                    □ Military
+                                • Population
+     Branches                       □ Settlement
+                                        ☆ Regional
+                                        ☆ Urban
+                                            ○ Music
+                                            ○ Transport
+                                • Social
+                                • Tourism
+                                • Tropical
+
+                                • Biogeography
+                                    □ Ecology
+                                    □ Phytogeography
+                                    □ Zoogeography
+                                • Coastal geography / Oceanography
+                                • Earth science
+                                    □ Atmospheric science / Meteorology
+                                    □ Environmental science
+                                    □ Climatology / Paleoclimatology /
+                    Physical          Palaeogeography
+                                    □ Geobiology
+                                    □ Geophysics / Geodesy
+                                • Earth system science
+                                • Geomorphology / Geology
+                                • Glaciology
+                                • Hydrology / Limnology
+                                • Soil science (Pedology/Edaphology)
+                                • Quaternary science
+
+                                • Geodesign
+                                • Geodesy
+                                • Geoinformatics
+                   Technical    • Geographic information science
+                                • Geomatics
+                                • Statistical geography
+                                • Spatial analysis
+
+                                • Environmental social science
+                                • Environmental studies
+                   Integrated   • Landscape architecture
+                                • Landscape ecology
+                                • Time geography
+
+                                  • Cartography
+                                      □ Computer cartography
+                                      □ Web mapping
+                                  • Geochronology
+                                  • Geographic information system
+                                      □ Distributed GIS
+                                      □ Internet GIS
+                                      □ Web GIS
+                                  • Geologic modelling
+                                  • Geomathematics
+                   Quantitative   • Geostatistics
+                                  • Geovisualization
+  Techniques and                  • Global Positioning System
+      tools                       • Hydrography
+                                  • Map algebra
+                                  • Participant observation
+                                  • Photogrammetry
+                                  • Remote sensing
+                                  • Statistical survey
+                                  • Surveying
+                                  • Land change modeling
+
+                                  • Ethnography
+                   Qualitative    • Geopoetics
+                                  • Interview (research)
+                                  • Survey (human research)
+
+                     • Geographic data and information organizations
+                     • Geographical societies
+   Institutions      • Geoscience societies
+                     • National mapping agency
+
+                     • Geography education
+                         □ Geo-literacy
+                         □ Geographers on Film
+    Education            □ International Geography Olympiad
+                         □ National Council for Geographic Education
+                         □ Spatial citizenship
+
+  • ● Category
+  • ● Portal
+  • ● Commons
+  • ● WikiProject
+
+
+Stub    This article about cultural geography is a stub. You can help Wikipedia
+icon    by expanding it.
+
+  • v
+  • t
+  • e
+
+Stub     This Internet-related article is a stub. You can help Wikipedia by
+icon     expanding it.
+
+  • v
+  • t
+  • e

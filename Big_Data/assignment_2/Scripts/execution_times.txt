@@ -1,0 +1,7 @@
+
+Number of rows: 39345522
+Number of columns: 3
+Columns: ['Agency', 'Complaint Type', 'Borough']
+Execution time for Complaint Type query: 41.72 seconds
+Execution time for Borough complaints query: 97.21 seconds
+Execution time for Agency complaints query: 31.60 seconds

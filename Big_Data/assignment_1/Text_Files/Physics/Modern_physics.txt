@@ -1,0 +1,313 @@
+Physics developed since 1901
+
+         It has been suggested that this article be merged with Classical
+[50px-M] physics to Classical and modern physics. (Discuss) Proposed since
+         February 2025.
+
+[430px-Modernphysicsfields]
+Classical physics is usually concerned with everyday conditions: speeds are
+much lower than the speed of light, sizes are much greater than that of atoms,
+yet very small in astronomical terms. Modern physics, however, is concerned
+with high velocities, small distances, and very large energies.
+
+Part of a series on
+             Physics
+[100px-Stylise]
+  • Index
+  • Outline
+  • Glossary
+
+  • History (timeline)
+
+Branches
+
+  • Acoustics
+  • Astrophysics
+  • Atomic physics
+  • Biophysics
+  • Classical physics
+  • Electromagnetism
+  • Geophysics
+  • Mechanics
+  • Modern physics
+  • Nuclear physics
+  • Optics
+  • Thermodynamics
+
+Research
+
+  • Physicist (list)
+  • List of physics awards
+  • List TESTWESRW3Rof journals]]
+  • List of unsolved problems
+
+  • icon Physics portal
+  • ● Category
+
+  • v
+  • t
+  • e
+
+Modern physics is a branch of physics that developed in the early 20th century
+and onward or branches greatly influenced by early 20th century physics.
+Notable branches of modern physics include quantum mechanics, special
+relativity, and general relativity.
+
+Classical physics is typically concerned with everyday conditions: speeds are
+much lower than the speed of light, sizes are much greater than that of atoms,
+and energies are relatively small. Modern physics, however, is concerned with
+more extreme conditions, such as high velocities that are comparable to the
+speed of light (special relativity), small distances comparable to the atomic
+radius (quantum mechanics), and very high energies (relativity). In general,
+quantum and relativistic effects are believed to exist across all scales,
+although these effects may be very small at human scale. While quantum
+mechanics is compatible with special relativity (See: Relativistic quantum
+mechanics), one of the unsolved problems in physics is the unification of
+quantum mechanics and general relativity, which the Standard Model of particle
+physics currently cannot account for.
+
+Modern physics is an effort to understand the underlying processes of the
+interactions of matter using the tools of science and engineering. In a literal
+sense, the term modern physics means up-to-date physics. In this sense, a
+significant portion of so-called classical physics is modern.^[1] However,
+since roughly 1890, new discoveries have caused significant paradigm shifts:^[1
+] especially the advent of quantum mechanics (QM) and relativity (ER). Physics
+that incorporates elements of either QM or ER (or both) is said to be modern
+physics. It is in this latter sense that the term is generally used.^[1]
+
+Modern physics is often encountered when dealing with extreme conditions.
+Quantum mechanical effects tend to appear when dealing with "lows" (low
+temperatures, small distances), while relativistic effects tend to appear when
+dealing with "highs" (high velocities, large distances), the "middles" being
+classical behavior. For example, when analyzing the behavior of a gas at room
+temperature, most phenomena will involve the (classical) Maxwell–Boltzmann
+distribution. However, near absolute zero, the Maxwell–Boltzmann distribution
+fails to account for the observed behavior of the gas, and the (modern)
+Fermi–Dirac or Bose–Einstein distributions have to be used instead.
+
+[250px-Albert_Eins]
+[151px-Max_Planck_193]
+German physicists Albert Einstein (1879–1955), founder of the theory of
+relativity, and Max Planck (1858–1947), proposed quantum explanations for
+blackbody radiation
+
+Very often, it is possible to find – or "retrieve" – the classical behavior
+from the modern description by analyzing the modern description at low speeds
+and large distances (by taking a limit, or by making an approximation). When
+doing so, the result is called the classical limit.
+
+[250px-Black_body]
+Classical physics (Rayleigh–Jeans law, black line) failed to explain black-body
+radiation – the so-called ultraviolet catastrophe. The quantum description (
+Planck's law, colored lines) is said to be modern physics.
+
+Hallmarks
+
+Main articles: History of quantum mechanics and History of relativity
+
+These are generally considered to be the topics regarded as the "core" of the
+foundation of modern physics:
+
+  • Atomic theory and the evolution of the atomic model in general
+  • Black-body radiation
+  • Oil drop experiment
+  • Franck–Hertz experiment
+  • Geiger–Marsden experiment (Rutherford's experiment)
+  • Gravitational lensing
+  • Michelson–Morley experiment
+  • Photoelectric effect
+  • Quantum thermodynamics
+  • Radioactive phenomena in general
+  • Perihelion precession of Mercury
+  • Stern–Gerlach experiment
+  • Wave–particle duality
+  • Solid-state physics
+
+See also
+
+  • iconPhysics portal
+
+  • History of physics
+  • Classical physics
+  • Distinction between classical and modern physics
+  • Quantum mechanics
+  • Theory of relativity
+  • Quantum field theory
+  • Unified field theory
+  • Nuclear Fission
+
+References
+
+  • A. Beiser (2003). Concepts of Modern Physics (6th ed.). McGraw-Hill. ISBN 
+    978-0-07-123460-3.
+  • P. Tipler, R. Llewellyn (2002). Modern Physics (4th ed.). W. H. Freeman.
+    ISBN 978-0-7167-4345-3.
+
+Notes
+
+ 1. 1 2 3 F. K. Richtmyer; E. H. Kennard; T. Lauristen (1955). Introduction to
+    Modern Physics (5th ed.). New York: McGraw-Hill. p. 1. LCCN 55006862.
+
+External links
+
+                             • v
+                             • t
+                             • e
+
+                 Major branches of physics
+                    • Pure
+    Divisions       • Applied
+                        □ Engineering
+
+                    • Experimental
+   Approaches       • Theoretical
+                        □ Computational
+
+                    • Classical mechanics
+                        □ Newtonian
+                        □ Analytical
+                        □ Celestial
+                        □ Continuum
+                    • Acoustics
+    Classical       • Classical electromagnetism
+                    • Classical optics
+                        □ Ray
+                        □ Wave
+                    • Thermodynamics
+                        □ Statistical
+                        □ Non-equilibrium
+
+                    • Relativistic mechanics
+                        □ Special
+                        □ General
+                    • Nuclear physics
+                    • Particle physics
+                    • Quantum mechanics
+     Modern         • Atomic, molecular, and optical physics
+                        □ Atomic
+                        □ Molecular
+                        □ Modern optics
+                    • Condensed matter physics
+                        □ Solid-state physics
+                        □ Crystallography
+
+                    • Astrophysics
+                    • Atmospheric physics
+                    • Biophysics
+                    • Chemical physics
+                    • Geophysics
+Interdisciplinary   • Materials science
+                    • Mathematical physics
+                    • Medical physics
+                    • Ocean physics
+                    • Quantum information science
+
+                    • History of physics
+                    • Nobel Prize in Physics
+     Related        • Philosophy of physics
+                    • Physics education
+                        □ research
+                    • Timeline of physics discoveries
+
+                               • v
+                               • t
+                               • e
+
+                 History of physics (timeline)
+                          • Astronomy
+                              □ timeline
+                          • Electromagnetism
+                              □ timeline
+                              □ Electrical engineering
+                              □ Maxwell's equations
+                          • Fluid mechanics
+                              □ timeline
+                              □ Aerodynamics
+                          • Field theory
+                          • Gravitational theory
+                              □ timeline
+   Classical physics      • Material science
+                              □ timeline
+                              □ Metamaterials
+                          • Mechanics
+                              □ timeline
+                              □ Variational principles
+                          • Optics
+                              □ Spectroscopy
+                          • Thermodynamics
+                              □ timeline
+                              □ Energy
+                              □ Entropy
+                              □ Perpetual motion
+
+                          • Computational physics
+                              □ timeline
+                          • Condensed matter
+                              □ timeline
+                              □ Superconductivity
+                          • Cosmology
+                              □ timeline
+                              □ Big Bang theory
+                          • General relativity
+                              □ tests
+                          • Geophysics
+                          • Nuclear physics
+                              □ Fission
+    Modern physics            □ Fusion
+                              □ Power
+                              □ Weapons
+                          • Quantum mechanics
+                              □ timeline
+                              □ Atoms
+                              □ Molecules
+                              □ Quantum field theory
+                          • Subatomic physics
+                              □ timeline
+                          • Special relativity
+                              □ timeline
+                              □ Lorentz transformations
+                              □ tests
+
+                          • Quantum information
+                              □ timeline
+  Recent developments     • Loop quantum gravity
+                          • Nanotechnology
+                          • String theory
+
+                          • Cosmic microwave background
+                          • Graphene
+                          • Gravitational waves
+                          • Subatomic particles
+On specific discoveries       □ timeline
+                              □ Higgs boson
+                              □ Neutron
+                          • Speed of light
+
+                          • Copernican Revolution
+                          • Golden age of cosmology
+                          • Golden age of physics
+      By periods          • Medieval Islamic world
+                              □ Astronomy
+                          • Noisy intermediate-scale quantum era
+
+                          • Harvard Computers
+                          • The Martians
+       By groups          • Oxford Calculators
+                          • Via Panisperna boys
+                          • Women in physics
+
+                          • Bohr–Einstein
+                          • Chandrasekhar–Eddington
+                          • Galileo affair
+                          • Leibniz–Newton
+                          • Joule–von Mayer
+  Scientific disputes     • Shapley–Curtis
+                          • Relativity priority
+                              □ Special relativity
+                              □ General relativity
+                          • Transfermium Wars
+
+  • ● Category
+
+Authority control databases: National Edit this at Wikidata   • Germany
+                                                              • Czech Republic

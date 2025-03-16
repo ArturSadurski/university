@@ -1,0 +1,461 @@
+Technique in neural networks for learning joint representations of text and
+images
+
+                     CLIP
+[220px-Contrastive_Language-Ima]
+ Developer(s)   OpenAI
+Initial release January 5, 2021
+  Repository    https://github.com/OpenAI/CLIP
+  Written in    Python
+    License     MIT License
+    Website     openai.com/research/clip
+
+Contrastive Language-Image Pre-training (CLIP) is a technique for training a
+pair of neural network models, one for image understanding and one for text
+understanding, using a contrastive objective.^[1] This method has enabled broad
+applications across multiple domains, including cross-modal retrieval,^[2]
+text-to-image generation,^[3] aesthetic ranking,^[4] and image captioning.^[5]
+
+Publication history
+
+It was first announced on OpenAI's official blog on January 5, 2021,^[6] with a
+report served directly through OpenAI's CDN,^[7] and a GitHub repository.^[8]
+The paper was delivered on arXiv on 26 February 2021.^[9]
+
+The report (with some details removed, and its appendix cut out to a
+"Supplementary PDF") was published in Proceedings of the 38th International
+Conference on Machine Learning, PMLR,^[1] which had a submission deadline of
+February 2021.^[10]
+
+Concurrent to CLIP was ALIGN, published at the same conference. It was done by
+researchers at Google, with essentially the same algorithm.^[11]
+
+A notable variant was Sigmoid CLIP (SigLIP), with first version published in
+2023^[12] and a second version in 2025.^[13]
+
+Algorithm
+
+[316px-Contrastive_Language-Image_Pretraining]
+Architecture overview of CLIP.
+
+The CLIP method trains a pair of models contrastively.^[1] One model takes in a
+piece of text as input and outputs a single vector representing its semantic
+content. The other model takes in an image and similarly outputs a single
+vector representing its visual content. The models are trained so that the
+vectors corresponding to semantically similar text-image pairs are close
+together in the shared vector space, while those corresponding to dissimilar
+pairs are far apart.
+
+To train a pair of CLIP models, one would start by preparing a large dataset of
+image-caption pairs. During training, the models are presented with batches of 
+N {\displaystyle N} {\displaystyle N} image-caption pairs. Let the outputs from
+the text and image models be respectively v 1 , . . . , v N , w 1 , . . . , w N
+{\displaystyle v_{1},...,v_{N},w_{1},...,w_{N}} {\displaystyle v_{1},...,v_
+{N},w_{1},...,w_{N}}. Two vectors are considered "similar" if their dot product
+is large.
+
+The loss incurred on this batch is the multi-class N-pair loss,^[14] which is a
+symmetric cross-entropy loss over similarity scores: − 1 N ∑ i ln ⁡ e v i ⋅ w i
+/ T ∑ j e v i ⋅ w j / T − 1 N ∑ j ln ⁡ e v j ⋅ w j / T ∑ i e v i ⋅ w j / T {\
+displaystyle -{\frac {1}{N}}\sum _{i}\ln {\frac {e^{v_{i}\cdot w_{i}/T}}{\sum _
+{j}e^{v_{i}\cdot w_{j}/T}}}-{\frac {1}{N}}\sum _{j}\ln {\frac {e^{v_{j}\cdot w_
+{j}/T}}{\sum _{i}e^{v_{i}\cdot w_{j}/T}}}} {\displaystyle -{\frac {1}{N}}\sum _
+{i}\ln {\frac {e^{v_{i}\cdot w_{i}/T}}{\sum _{j}e^{v_{i}\cdot w_{j}/T}}}-{\frac
+{1}{N}}\sum _{j}\ln {\frac {e^{v_{j}\cdot w_{j}/T}}{\sum _{i}e^{v_{i}\cdot w_
+{j}/T}}}}In essence, this loss function encourages the dot product between
+matching image and text vectors ( v i ⋅ w i {\displaystyle v_{i}\cdot w_{i}} {\
+displaystyle v_{i}\cdot w_{i}}) to be high, while discouraging high dot
+products between non-matching pairs. The parameter T > 0 {\displaystyle T>0} {\
+displaystyle T>0} is the temperature, which is parameterized in the original
+CLIP model as T = e − τ {\displaystyle T=e^{-\tau }} {\displaystyle T=e^{-\tau
+}} where τ ∈ R {\displaystyle \tau \in \mathbb {R} } {\displaystyle \tau \in \
+mathbb {R} } is a learned parameter.
+
+Other loss functions are possible. For example, Sigmoid CLIP (SigLIP)^[12]
+proposes the following loss function: L = 1 N ∑ i , j ∈ 1 : N f ( ( 2 δ i , j −
+1 ) ( e τ w i ⋅ v j + b ) ) {\displaystyle L={\frac {1}{N}}\sum _{i,j\in 1:N}f
+((2\delta _{i,j}-1)(e^{\tau }w_{i}\cdot v_{j}+b))} {\displaystyle L={\frac {1}
+{N}}\sum _{i,j\in 1:N}f((2\delta _{i,j}-1)(e^{\tau }w_{i}\cdot v_{j}+b))}where 
+f ( x ) = ln ⁡ ( 1 + e − x ) {\displaystyle f(x)=\ln(1+e^{-x})} {\displaystyle
+f(x)=\ln(1+e^{-x})} is the negative log sigmoid loss, and the Dirac delta
+symbol δ i , j {\displaystyle \delta _{i,j}} {\displaystyle \delta _{i,j}} is 1
+if i = j {\displaystyle i=j} {\displaystyle i=j} else 0.
+
+CLIP models
+
+While the original model was developed by OpenAI, subsequent models have been
+trained by other organizations as well.
+
+Image model
+
+[220px-Vision_Transformer]
+Vision Transformer architecture. The Rep[<CLS>] output vector is used as the
+image encoding for CLIP.
+
+The image encoding models used in CLIP are typically vision transformers (ViT).
+The naming convention for these models often reflects the specific ViT
+architecture used. For instance, "ViT-L/14" means a "vision transformer large"
+(compared to other models in the same series) with a patch size of 14, meaning
+that the image is divided into 14-by-14 pixel patches before being processed by
+the transformer. The size indicator ranges from B, L, H, G (base, large, huge,
+giant), in that order.
+
+Other than ViT, the image model is typically a convolutional neural network,
+such as ResNet (in the original series by OpenAI), or ConvNeXt^[15] (in the
+OpenCLIP model series by LAION^[16]).
+
+Since the output vectors of the image model and the text model must have
+exactly the same length, both the image model and the text model have
+fixed-length vector outputs, which in the original report is called "embedding
+dimension".^[note 1]
+
+For example, in the original OpenAI model, the ResNet models have embedding
+dimensions ranging from 512 to 1024,^[9]^: Table 19  and for the ViTs, from 512
+to 768.^[9]^: Table 20 
+
+                    Models released by OpenAI^[17]^[note 2]
+ Model                Parameters   Parameters Parameters Embedding Size Release
+  name   Resolution   (total, in    (vision)    (text)   dimension (MB)  date
+                      millions)
+RN50     224        102            38.3       63.1       1024      244  2021-01
+RN101    224        120            56.3       63.1       512       278  2021-03
+RN50x4   288        178            87.1       90.7       640       402  2021-03
+RN50x16  384        291            167.3      123.0      768       630  2021-07
+RN50x64  448        623            420.4      201.8      1024      1260 2022-01
+ViT-B/32 224        151            87.8       63.1       512       338  2021-01
+ViT-B/16 224        150            86.2       63.1       512       335  2021-07
+ViT-L/14 224        428            304.0      123.0      768       890  2022-01
+ViT-L/   336        428            304.3      123.0      768       891  2022-04
+14@336px
+
+Its implementation of ViT was the same as the original one,^[18] with one
+modification: after position embeddings are added to the initial patch
+embeddings, there is a LayerNorm.
+
+Its implementation of ResNet was the same as the original one,^[19] with 3
+modifications:
+
+  • In the start of the CNN (the "stem"), they used three stacked 3x3
+    convolutions instead of a single 7x7 convolution, as suggested by.^[20]
+  • There is an average pooling of stride 2 at the start of each downsampling
+    convolutional layer (they called it rect-2 blur pooling according to the
+    terminology of ^[21]). This has the effect of blurring images before
+    downsampling, for antialiasing.^[22]
+  • The final convolutional layer is followed by a multiheaded attention
+    pooling.
+
+ALIGN^[11] used EfficientNet^[23] of various sizes, a kind of convolutional
+neural network.
+
+Text model
+
+[220px-Transformer]
+One decoder layer. The Transformer used in the CLIP text encoder was made by
+removing the cross-attention module, then stacking the resulting module 12
+times.
+
+The text encoding models used in CLIP are typically Transformers.
+
+In the original OpenAI report, they reported using a Transformer
+(63M-parameter, 12-layer, 512-wide, 8 attention heads) with lower-cased byte
+pair encoding (BPE) with 49152 vocabulary size. Context length was capped at 76
+for efficiency. Like GPT, it was decoder-only, with only causally-masked
+self-attention.^[1]^: 5  Its architecture is the same as GPT-2.^[24]
+
+Like BERT, the text sequence is bracketed by two special tokens [SOS] and [EOS]
+("start of sequence" and "end of sequence"). Take the activations of the
+highest layer of the transformer on the [EOS], apply LayerNorm, then a final
+linear map. This is the text encoding of the input sequence. The final linear
+map has output dimension equal to the embedding dimension of whatever image
+encoder it is paired with. These models all had context length 77 and
+vocabulary size 49408.
+
+ALIGN^[11] used BERT of various sizes.
+
+Dataset
+
+WebImageText
+
+The CLIP models released by OpenAI were trained on a dataset called
+"WebImageText" (WIT) containing 400 million pairs of images and their
+corresponding captions scraped from the internet. The total number of words in
+this dataset is similar in scale to the WebText dataset used for training GPT-2
+, which contains about 40 gigabytes of text data.^[1]
+
+The dataset contains 500,000 text-queries, with up to 20,000 (image, text)
+pairs per query. The text-queries were generated by starting with all words
+occurring at least 100 times in English Wikipedia, then extended by bigrams
+with high mutual information, names of all Wikipedia articles above a certain
+search volume, and WordNet synsets.
+
+The dataset is private and has not been released to the public, and there is no
+further information on it.^[note 3]
+
+Data preprocessing
+
+For the CLIP image models, the input images are preprocessed by first dividing
+each of the R, G, B values of an image by the maximum possible value, so that
+these values fall between 0 and 1, then subtracting by [0.48145466, 0.4578275,
+0.40821073], and dividing by [0.26862954, 0.26130258, 0.27577711].
+
+The rationale was that these are the mean and standard deviations of the images
+in the WebImageText dataset, so this preprocessing step roughly whitens the
+image tensor. These numbers slightly differ from the standard preprocessing for
+ImageNet, which uses [0.485, 0.456, 0.406] and [0.229, 0.224, 0.225].^[26]
+
+If the input image does not have the same resolution as the native resolution
+(224x224 for all except ViT-L/14@336px, which has 336x336 resolution), then the
+input image is scaled down by bicubic interpolation, so that its shorter side
+is the same as the native resolution, then the central square of the image is
+cropped out.
+
+Others
+
+ALIGN^[11] used over one billion image-text pairs, obtained by extracting
+images and their alt-tags from online crawling. The method was described as
+similar to how the Conceptual Captions dataset^[27] was constructed, but
+instead of complex filtering, they only applied a frequency-based filtering.
+
+Later models trained by other organizations had published datasets. For
+example, LAION trained OpenCLIP with published datasets LAION-400M, LAION-2B,
+and DataComp-1B.^[28]^[16]
+
+Training
+
+In the original OpenAI CLIP report, they reported training 5 ResNet and 3 ViT
+(ViT-B/32, ViT-B/16, ViT-L/14). Each was trained for 32 epochs. The largest
+ResNet model took 18 days to train on 592 V100 GPUs. The largest ViT model took
+12 days on 256 V100 GPUs.
+
+All ViT models were trained on 224x224 image resolution. The ViT-L/14 was then
+boosted to 336x336 resolution by FixRes,^[29] resulting in a model.^[note 4]
+They found this was the best-performing model.^[1]^: Appendix F. Model
+Hyperparameters 
+
+In the OpenCLIP series, the ViT-L/14 model was trained on 384 A100 GPUs on the
+LAION-2B dataset, for 160 epochs for a total of 32B samples seen.^[30]
+
+Applications
+
+Cross-modal retrieval
+
+CLIP's cross-modal retrieval enables the alignment of visual and textual data
+in a shared latent space, allowing users to retrieve images based on text
+descriptions and vice versa, without the need for explicit image annotations.^[
+31] In text-to-image retrieval, users input descriptive text, and CLIP
+retrieves images with matching embeddings. In image-to-text retrieval, images
+are used to find related text content.
+
+CLIP’s ability to connect visual and textual data has found applications in
+multimedia search, content discovery, and recommendation systems.^[32]^[33]
+
+Image classification
+
+CLIP can perform zero-shot image classification tasks. This is achieved by
+prompting the text encoder with class names and selecting the class whose
+embedding is closest to the image embedding. For example, to classify an image,
+they compared the embedding of the image with the embedding of the text "A
+photo of a {class}.", and the {class} that results in the highest dot product
+is outputted.
+
+CLIP for multimodal learning
+
+CLIP has been used as a component in multimodal learning. For example, during
+the training of Google DeepMind's Flamingo (2022),^[34] the authors trained a
+CLIP pair, with BERT as the text encoder and NormalizerFree ResNet F6^[35] as
+the image encoder. The image encoder of the CLIP pair was taken with parameters
+frozen and the text encoder was discarded. The frozen image encoder was then
+combined with a frozen Chinchilla language model, by finetuning with some
+further parameters that connect the two frozen models.
+
+Applications in other domains
+
+CLIP has been used in various domains beyond its original purpose:
+
+  • Image Featurizer: CLIP's image encoder can be adapted as a pre-trained
+    image featurizer. This can then be fed into other AI models.^[1]
+
+  • Text-to-Image Generation: Models like Stable Diffusion use CLIP's text
+    encoder to transform text prompts into embeddings for image generation.^[3]
+    CLIP can also be used as a gradient signal for directly guiding diffusion
+    ("CLIP guidance")^[36]^[37] or other generative art.^[38]
+
+  • Aesthetic Ranking: Fine-tuned CLIP models can be used to rank images by
+    aesthetic quality, aiding in dataset curation.^[39]
+
+  • Image Captioning: CLIP can be used to generate image captions by matching
+    text inputs to image embeddings.^[40]
+
+Notes
+
+ 1. ↑ Similar to the "embedding dimension" of text embedding in Transformer
+    models.
+ 2. ↑
+   
+    !pip install git+https://github.com/openai/CLIP.git
+    !wget https://github.com/openai/CLIP/raw/main/CLIP.png -O CLIP.png
+
+    import torch
+    import clip
+    from PIL import Image
+    import numpy as np
+
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    for m in clip.available_models():
+        model, preprocess = clip.load(m, device=device)
+
+        input_resolution = model.visual.input_resolution
+        context_length = model.context_length
+        vocab_size = model.vocab_size
+
+        print("Model parameters:", f"{np.sum([int(np.prod(p.shape)) for p in model.parameters()]):,}")
+        print("Input resolution:", input_resolution)
+        print("Context length:", context_length)
+        print("Vocab size:", vocab_size)
+
+        n_params_vision = sum(p.numel() for p in model.visual.parameters())
+        n_params_text = sum(p.numel() for p in model.transformer.parameters())
+        image = preprocess(Image.open("CLIP.png")).unsqueeze(0).to(device)
+        image_features = model.encode_image(image)
+        print(f"Model: {m}, #vision parameters: {n_params_vision:,}, #text parameters: {n_params_text:,}, embedding dimension: {image_features.shape[1]}")
+        del model, preprocess, image, image_features
+
+ 3. ↑ It is not the same as the Wikipedia-based Image Text dataset, also called
+    "WIT".^[25]
+ 4. ↑ They referred to this as both ViT-L/14-336px and ViT-L/14@336px,
+    inconsistently throughout the report.
+
+References
+
+ 1. 1 2 3 4 5 6 7 Radford, Alec; Kim, Jong Wook; Hallacy, Chris; Ramesh,
+    Aditya; Goh, Gabriel; Agarwal, Sandhini; Sastry, Girish; Askell, Amanda;
+    Mishkin, Pamela; Clark, Jack; Krueger, Gretchen; Sutskever, Ilya
+    (2021-07-01). Learning Transferable Visual Models From Natural Language
+    Supervision. Proceedings of the 38th International Conference on Machine
+    Learning. PMLR. pp. 8748–8763.
+ 2. ↑ Hendriksen, Mariya; Bleeker, Maurits; Vakulenko, Svitlana; van Noord,
+    Nanne; Kuiper, Ernst; de Rijke, Maarten (2021). "Extending CLIP for
+    Category-to-image Retrieval in E-commerce". arXiv:2112.11294 [cs.CV].
+ 3. 1 2 "Stable Diffusion Repository on GitHub". CompVis - Machine Vision and
+    Learning Research Group, LMU Munich. 17 September 2022. Archived from the
+    original on January 18, 2023. Retrieved 17 September 2022.
+ 4. ↑ LAION-AI/aesthetic-predictor, LAION AI, 2024-09-06, retrieved 2024-09-08
+ 5. ↑ Mokady, Ron; Hertz, Amir; Bermano, Amit H. (2021). "ClipCap: CLIP Prefix
+    for Image Captioning". arXiv:2111.09734 [cs.CV].
+ 6. ↑ "Clip: Connecting text and images". OpenAI. January 5, 2021.
+ 7. ↑ https://web.archive.org/web/20210105204011/https://cdn.openai.com/papers/
+    Learning_Transferable_Visual_Models_From_Natural_Language.pdf
+ 8. ↑ "initial commit · openai/CLIP@b1c4b6b". GitHub. 5 January 2021. Archived
+    from the original on 9 Feb 2021. Retrieved 2024-09-06.
+ 9. 1 2 3 Radford, Alec; Kim, Jong Wook; Hallacy, Chris; Ramesh, Aditya; Goh,
+    Gabriel; Agarwal, Sandhini; Sastry, Girish; Askell, Amanda; Mishkin,
+    Pamela; Clark, Jack; Krueger, Gretchen; Sutskever, Ilya (2021). "Learning
+    Transferable Visual Models From Natural Language Supervision". arXiv:
+    2103.00020 [cs.CV].
+10. ↑ "ICML 2021 Call for Papers". icml.cc. Retrieved 2024-09-06.
+11. 1 2 3 4 Jia, Chao; Yang, Yinfei; Xia, Ye; Chen, Yi-Ting; Parekh, Zarana;
+    Pham, Hieu; Le, Quoc; Sung, Yun-Hsuan; Li, Zhen; Duerig, Tom (2021-07-01).
+    "Scaling Up Visual and Vision-Language Representation Learning With Noisy
+    Text Supervision". Proceedings of the 38th International Conference on
+    Machine Learning. PMLR: 4904–4916.
+12. 1 2 Zhai, Xiaohua; Mustafa, Basil; Kolesnikov, Alexander; Beyer, Lucas
+    (2023). Sigmoid Loss for Language Image Pre-Training. IEEE/CVF
+    International Conference on Computer Vision (ICCV). pp. 11975–11986.
+13. ↑ Tschannen, Michael; Gritsenko, Alexey; Wang, Xiao; Naeem, Muhammad
+    Ferjad; Alabdulmohsin, Ibrahim; Parthasarathy, Nikhil; Evans, Talfan;
+    Beyer, Lucas; Xia, Ye (2025-02-20), SigLIP 2: Multilingual Vision-Language
+    Encoders with Improved Semantic Understanding, Localization, and Dense
+    Features, arXiv, doi:10.48550/arXiv.2502.14786, arXiv:2502.14786
+14. ↑ Sohn, Kihyuk (2016). "Improved Deep Metric Learning with Multi-class
+    N-pair Loss Objective". Advances in Neural Information Processing Systems.
+    29. Curran Associates, Inc.
+15. ↑ Liu, Zhuang; Mao, Hanzi; Wu, Chao-Yuan; Feichtenhofer, Christoph;
+    Darrell, Trevor; Xie, Saining (2022). A ConvNet for the 2020s. IEEE/CVF
+    Conference on Computer Vision and Pattern Recognition (CVPR). pp. 11976–
+    11986.
+16. 1 2 Ilharco, Gabriel; Wortsman, Mitchell; Wightman, Ross; Gordon, Cade;
+    Carlini, Nicholas; Taori, Rohan; Dave, Achal; Shankar, Vaishaal; Namkoong,
+    Hongseok (July 2021), OpenCLIP, doi:10.5281/zenodo.5143773, retrieved 
+    2024-09-06
+17. ↑ openai/CLIP, OpenAI, 2024-09-06, retrieved 2024-09-06
+18. ↑ Dosovitskiy, Alexey; Beyer, Lucas; Kolesnikov, Alexander; Weissenborn,
+    Dirk; Zhai, Xiaohua; Unterthiner, Thomas; Dehghani, Mostafa; Minderer,
+    Matthias; Heigold, Georg; Gelly, Sylvain; Uszkoreit, Jakob (2021-06-03).
+    "An Image is Worth 16x16 Words: Transformers for Image Recognition at
+    Scale". arXiv:2010.11929 [cs.CV].
+19. ↑ He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian (10 Dec 2015). Deep
+    Residual Learning for Image Recognition. arXiv:1512.03385.
+20. ↑ He, Tong; Zhang, Zhi; Zhang, Hang; Zhang, Zhongyue; Xie, Junyuan; Li, Mu
+    (2018-12-05). "Bag of Tricks for Image Classification with Convolutional
+    Neural Networks". arXiv:1812.01187 [cs.CV].
+21. ↑ Zhang, Richard (2018-09-27). "Making Convolutional Networks
+    Shift-Invariant Again". {{cite journal}}: Cite journal requires |journal= (
+    help)
+22. ↑ Zhang, Richard (2019-06-08). "Making Convolutional Networks
+    Shift-Invariant Again". arXiv:1904.11486 [cs.CV].
+23. ↑ Tan, Mingxing; Le, Quoc V. (2020-09-11). "EfficientNet: Rethinking Model
+    Scaling for Convolutional Neural Networks". arXiv:1905.11946 [cs.LG].
+24. ↑ Radford, Alec; Wu, Jeff; Child, R.; Luan, D.; Amodei, Dario; Sutskever,
+    I. (2019). "Language Models are Unsupervised Multitask Learners". S2CID 
+    160025533. {{cite journal}}: Cite journal requires |journal= (help)
+25. ↑ Srinivasan, Krishna; Raman, Karthik; Chen, Jiecao; Bendersky, Michael;
+    Najork, Marc (2021-07-11). "WIT: Wikipedia-based Image Text Dataset for
+    Multimodal Multilingual Machine Learning". Proceedings of the 44th
+    International ACM SIGIR Conference on Research and Development in
+    Information Retrieval. pp. 2443–2449. arXiv:2103.01913. doi:10.1145/
+    3404835.3463257. ISBN 978-1-4503-8037-9.
+26. ↑ "std and mean for image normalization different from ImageNet · Issue #20
+    · openai/CLIP". GitHub. Retrieved 2024-09-19.
+27. ↑ Sharma, Piyush; Ding, Nan; Goodman, Sebastian; Soricut, Radu (July 2018).
+    Gurevych, Iryna; Miyao, Yusuke (eds.). "Conceptual Captions: A Cleaned,
+    Hypernymed, Image Alt-text Dataset For Automatic Image Captioning".
+    Proceedings of the 56th Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers). Melbourne, Australia: Association for
+    Computational Linguistics: 2556–2565. doi:10.18653/v1/P18-1238.
+28. ↑ Cherti, Mehdi; Beaumont, Romain; Wightman, Ross; Wortsman, Mitchell;
+    Ilharco, Gabriel; Gordon, Cade; Schuhmann, Christoph; Schmidt, Ludwig;
+    Jitsev, Jenia (June 2023). "Reproducible Scaling Laws for Contrastive
+    Language-Image Learning". 2023 IEEE/CVF Conference on Computer Vision and
+    Pattern Recognition (CVPR). pp. 2818–2829. arXiv:2212.07143. doi:10.1109/
+    CVPR52729.2023.00276. ISBN 979-8-3503-0129-8.
+29. ↑ Touvron, Hugo; Vedaldi, Andrea; Douze, Matthijs; Jegou, Herve (2019).
+    "Fixing the train-test resolution discrepancy". Advances in Neural
+    Information Processing Systems. 32. Curran Associates, Inc.
+30. ↑ "laion/CLIP-ViT-L-14-laion2B-s32B-b82K · Hugging Face". huggingface.co.
+    2023-09-10. Retrieved 2024-09-06.
+31. ↑ Hendriksen, Mariya; Bleeker, Maurits; Vakulenko, Svitlana; van Noord,
+    Nanne; Kuiper, Ernst; de Rijke, Maarten (2021). "Extending CLIP for
+    Category-to-image Retrieval in E-commerce". arXiv:2112.11294 [cs.CV].
+32. ↑ Beaumont, Romain (2024-09-07), rom1504/clip-retrieval, retrieved 
+    2024-09-08
+33. ↑ Haltakov, Vladimir (2024-09-03), haltakov/natural-language-image-search,
+    retrieved 2024-09-06
+34. ↑ Alayrac, Jean-Baptiste; Donahue, Jeff; Luc, Pauline; Miech, Antoine;
+    Barr, Iain; Hasson, Yana; Lenc, Karel; Mensch, Arthur; Millican, Katherine;
+    Reynolds, Malcolm; Ring, Roman; Rutherford, Eliza; Cabi, Serkan; Han,
+    Tengda; Gong, Zhitao (2022-12-06). "Flamingo: a Visual Language Model for
+    Few-Shot Learning". Advances in Neural Information Processing Systems. 35: 
+    23716–23736.
+35. ↑ Brock, Andy; De, Soham; Smith, Samuel L.; Simonyan, Karen (2021-07-01).
+    "High-Performance Large-Scale Image Recognition Without Normalization".
+    Proceedings of the 38th International Conference on Machine Learning. PMLR:
+    1059–1071.
+36. ↑ Ramesh, Aditya; Dhariwal, Prafulla; Nichol, Alex; Chu, Casey; Chen, Mark
+    (2022-04-12). "Hierarchical Text-Conditional Image Generation with CLIP
+    Latents". arXiv:2204.06125 [cs.CV].
+37. ↑ Nichol, Alex; Dhariwal, Prafulla; Ramesh, Aditya; Shyam, Pranav; Mishkin,
+    Pamela; McGrew, Bob; Sutskever, Ilya; Chen, Mark (2022-03-08). "GLIDE:
+    Towards Photorealistic Image Generation and Editing with Text-Guided
+    Diffusion Models". arXiv:2112.10741 [cs.CV].
+38. ↑ Whitaker, Jonathan (2022-05-22). "Fun With Neural Cellular Automata". W&B
+    . Retrieved 2024-09-08.
+39. ↑ LAION-AI/aesthetic-predictor, LAION AI, 2024-09-06, retrieved 2024-09-08
+40. ↑ Mokady, Ron; Hertz, Amir; Bermano, Amit H. (2021). "ClipCap: CLIP Prefix
+    for Image Captioning". arXiv:2111.09734 [cs.CV].
+
+External links
+
+  • OpenAI's CLIP webpage
+  • OpenCLIP: An open source implementation of CLIP
+  • Arora, Aman (2023-03-11). "The Annotated CLIP (Part-2)". amaarora.github.io
+    . Retrieved 2024-09-11.

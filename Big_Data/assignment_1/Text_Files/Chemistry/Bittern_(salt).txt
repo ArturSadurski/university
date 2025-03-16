@@ -1,0 +1,322 @@
+Solution from evaporation of seawater or brine
+This article is about the solution. For other uses, see Bittern
+(disambiguation).
+
+This image depicts three salt ponds adjacent to each other, ranging in color
+from deep green to mustard yellow.
+Bitterns can be produced from salt ponds which get their color from organisms
+adapted to the hypersaline environment.^[1]
+
+Bittern (pl. bitterns), or nigari, is the salt solution formed when halite
+(table salt) precipitates from seawater or brines. Bitterns contain magnesium,
+calcium, and potassium ions as well as chloride, sulfate, iodide, and other
+ions.^[2]^[3]
+
+Bittern is commonly formed in salt ponds where the evaporation of water prompts
+the precipitation of halite. These salt ponds can be part of a salt-producing
+industrial facility, or they can be used as a waste storage location for brines
+produced in desalination processes.^[3]
+
+Bittern is a source of many useful salts.^[3]^[4] It is used as a natural
+source of Mg^2+, and it can be used as a coagulant both in the production of
+tofu^[5] and in the treatment of industrial wastewater.^[6]^[7]^[8]^[9]
+
+History
+
+Bittern has been extracted for a long time, at least several centuries. The
+Dutch chemist Petrus Jacobus Kipp (1808–1864) experimented with saturated
+solutions of bittern. The term for the solution is a modification of "bitter".^
+[2]
+
+Uses
+
+Salt derivation
+
+Bittern is a source of many salts including magnesium sulfate (epsom salt).
+Multiple methods exist for removing these salts from the bittern, and the
+method ultimately used depends on the target product. Products that would
+naturally precipitate from the bitterns crystallize as evaporation proceeds (e.
+g. kainite^[10]). Products that do not preferentially precipitate from bitterns
+may precipitate through the addition of another compound or through ion
+exchange.^[3]
+
+Potassium-magnesium sulfate double salt, a good fertilizer, is a salt that
+precipitates from bitterns upon addition of methanol.^[3] Ethanol is also used,
+but it exhibits a preference for potassium sulfate precipitation.^[3]
+
+The solution can furthermore be used in the production of potash and potassium
+salts.^[10] Tartaric acid is one compound that can facilitate the precipitation
+of these salts.^[10]
+
+Magnesium hydroxide (Mg(OH)[2]) can be derived from bittern.^[4] Adding an
+alkaline solution such as sodium hydroxide (NaOH) or lime will cause magnesium
+hydroxide to precipitate, although lime is not as effective. Slower addition of
+the alkaline solution results in the precipitation of larger particles that are
+easier to remove from solution.^[4]
+
+This is a picture of tofu on a plate surrounded by soybeans.
+Bittern is one coagulant used in the production of tofu.
+
+Coagulation
+
+Tofu
+
+Nigari is produced from seawater after first removing sodium chloride. It
+contains mostly magnesium chloride, smaller amounts of magnesium sulfate (Epsom
+salt), potassium chloride, calcium chloride, and trace amounts of other
+naturally occurring salts.
+
+Nigari was the first coagulant used to make tofu in Japan.^[5] It is still used
+today because tofu made using bittern preserves the original flavor of the
+soybeans used to make it. Bittern causes rapid coagulation which influences the
+quality of the tofu. Alternatively calcium sulfate, calcium chloride or other
+substances are also used.^[5]
+
+Wastewater treatment
+
+Bittern can be used instead of aluminum-based coagulants in the treatment of
+wastewater produced during the fabric-dyeing process.^[6] The wastewater pH is
+basic, which is favorable for the use of bittern. After the addition of
+bittern, precipitated magnesium hydroxide works as the coagulant to collect dye
+, solids, organic matter, and heavy metals from the wastewater before settling
+out of solution.^[6] The sludge produced from this wastewater treatment is also
+easier to dispose of than sludge produced by aluminum-based coagulants because
+there are less restrictions surrounding the disposal of magnesium, and it may
+be possible to recycle the sludge as fertilizer.^[6]
+
+Bittern can also be used as a source of magnesium ions (Mg^2+) for the
+precipitation of struvite, a useful fertilizer, from wastewater containing
+nitrogen and phosphorus.^[7]^[8] One source of useful wastewater is landfill
+leachate.^[9] Bittern is just as good as other sources of magnesium ions at
+removing phosphorus from wastewater streams, but it lags behind other magnesium
+ion sources in terms of the removal of ammonia (a nitrogen compound).^[8]
+
+Other uses
+
+Bittern can be used to culture Haloquadratum archaea. Haloquadratum are
+distinctly square-shaped and are abundant in hypersaline environments such as
+salt ponds. Their cultivation is necessary for understanding both their
+ecological function in those environments as well as their unique morphology.^[
+11] The presence of Haloquadratum in an environment deemed inhospitable for
+most life has prompted closer study of these archaea.
+
+A study has been performed exploring the use of bittern as a natural magnesium
+supplement used to decrease cholesterol spikes after a meal (postprandial
+hyperlipidemia).^[12]
+
+Due to its high salinity, bittern can also be used as a draw solution for an
+osmotic process that concentrates sucrose in sugarcane juice.^[13] Because
+forward osmosis is being used, the process is relatively energy-efficient.
+Epsom salt can also be taken from the bittern draw solution once it is used.^[
+13] This method is particularly useful in areas where sugarcane and salt
+production are in close proximity to avoid costs associated with movement of
+either the sugarcane juice or the bittern.^[13]
+
+Environmental impact
+
+In some jurisdictions, most bitterns are used for other production instead of
+being directly discarded.^[14] In other jurisdictions each tonne of salt
+produced can create 3+ tonnes of waste bitterns.^[15]
+
+Although bittern generally contains the same compounds as seawater, it is much
+more concentrated than seawater. If bittern is released directly into seawater,
+the ensuing salinity increase may harm marine life around the point of release.
+^[14] Even small increases in salinity can disrupt marine species' osmotic
+balances, which may result in the death of the organism in some cases.^[16]
+
+In December 1997, 94 corpses of green sea turtles, Chelonia mydas, were found
+at the Ojo de Liebre Lagoon (OLL) in Mexico, adjacent to the industrial
+operation of Exportadora de Sal S.A. (ESSA), the largest saltworks in the
+world. The fluoride ion F^− content in bitterns was 60.5-fold more than that in
+seawater. The bitterns osmolality was 11,000 mosm/kg of water, whereas the
+turtle's plasma osmolality was about 400 mosm/kg of water. Researchers
+concluded that the dumping of bitterns into the ocean should be avoided.^[17]
+
+The lack of adequate disposal methods for bitterns and concerns of local
+commercial and recreational fishing associations about bitterns’ deleterious
+impacts upon local fish and prawn hatchery areas led the Western Australian EPA
+in 2008 to recommend against the proposed 4.2 million tonne per annum Straits
+Salt project in The Pilbara region of WA. The EPA concluded that:
+
+    ...the proposed solar salt farm is located in an area that presents
+    unacceptably high risks of environmental harm to wetland values and
+    unacceptable levels of uncertainty in relation to long term management of
+    bitterns. [...] A high level of uncertainty in relation to the proponent’s
+    ability to manage the ongoing production of over 1 million cubic metres per
+    annum of bitterns C, which is toxic to marine biota and therefore likely to
+    degrade wetland and biodiversity values should bitterns discharge occur
+    either accidentally or be required to maintain salt farm production in the
+    long term.^[18]
+
+References
+
+ 1. ↑ Oren, Aharon (2019-01-01), Seckbach, Joseph; Rampelotto, Pabulo (eds.),
+    "Chapter 3 - Solar salterns as model systems for the study of halophilic
+    microorganisms in their natural environments", Model Ecosystems in Extreme
+    Environments, Astrobiology Exploring Life on Earth and Beyond, Academic
+    Press, pp. 41–56, doi:10.1016/b978-0-12-812742-1.00003-9, ISBN 
+    9780128127421, S2CID 198855581, retrieved 2019-09-23
+ 2. 1 2 "Bittern - Chemistry". Encyclopædia Britannica. Retrieved 4 November
+    2015.
+ 3. 1 2 3 4 5 6 Lozano, José A. Fernández (1976). "Recovery of Potassium
+    Magnesium Sulfate Double Salt from Seawater Bittern". Industrial &
+    Engineering Chemistry Process Design and Development. 15 (3): 445–449. doi:
+    10.1021/i260059a018. ISSN 0196-4305.
+ 4. 1 2 3 Alamdari, A.; Rahimpour, M. R.; Esfandiari, N.; Nourafkan, E. (2008).
+    "Kinetics of magnesium hydroxide precipitation from sea bittern". Chemical
+    Engineering and Processing: Process Intensification. 47 (2): 215–221.
+    Bibcode:2008CEPPI..47..215A. doi:10.1016/j.cep.2007.02.012. ISSN 0255-2701.
+ 5. 1 2 3 Li, Jinlong; Cheng, Yongqiang; Tatsumi, Eizo; Saito, Masayoshi; Yin,
+    Lijun (2014). "The use of W/O/W controlled-release coagulants to improve
+    the quality of bittern-solidified tofu". Food Hydrocolloids. 35: 627–635.
+    doi:10.1016/j.foodhyd.2013.08.002. ISSN 0268-005X.
+ 6. 1 2 3 4 Albuquerque, L. F.; Salgueiro, A. A.; Melo, J. L. de S.;
+    Chiavone-Filho, O. (2013). "Coagulation of indigo blue present in dyeing
+    wastewater using a residual bittern". Separation and Purification
+    Technology. 104: 246–249. doi:10.1016/j.seppur.2012.12.005. ISSN 1383-5866.
+ 7. 1 2 Kumar, Ramesh; Pal, Parimal (2015). "Assessing the feasibility of N and
+    P recovery by struvite precipitation from nutrient-rich wastewater: a
+    review". Environmental Science and Pollution Research. 22 (22): 17453–
+    17464. Bibcode:2015ESPR...2217453K. doi:10.1007/s11356-015-5450-2. ISSN 
+    1614-7499. PMID 26408116. S2CID 6705389.
+ 8. 1 2 3 Lee, S. I; Weon, S. Y; Lee, C. W; Koopman, B (2003). "Removal of
+    nitrogen and phosphate from wastewater by addition of bittern". Chemosphere
+    . 51 (4): 265–271. Bibcode:2003Chmsp..51..265L. doi:10.1016/S0045-6535(02)
+    00807-X. ISSN 0045-6535. PMID 12604078.
+ 9. 1 2 Li, X. Z.; Zhao, Q. L. (2002). "MAP Precipitation from Landfill
+    Leachate and Seawater Bittern Waste". Environmental Technology. 23 (9): 
+    989–1000. Bibcode:2002EnvTe..23..989L. doi:10.1080/09593332308618348. hdl:
+    10397/2444. ISSN 0959-3330. PMID 12361384. S2CID 24126386.
+10. 1 2 3 Ghara, Krishna Kanta; Korat, Nikunja; Bhalodia, Dixita; Solanki,
+    Jignesh; Maiti, Pratyush; Ghosh, Pushpito K. (2014). "Production of pure
+    potassium salts directly from sea bittern employing tartaric acid as a
+    benign and recyclable K+ precipitant". RSC Advances. 4 (65): 34706–34711.
+    Bibcode:2014RSCAd...434706G. doi:10.1039/C4RA04360J. ISSN 2046-2069.
+11. ↑ Bolhuis, Henk; Poele, Evelien M. te; Rodriguez-Valera, Francisco (2004).
+    "Isolation and cultivation of Walsby's square archaeon". Environmental
+    Microbiology. 6 (12): 1287–1291. Bibcode:2004EnvMi...6.1287B. doi:10.1111/
+    j.1462-2920.2004.00692.x. ISSN 1462-2920. PMID 15560825.
+12. ↑ Kishimoto, Yoshimi; Tani, Mariko; Uto-Kondo, Harumi; Saita, Emi; Iizuka,
+    Maki; Sone, Hirohito; Yokota, Kuninobu; Kondo, Kazuo (2010). "Effects of
+    magnesium on postprandial serum lipid responses in healthy human subjects".
+    British Journal of Nutrition. 103 (4): 469–472. doi:10.1017/
+    S0007114509992716. ISSN 1475-2662. PMID 19941679.
+13. 1 2 3 Mondal, Dibyendu; Nataraj, Sanna Kotrappanavar; Reddy, Alamaru
+    Venkata Rami; Ghara, Krishna K.; Maiti, Pratyush; Upadhyay, Sumesh C.;
+    Ghosh, Pushpito K. (2015). "Four-fold concentration of sucrose in sugarcane
+    juice through energy efficient forward osmosis using sea bittern as draw
+    solution". RSC Advances. 5 (23): 17872–17878. Bibcode:2015RSCAd...517872M.
+    doi:10.1039/C5RA00617A. ISSN 2046-2069.
+14. 1 2 Ahmad, Nadeem; Baddour, Raouf E. (2014). "A review of sources, effects,
+    disposal methods, and regulations of brine into marine environments". Ocean
+    & Coastal Management. 87: 1–7. Bibcode:2014OCM....87....1A. doi:10.1016/
+    j.ocecoaman.2013.10.020. ISSN 0964-5691.
+15. ↑ Tovar, Luis Raúl; Gutiérrez, Ma. Eugenia; Cruz, Guillermo (October 2002).
+    "Fluoride Content by Ion Chromatography Using a Suppressed Conductivity
+    Detector and Osmolality of Bitterns Discharged into the Pacific Ocean from
+    a Saltworks: Feasible Causal Agents in the Mortality of Green Turtles
+    (Chelonia mydas) in the Ojo de Liebre lagoon, Baja California Sur, Mexico".
+    Analytical Sciences. 18 (9): 1003–7. doi:10.2116/analsci.18.1003. PMID 
+    12243394. Retrieved 2022-04-10.
+16. ↑ Einav, Rachel; Harussi, Kobi; Perry, Dan (2003). "The footprint of the
+    desalination processes on the environment". Desalination. 152 (1): 141–154.
+    Bibcode:2003Desal.152..141E. doi:10.1016/S0011-9164(02)01057-3. ISSN 
+    0011-9164.
+17. ↑ Tovar, Luis Raúl; Gutiérrez, Ma Eugenia; Cruz, Guillermo (April 3, 2002).
+    "Fluoride Content by Ion Chromatography Using a Suppressed Conductivity
+    Detector and Osmolality of Bitterns Discharged into the Pacific Ocean from
+    a Saltworks: Feasible Causal Agents in the Mortality of Green Turtles
+    (Chelonia mydas) in the Ojo de Liebre lagoon, Baja California Sur, Mexico".
+    Analytical Sciences. 18 (9): 1003–1007. doi:10.2116/analsci.18.1003. PMID 
+    12243394 – via J-Stage.
+18. ↑ "Yannarie Solar Salt East Coast of Exmouth Gulf" (PDF). Environmental
+    Protection Authority. July 2008. Retrieved 21 December 2019.
+
+                            • v
+                            • t
+                            • e
+
+                          Salt
+                • History
+                • In the American Civil War
+                • International Salt Co. v. United States
+                • In Middlewich
+   History      • Old Salt Route
+                • In Chinese history
+                • Salt March
+                • Salt road
+
+                • Abraum
+                • Alaea
+                • Alberger
+                • Asín tibuok
+                • Bittern
+                • Black lava
+                • Butter
+                • Calcium chloride
+                • Celery
+                • Curing
+                • Cyclic
+                • Dairy
+                • Flake
+                • Fleur de sel
+                • Garlic
+                • Himalayan
+                • Iodised
+                • Jugyeom
+                • Kala namak
+    Types       • Korean brining
+                • Kosher
+                • Monosodium glutamate
+                • Moshio salt
+                • Pickling
+                • Potassium chloride
+                • Potassium nitrate
+                • River reed salt
+                • Sodium nitrate
+                • Onion
+                • Rock
+                • Salammoniac
+                • Salt substitute
+                • Sea salt
+                • Seasoned
+                • Sel gris
+                • Smoked
+                • Sodium chloride
+                • Truffle
+                • Túltul
+
+                • Brining
+                • Salting
+                • Brined cheese
+ Food usage     • Salt-cured meat
+                • Salted fish
+                • Health effects
+                • Salt and cardiovascular disease
+
+                • Salt Industry Commission
+                • Evaporation pond
+                • Salt mining
+  Commerce      • Salt well
+and industry    • Sink works
+                • Open-pan salt making
+                • List of countries by salt production
+                • Salt tectonics
+
+                • In Cheshire
+                • In Ghana
+  By region     • San Francisco Bay
+                • In Pakistan
+
+                • Grain of salt
+   Culture      • Salt in the Bible
+                • Salting the earth
+
+                • Mineral lick
+                • Road salt
+                • Smelling salts
+Miscellaneous   • Water softening
+                • Ximenes Redoubt
+                • Tax
+
+● Category

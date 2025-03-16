@@ -1,0 +1,1452 @@
+Approach to explaining social and cultural phenomena by studying their history
+This article is about philosophical theories known collectively as historicism.
+For the school of historiography, see Historism. For the school of art and
+architecture, see Historicism (art). For the method of interpreting the Book of
+Revelation, see Historicism (Christianity). For historicism in music, see
+Musical historicism.
+
+       This article has multiple issues. Please help improve it or discuss
+       these issues on the talk page. (Learn how and when to remove these
+       messages)
+
+              The article's lead section may need to be rewritten. Please help
+       [40px] improve the lead and read the lead layout guide. (February 2023)
+              (Learn how and when to remove this message)
+       
+              This article includes a list of general references, but it lacks
+[40px] [40px] sufficient corresponding inline citations. Please help to improve
+              this article by introducing more precise citations. (February
+              2023) (Learn how and when to remove this message)
+       
+              This article may require cleanup to meet Wikipedia's quality
+              standards. The specific problem is: Anthropological historicism
+       [40px] may deserve a separate page by itself. Please help improve this
+              article if you can. (February 2023) (Learn how and when to remove
+              this message)
+
+       (Learn how and when to remove this message)
+
+Historicism is an approach to explaining the existence of phenomena, especially
+social and cultural practices (including ideas and beliefs), by studying the
+process or history by which they came about. The term is widely used in
+philosophy, anthropology, and sociology.
+
+This historical approach to explanation differs from and complements the
+approach known as functionalism, which seeks to explain a phenomenon, such as
+for example a social form, by providing reasoned arguments about how that
+social form fulfills some function in the structure of a society. In contrast,
+rather than taking the phenomenon as a given and then seeking to provide a
+justification for it from reasoned principles, the historical approach asks
+"Where did this come from?" and "What factors led up to its creation?"; that
+is, historical explanations often place a greater emphasis on the role of
+process and contingency.
+
+Historicism is often used to help contextualize theories and narratives, and
+may be a useful tool to help understand how social and cultural phenomena came
+to be.
+
+The historicist approach differs from individualist theories of knowledge such
+as strict empiricism and rationalism, which does not take into account
+traditions. Historicism can be reductionist, often tends to be, and is usually
+contrasted with theories that posit that historical changes occur entirely at
+random.
+
+David Summers, building on the work of E. H. Gombrich, defines historicism
+negatively, writing that it posits "that laws of history are formulatable and
+that in general the outcome of history is predictable," adding "the idea that
+history is a universal matrix prior to events, which are simply placed in order
+within that matrix by the historian." This approach, he writes, "seems to make
+the ends of history visible, thus to justify the liquidation of groups seen not
+to have a place in the scheme of history" and that it has led to the
+"fabrication of some of the most murderous myths of modern times."^[1]
+
+History of the term
+
+The term historicism (Historismus) was coined by German philosopher Karl
+Wilhelm Friedrich Schlegel.^[2] Over time, what historicism is and how it is
+practiced have developed different and divergent meanings.^[3] Elements of
+historicism appear in the writings of French essayist Michel de Montaigne
+(1533–1592) and Italian philosopher G. B. Vico (1668–1744), and became more
+fully developed with the dialectic of Georg Wilhelm Friedrich Hegel
+(1770–1831), influential in 19th-century Europe. The writings of Karl Marx,
+influenced by Hegel, also occasionally include historicism. The term is also
+associated with the empirical social sciences and with the work of Franz Boas.
+Historicism tends to be hermeneutic because it values cautious, rigorous, and
+contextualized interpretation of information; or relativist, because it rejects
+notions of universal, fundamental and immutable interpretations.^[4]
+
+Variants
+
+Hegelian
+
+[220px-G]
+G. W. F. Hegel (1770–1831)
+
+Hegel viewed the realization of human freedom as the ultimate purpose of
+history, which could be achieved only through the creation of the perfect
+state. Historical progress toward this state would occur through a dialectical
+process: the tension between the purpose of humankind (freedom) and humankind's
+current condition would produce the attempt by humankind to change its
+condition to one more in accord with its nature. However, because humans are
+often not aware of the goal of humanity and history, the process of achieving
+freedom is necessarily one of self-discovery.
+
+Hegel saw progress toward freedom as conducted by the "spirit" (Geist), a
+seemingly supernatural force that directs all human actions and interactions.
+Yet Hegel makes clear that the spirit is a mere abstraction that comes into
+existence "through the activity of finite agents". Thus, Hegel's determining
+forces of history may not have a metaphysical nature, though many of his
+opponents and interpreters have understood him as holding metaphysical and
+determinist views.^[5]
+
+Hegel's historicism also suggests that any human society and all human
+activities such as science, art, or philosophy, are defined by their history.
+Consequently, their essence can be sought only by understanding said history.
+The history of any such human endeavor, moreover, not only continues but also
+reacts against what has gone before; this is the source of Hegel's famous
+dialectic teaching usually summarized by the slogan "thesis, antithesis, and
+synthesis". (Hegel did not use these terms, although Johann Fichte did.)
+Hegel's famous aphorism, "Philosophy is the history of philosophy", describes
+it bluntly.
+
+Hegel's position is perhaps best illuminated when contrasted against the
+atomistic and reductionist opinion of human societies and social activities
+self-defining on an ad hoc basis through the sum of dozens of interactions. Yet
+another contrasting model is the persistent metaphor of a social contract.
+Hegel considers the relationship between individuals and societies as organic,
+not atomic: even their social discourse is mediated by language, and language
+is based on etymology and unique character. It thus preserves the culture of
+the past in thousands of half-forgotten metaphors. To understand why a person
+is the way he is, you must examine that person in his society: and to
+understand that society, you must understand its history, and the forces that
+influenced it. The Zeitgeist, the "Spirit of the Age", is the concrete
+embodiment of the most important factors that are acting in human history at
+any given time. This contrasts with teleological theories of activity, which
+suppose that the end is the determining factor of activity, as well as those
+who believe in a tabula rasa, or blank slate, opinion, such that individuals
+are defined by their interactions.
+
+These ideas can be interpreted variously. The Right Hegelians, working from
+Hegel's opinions about the organicism and historically determined nature of
+human societies, interpreted Hegel's historicism as a justification of the
+unique destiny of national groups and the importance of stability and
+institutions. Hegel's conception of human societies as entities greater than
+the individuals who constitute them influenced nineteenth-century romantic
+nationalism and its twentieth-century excesses. The Young Hegelians, by
+contrast, interpreted Hegel's thoughts on societies influenced by social
+conflict for a doctrine of social progress, and attempted to manipulate these
+forces to cause various results. Karl Marx's doctrine of "historical
+inevitabilities" and historical materialism is one of the more influential
+reactions to this part of Hegel's thought. Significantly, Karl Marx's theory of
+alienation argues that capitalism disrupts traditional relationships between
+workers and their work.
+
+Hegelian historicism is related to his ideas on the means by which human
+societies progress, specifically the dialectic and his conception of logic as
+representing the inner essential nature of reality. Hegel attributes the change
+to the "modern" need to interact with the world, whereas ancient philosophers
+were self-contained, and medieval philosophers were monks. In his History of
+Philosophy Hegel writes:
+
+    In modern times things are very different; now we no longer see philosophic
+    individuals who constitute a class by themselves. With the present day all
+    difference has disappeared; philosophers are not monks, for we find them
+    generally in connection with the world, participating with others in some
+    common work or calling. They live, not independently, but in the relation
+    of citizens, or they occupy public offices and take part in the life of the
+    state. Certainly they may be private persons, but if so, their position as
+    such does not in any way isolate them from their other relationship. They
+    are involved in present conditions, in the world and its work and progress.
+    Thus their philosophy is only by the way, a sort of luxury and superfluity.
+    This difference is really to be found in the manner in which outward
+    conditions have taken shape after the building up of the inward world of
+    religion. In modern times, namely, on account of the reconciliation of the
+    worldly principle with itself, the external world is at rest, is brought
+    into order — worldly relationships, conditions, modes of life, have become
+    constituted and organized in a manner which is conformable to nature and
+    rational. We see a universal, comprehensible connection, and with that
+    individuality likewise attains another character and nature, for it is no
+    longer the plastic individuality of the ancients. This connection is of
+    such power that every individuality is under its dominion, and yet at the
+    same time can construct for itself an inward world.^[6]
+
+This opinion that entanglement in society creates an indissoluble bond with
+expression, would become an influential question in philosophy, namely, the
+requirements for individuality. It would be considered by Nietzsche, John Dewey
+and Michel Foucault directly, as well as in the work of numerous artists and
+authors. There have been various responses to Hegel's challenge. The Romantic
+period emphasized the ability of individual genius to transcend time and place,
+and use the materials from their heritage to fashion works which were beyond
+determination. The modern would advance versions of John Locke's infinite
+malleability of the human animal. Post-structuralism would argue that since
+history is not present, but only the image of history, that while an individual
+era or power structure might emphasize a particular history, that the
+contradictions within the story would hinder the very purposes that the history
+was constructed to advance.
+
+Anthropological
+
+In the context of anthropology and other sciences which study the past,
+historicism has a different meaning. Historical Particularism is associated
+with the work of Franz Boas.^[7] His theory used the diffusionist concept that
+there were a few "cradles of civilization" which grew outwards, and merged it
+with the idea that societies would adapt to their circumstances. The school of
+historicism grew in response to unilinear theories that social development
+represented adaptive fitness, and therefore existed on a continuum. While these
+theories were espoused by Charles Darwin and many of his students, their
+application as applied in social Darwinism and general evolution characterized
+in the theories of Herbert Spencer and Leslie White, historicism was neither
+anti-selection, nor anti-evolution, as Darwin never attempted nor offered an
+explanation for cultural evolution. However, it attacked the notion that there
+was one normative spectrum of development, instead emphasizing how local
+conditions would create adaptations to the local environment. Julian Steward
+refuted the viability of globally and universally applicable adaptive standards
+proposing that culture was honed adaptively in response to the idiosyncrasies
+of the local environment, the cultural ecology, by specific evolution. What was
+adaptive for one region might not be so for another. This conclusion has
+likewise been adopted by modern forms of biological evolutionary theory.
+
+The primary method of historicism was empirical, namely that there were so many
+requisite inputs into a society or event, that only by emphasizing the data
+available could a theory of the source be determined. In this opinion, grand
+theories are unprovable, and instead intensive field work would determine the
+most likely explanation and history of a culture, and hence it is named
+"historicism".
+
+This opinion would produce a wide range of definition of what, exactly,
+constituted culture and history, but in each case the only means of explaining
+it was in terms of the historical particulars of the culture itself.
+
+New Historicism
+
+Main article: New Historicism
+
+Since the 1950s, when Jacques Lacan and Michel Foucault argued that each epoch
+has its own knowledge system, within which individuals are inexorably
+entangled, many post-structuralists have used historicism to describe the
+opinion that all questions must be settled within the cultural and social
+context in which they are raised. Answers cannot be found by appeal to an
+external truth, but only within the confines of the norms and forms that phrase
+the question. This version of historicism holds that there are only the raw
+texts, markings and artifacts that exist in the present, and the conventions
+used to decode them. This school of thought is sometimes given the name of New
+Historicism. The same term, new historicism is also used for a school of
+literary scholarship which interprets a poem, drama, etc. as an expression of
+or reaction to the power-structures of its society. Stephen Greenblatt is an
+example of this school.
+
+Modern Historicism
+
+Within the context of 20th-century philosophy, debates continue as to whether
+ahistorical and immanent methods were sufficient to understand the meaning
+(that is to say, "what you see is what you get" positivism) or whether context,
+background and culture are important beyond the mere need to decode words,
+phrases and references. While post-structural historicism is relativist in its
+orientation—that is, it sees each culture as its own frame of reference—a large
+number of thinkers have embraced the need for historical context, not because
+culture is self-referential, but because there is no more compressed means of
+conveying all of the relevant information except through history. This opinion
+is often seen as deriving from the work of Benedetto Croce. Recent historians
+using this tradition include Thomas Kuhn.
+
+Talcott Parsons criticized historicism as a case of idealistic fallacy in The
+Structure of Social Action (1937). Post-structuralism uses the term new
+historicism, which has some associations with both anthropology and
+Hegelianism.
+
+Christian Historicism
+
+Eschatological
+
+Main article: Historicism (Christian eschatology)
+Further information: Historicist interpretations of the Book of Revelation
+
+In Christianity, the term historicism refers to the confessional Protestant
+form of prophetical interpretation which holds that the fulfillment of biblical
+prophecy has occurred throughout history and continues to occur; as opposed to
+other methods which limit the time-frame of prophecy-fulfillment to the past or
+to the future.
+
+Dogmatic and ecclesiastic
+
+There is also a particular opinion in ecclesiastical history and in the history
+of dogmas which has been described as historicist by Pope Pius XII in the
+encyclical Humani generis. "They add that the history of dogmas consists in the
+reporting of the various forms in which revealed truth has been clothed, forms
+that have succeeded one another in accordance with the different teachings and
+opinions that have arisen over the course of the centuries." "There is also a
+certain historicism, which attributing value only to the events of man's life,
+overthrows the foundation of all truth and absolute law, both on the level of
+philosophical speculations and especially to Christian dogmas."^[7]
+
+Critics
+
+Marxism
+
+Western Marxists such as Karl Korsch, Antonio Gramsci and the early Georg
+Lukacs emphasise the roots of Marx's thought in Hegel. They interpret Marxism
+as a historically relativist philosophy, which views ideas (including Marxist
+theory) as products of the historical epochs that create them.^[8] In this
+view, Marxism is not an objective social science, but rather a theoretical
+expression of the class consciousness of the working class within a historical
+process. This understanding of Marxism is strongly criticised by the structural
+Marxist Louis Althusser,^[8]^[9] who affirms that Marxism is an objective
+science, autonomous from interests of society and class. Marxism is, therefore,
+often associated with deterministic claims of future historical development,
+but these are not structural parts of Marxism as a style of critique which
+requires distinction between various critical registers, which at once develops
+an understanding of broad historical-geographical tensions without prophesying
+a specific outcome.^[10]
+
+Karl Popper
+
+Karl Popper used the term historicism in his influential books The Poverty of
+Historicism and The Open Society and Its Enemies, to mean: "an approach to the
+social sciences which assumes that historical prediction is their primary aim,
+and which assumes that this aim is attainable by discovering the 'rhythms' or
+the 'patterns', the 'laws' or the 'trends' that underlie the evolution of
+history".^[11] Popper condemned historicism along with the determinism and
+holism which he argued formed its basis, claiming that historicism had the
+potential to inform dogmatic, ideological beliefs not predicated upon facts
+that were falsifiable. In The Poverty of Historicism, he identified historicism
+with the opinion that there are "inexorable laws of historical destiny", an
+opinion he warned against. If this seems to contrast with what proponents of
+historicism argue for, in terms of contextually relative interpretation, this
+happens, according to Popper, only because such proponents are unaware of the
+type of causality they ascribe to history. Popper wrote with reference to Hegel
+'s theory of history, which he criticized extensively.
+
+In The Open Society and Its Enemies, Popper attacks "historicism" and its
+proponents, among whom he identifies and singles out Hegel, Plato and Marx
+—calling them all "enemies of the open society". The objection he makes is that
+historicist positions, by claiming that there is an inevitable and
+deterministic pattern to history, evade the responsibility of the individual to
+make free contributions to the evolution of society, hence leading to
+totalitarianism. Throughout this work, he defines his conception of historicism
+as: "The central historicist doctrine—the doctrine that history is controlled
+by specific historical or evolutionary laws whose discovery would enable us to
+prophesy the destiny of man."^[12] As mentioned above, such characterizations
+of Marx in particular are not entirely accurate to Marx in his own right, and
+have drawn criticism from philosophers such as Lakatos for mischaracterizing
+the defense of induction in historical materialism.^[13] Other philosophers
+such as Walter Kaufmann have also been critical of Popper, calling his reading
+of Hegel a “myth,” “known largely through secondary sources…”^[14]
+
+Another of his targets is what he terms "moral historicism", the attempt to
+infer moral values from the course of history; in Hegel's words, that "history
+is the world's court of justice". Popper says that he does not believe "that
+success proves anything or that history is our judge".^[15] Futurism must be
+distinguished from prophecies that the right will prevail: these attempt to
+infer history from ethics, rather than ethics from history, and are therefore
+historicism in the normal sense rather than moral historicism.
+
+He also attacks what he calls "Historism", which he regards as distinct from
+historicism. By historism, he means the tendency to regard every argument or
+idea as completely accounted for by its historical context, as opposed to
+assessing it by its merits.
+
+Leo Strauss
+
+Leo Strauss used the term historicism and reportedly termed it the single
+greatest threat to intellectual freedom insofar as it denies any attempt to
+address injustice-pure-and-simple (such is the significance of historicism's
+rejection of "natural right" or "right by nature"). Strauss argued that
+historicism "rejects political philosophy" (insofar as this stands or falls by
+questions of permanent, trans-historical significance) and is based on the
+belief that "all human thought, including scientific thought, rests on premises
+which cannot be validated by human reason and which came from historical epoch
+to historical epoch." Strauss further identified R. G. Collingwood as the most
+coherent advocate of historicism in the English language. Countering
+Collingwood's arguments, Strauss warned against historicist social scientists'
+failure to address real-life problems—most notably that of tyranny—to the
+extent that they relativize (or "subjectivize") all ethical problems by placing
+their significance strictly in function of particular or ever-changing
+socio-material conditions devoid of inherent or "objective" "value". Similarly,
+Strauss criticized Eric Voegelin's abandonment of ancient political thought as
+guide or vehicle in interpreting modern political problems.
+
+In his books, Natural Right and History and On Tyranny, Strauss offers a
+complete critique of historicism as it emerges in the works of Hegel, Marx, and
+Heidegger. Many believe that Strauss also found historicism in Edmund Burke,
+Tocqueville, Augustine, and John Stuart Mill. Although it is largely disputed
+whether Strauss himself was a historicist, he often indicated that historicism
+grew out of and against Christianity and was a threat to civic participation,
+belief in human agency, religious pluralism, and, most controversially, an
+accurate understanding of the classical philosophers and religious prophets
+themselves. Throughout his work, he warns that historicism, and the
+understanding of progress that results from it, expose us to tyranny,
+totalitarianism, and democratic extremism. In a collection of his works by
+Kenneth Hart entitled Jewish Philosophy and the Crisis of Modernity, he argues
+that Islam, traditional Judaism, and ancient Greece, share a concern for sacred
+law that makes them especially susceptible to historicism, and therefore to
+tyranny.
+
+See also
+
+  • Parametric determinism
+  • Path dependence
+  • Sociocultural evolution
+
+References
+
+ 1. ↑ Summers, David (Winter 1989). ""'Form', Nineteenth-Century Metaphysics,
+    and the Problem of Art Historical Description"". Critical Inquiry. 15 (2):
+    383. doi:10.1086/448489. S2CID 170924784.
+ 2. ↑ Brian Leiter, Michael Rosen (eds.), The Oxford Handbook of Continental
+    Philosophy, Oxford University Press, 2007, p. 175: "[The word
+    'historicism'] appears as early as the late eighteenth century in the
+    writings of the German romantics, who used it in a neutral sense. In 1797
+    Friedrich Schlegel used 'historicism' to refer to a philosophy that
+    stresses the importance of history..."; Katherine Harloe, Neville Morley
+    (eds.), Thucydides and the Modern World: Reception, Reinterpretation and
+    Influence from the Renaissance to the Present, Cambridge University Press,
+    2012, p. 81: "Already in Friedrich Schlegel's Fragments about Poetry and
+    Literature (a collection of notes attributed to 1797), the word Historismus
+    occurs five times."
+ 3. ↑ Reynolds, Andrew (1999-10-01). "What is historicism?". International
+    Studies in the Philosophy of Science. 13 (3): 275–287. doi:10.1080/
+    02698599908573626. ISSN 0269-8595.
+ 4. ↑ Kahan, Jeffrey. "Historicism." Renaissance Quarterly, vol. 50, no. 4
+    December 22, 1997, p. 1202
+ 5. ↑ Beiser, Frederick C. (1993). The Cambridge Companion to Hegel. Cambridge:
+    Cambridge University Press. pp. 289–91.
+ 6. ↑ "Lectures on the History of Philosophy, Volume 3", By Georg Wilhelm
+    Friedrich Hegel, Translated by E. S. Haldane and Frances H. Simson, M. A.,
+    University of Nebraska Press, 1995
+ 7. 1 2 Pius XII. "Humani generis, 15". Vatican.va. Archived from the original
+    on 2012-04-19. Retrieved 2012-05-21.
+ 8. 1 2 McLellan, David (1991). "Historicism". In Bottomore, Tom; Harris,
+    Laurence; Kiernan, V.G.; Miliband, Ralph (eds.). The Dictionary of Marxist
+    Thought (Second ed.). Blackwell Publishers Ltd. p. 239. ISBN 0-631-16481-2.
+ 9. ↑ Althusser, Louis; Balibar, Etienne (1970). Lire le Capital [Reading
+    Capital] (in French). New Left Books. pp. 119–45. ISBN 0-902308-56-4.
+10. ↑ Wacquant, Loic J. D. (1985). "Heuristic Models in Marxian Theory". Social
+    Forces. 64 (1): 17–45. doi:10.2307/2578970. ISSN 0037-7732. JSTOR 2578970.
+11. ↑ POPPER, Karl, p. 3 of The Poverty of Historicism, italics in original
+12. ↑ Karl, Popper (2020). The Open Society and its Enemies. Vol. 119.
+    Princeton University Press. pp. 161–89. doi:10.2307/j.ctv15r5748.10. S2CID 
+    243169961.
+13. ↑ Burawoy, Michael (1990). "Marxism As Science: Historical Challenges and
+    Theoretical Growth". American Sociological Review. 55: 775–93.
+14. ↑ "The Hegel Myth and Its Method by Walter Kaufmann". www.marxists.org.
+    Retrieved 2024-10-30.
+15. ↑ The Open Society and its Enemies, vol. 2 p. 29.
+
+Further reading
+
+  • Franz Boas, The Mind of Primitive Man.
+  • Hans-Georg Gadamer, Truth and Method.
+  • G. W. F. Hegel, 1911. The Philosophy of History.
+  • Ludwig von Mises, 1957. Theory and History, chapter 10: "Historicism"
+  • Karl Popper, 1945. The Open Society and Its Enemies, in 2 volumes.
+    Routledge. ISBN 0-691-01968-1.
+  • Karl Popper, 1993. The Poverty of Historicism. Routledge. ISBN 
+    0-415-06569-0.
+
+External links
+
+[34p]
+Wikiquote has quotations related to Historicism.
+
+  • Historicism in Anthropology
+
+                                    • v
+                                    • t
+                                    • e
+
+                               Humanities
+              • Anthropology
+              • Archaeology
+              • Classical studies
+              • History
+              • Language arts
+                  □ Literature
+                  □ Poetry
+                  □ Rhetoric
+              • Law
+              • Performing arts
+                  □ Dance
+                  □ Music
+Disciplines       □ Theatre
+              • Philosophy
+              • Religious studies
+              • Visual arts
+                  □ Filmmaking
+                  □ Painting
+                  □ Sculpture
+
+                                       • Digital
+                                       • Environmental
+            Interdisciplinary fields   • Health
+                                       • Medical
+                                       • Public
+
+              • Abductive reasoning
+              • Aesthetics
+              • Antipositivism
+              • The arts
+              • Beauty
+              • Belles-lettres
+              • Bildung
+              • Creativity
+              • Critical theory
+              • Criticism
+              • Cultural literacy
+              • Culture
+                  □ High
+                  □ Pop
+              • General knowledge
+  Themes      • Hermeneutics
+              •  Historicism
+              • Historism
+              • Human condition
+              • Humanitas
+              • Liberal arts education
+                  □ Trivium
+                  □ Quadrivium
+              • Metaphysics
+                  □ Ontology
+              • Moral character
+              • Self-realization
+              • Self-reflection
+              • Wisdom
+              • Work of art
+
+              • American Journal of Archaeology
+              • Daedalus
+              • History of Humanities
+              • Humanitas
+              • Humanities and Social Sciences Communications
+              • Journal of Controversial Ideas
+ Journals     • Journal of the Royal Asiatic Society
+              • Leonardo
+              • Nova Religio
+              • Revue des Études Arméniennes
+              • Teaching Philosophy
+              • more...
+
+              • Arts and Humanities Research Council
+              • Human science
+                  □ Geisteswissenschaft
+              • Humanities, arts, and social sciences
+ Academia     • Master of Humanities
+              • Moscow University for the Humanities
+              • National Endowment for the Humanities
+              • National Humanities Medal
+
+              • Antihumanism
+                  □ Philistinism
+              • Criticism of mass culture
+              • Educational essentialism
+  Related     • Humanities in the United States
+              • List of people considered a founder in a humanities field
+              • Outline of the humanities
+              • Renaissance humanism
+              • Studia Humanitatis
+
+                                       • v
+                                       • t
+                                       • e
+
+                              Theories of history
+  • Annales
+  • Conceptual
+  • Cultural
+  • Economic
+  • Environmental
+  • Gender
+  • Historicism
+
+  • Marxist
+  • Macrohistory
+  • Microhistory
+  • Postcolonial
+  • Politics
+  • Postmodern
+  • Psychohistory
+  • Social
+
+  • List of historians
+  • History
+  • Big History
+
+                                       • v
+                                       • t
+                                       • e
+
+                                Historiography
+  • Historians
+      □ list / by area of study
+  • History
+
+  • historians
+  • historicity
+  • history
+  • theories of history
+
+       Historical sources
+          • Primary sources
+ Types    • Secondary sources
+          • Tertiary sources
+
+          • Annals
+          • Archives
+          • Artifacts
+          • Archaeological site
+          • Chronicles
+          • Codices
+          • Deeds
+          • Facsimiles
+          • Features
+Sources   • Hieroglyphs
+          • Historical documents
+          • Logbooks
+          • Manuscripts
+              □ Illuminated
+          • Oral tradition
+          • Papyri
+          • Religious texts
+          • Scrolls
+          • War diaries
+              □ Service records
+
+                              Fields of study
+            • Big History
+            • World history
+By scale        □ Human history
+            • Local history
+            • Microhistory
+
+            • Archival science / Library and information science (template)
+            • Books / Writing systems
+            • Chorography
+            • Chronology
+                □ dating
+            • Diplomatics
+            • Encyclopaedistics
+            • Epigraphy
+            • Genealogy
+            • Heraldry
+By source   • Numismatics (Money)
+            • Onomastics
+            • Oral history
+                □ preservation
+            • Phaleristics
+            • Philology
+            • Postage stamps
+            • Prosopography
+            • Sigillography
+            • Toponymy
+            • Vexillology
+
+            • Anthropology / Paleoanthropology
+            • Cultural
+            • Ecology / Environment / Geography
+            • Economic
+                □ Business
+                □ Capitalism
+                □ Perspectives on capitalism by school of thought
+                □ Thought
+            • Intellectual
+                □ Geistesgeschichte
+            • Linguistics
+            • Maritime
+            • Medieval churches
+By topic    • Military
+            • Political
+                □ Constitutional
+                □ Diplomatic
+            • Social
+                □ Feminism
+                □ Gender
+                □ Indigenous
+                □ Labour
+                □ LGBTQ
+                □ Rural
+                    ☆ Quantitative
+                □ Urban
+                □ Women
+
+                  Methodology
+  • Case study
+  • Periodization
+      □ Historical eras
+      □ Tarikh
+      □ Three-age system
+
+              • Annales school
+                  □ History of mentalities
+                  □ Nouvelle histoire
+              • Historiometry / Cliometrics
+              • Comparative historical research
+              • Critical
+                  □ Decoloniality
+              • Feminist
+              • Historical anthropology
+              • Historical determinism
+              • Historism
+              • Historical-critical method
+              • Humanistic
+Approaches,   • Indiscipline of history [pt]
+  schools     • Leninist
+              • Marxist
+                  □ Historical materialism
+              • Nationalist
+                  □ Ancestral civilisation
+                  □ Nationalization of history
+              • People's history
+                  □ Subaltern Studies
+              • Pop history
+              • Quantitative history
+              • Revisionist
+              • Transnational
+              • Whig
+                  □ Great Man theory
+
+                                 Concepts
+           • Change and continuity
+           • Historic preservation
+           • Historic recurrence
+           • Historical significance
+General    • Historicity
+           • Historiology [es]
+               □ Theory of history [de]
+           • Philosophy
+
+           • Black legend
+           • Coloniality and decolonization of knowledge
+           • Dark Ages
+           • Historical negationism
+           • Historian's fallacy / Presentism
+           • Invented tradition
+           • Modernisation theory
+           • Narratives
+           • Paradigm shift
+           • Pax
+Specific       □ list
+           • Thirty-year rule
+           • Transhistoricity
+           • Translatio imperii / Translatio studii
+           • Vaticinium ex eventu
+
+                            • Age of Discovery
+                            • Age of Enlightenment
+         Periodization of   • European Civil War / Second Thirty Years' War
+          modern history    • Long 18th / 19th century
+                            • Renaissance
+                                □ Continuity thesis
+
+                      By country or region
+           • Egypt
+               □ Pyramid construction techniques
+               □ Black Egypt Thesis [es]
+           • Ethiopia
+ Africa    • Morocco
+               □ Greater Morocco
+           • Rwanda
+               □ Double genocide theory
+           • Maafa
+
+           • Canada
+               □ Metropolitan-hinterland thesis
+               □ Residential schools
+               □ Staples thesis
+           • Indigenous population history
+
+                         • Argentina
+                             □ May Revolution / Causes
+                             □ Revisionist [es]
+         Latin America   • Peru
+                             □ Iquicha Royalism
+                         • Colonial Spanish America
+Americas                     □ Casta
+
+                         • African-American history
+                             □ Nadir of American race relations
+                             □ Neoabolitionism
+                             □ Reconstruction era
+         United States   • Consensus history
+                         • Cyclical theory
+                         • Frontier thesis
+                         • Political history
+                             □ Eras
+                         • Progressive-era historians
+
+           • Albania
+               □ Dealbanisation
+           • Austria
+               □ Habsburg myth
+           • Balhae
+           • Belarus
+               □ Litvinism
+           • Bulgaria
+           • Byzantine Empire [de]
+               □ Early [ru]
+           • Croatia
+           • Europe
+               □ Ancient [ru]
+               □ Medieval [ru]
+               □ New Age [ru]
+           • Georgia
+               □ Aryan Kartli
+           • Greek
+               □ Ages of Man
+           • Iran
+               □ 2,500-year celebration
+           • Japan
+           • Korea
+               □ Nationalist
+               □ Goguryeo controversies
+           • North Macedonia
+           • Philippines
+               □ Early settlements
+           • Portugal [pt]
+               □ Lusotropicalism
+           • Romania
+               □ Great Union
+           • Serbia
+               □ Kosovo Myth
+           • Sweden
+               □ Götaland theory
+           • Switzerland
+           • Taiwan
+           • Ukraine
+               □ Executed Renaissance
+           • Vietnam
+               □ Nam tiến
+               □ Trưng sisters
+
+                        • Catilinarian conspiracy
+                        • Christianization
+                            □ Constantinian shift
+                        • Expansion
+                        • Fall of Western Rome
+         Ancient Rome   • Prosopography
+                        • Succession
+                            □ Byzantine succession
+                            □ Moscow, third Rome
+                            □ Ottoman claim
+                            □ Problem of two emperors
+
+                        • 5000-year civilization assertion
+                        • Archaeology
+                        • Wunu School [zh]
+                        • Century of humiliation
+                        • Conquest dynasty
+                            □ "Chineseness" debate
+                        • New Qing History
+            China       • Golden ages
+                        • Hua–Yi distinction
+                            □ Four Barbarians
+                            □ Sinocentrism
+                        • Self-Strengthening Movement
+                        • Sprouts of capitalism
+                        • Tibetan sovereignty debate
+
+                        • Cordon sanitaire
+                        • Frankish Interregnum [fr]
+                        • Grand Siècle
+            France      • Legendary Saracen [fr]
+                        • Location of Alésia [fr]
+Eurasia                 • Lyon [fr]
+
+                        • Alltagsgeschichte
+                        • Borussian myth
+                        • Historikerstreit
+           Germany      • Sonderweg
+                        • Strukturgeschichte [de]
+                        • Sybel-Ficker controversy
+                        • Vergangenheitsbewältigung
+
+                        • Greater Magadha
+            India       • Indocentrism
+                        • Indigenous Aryanism
+
+                        • Great Famine
+                        • "More Irish than the Irish themselves"
+           Ireland      • Revisionism
+                        • Revolutionary period
+
+                        • Fascist Italy
+                        • Fourth Italian War of Independence
+                        • Historiae Patriae Monumenta
+                        • Historical Series of the Bank of Italy
+            Italy       • Italians, the good people
+                        • Rerum italicarum scriptores
+                        • Revisionism of Risorgimento
+                        • Southern question
+                            □ Neo-Bourbonism
+
+                        • Golden Liberty
+                        • Sarmatism
+            Poland      • Deluge
+                        • Partitions
+                        • Polish People's Republic [pl]
+
+                        • Anti-Normanism
+                        • Pre-Revolutionary Russia [ru]
+                            □ Skeptic School [ru]
+                        • Soviet Union
+            Russia          □ October Revolution
+                        • Soviet famine of 1930–1933
+                            □ Causes of the Holodomor
+                            □ Holodomor genocide question
+                            □ Holodomor in modern politics
+
+                        • Black legend / White legend
+                        • Hispanism
+                        • Carlism in the Francoist era
+                        • Convivencia
+                        • Inquisition
+                        • Limpieza de sangre controversy [es]
+            Spain       • Reconquista
+                            □ Islamic revolution of Spain [es]
+                        • Revisionist
+                        • Colonies or Provinces
+                        • Spanish decline [es]
+                        • Ser de España [es]
+
+                        • Kemalist
+                        • Ottoman Empire
+            Turkey          □ Ghaza thesis
+                            □ Decline thesis
+
+                        • Poor Laws
+                        • Scotland
+                            □ Kingdom of Alba
+                            □ Westminster Stone
+                        • Storm over the gentry
+            United      • Suffragette Campaign
+           Kingdom      • Tudor myth
+                            □ Ricardians
+                        • Winter of Discontent
+
+                      British   • Cambridge School
+                      Empire    • Porter–MacKenzie debate
+                                • Second colonial occupation
+
+Oceania    • Colonial Australia
+
+                               By war, conflict
+                                       • v
+                                       • t
+                                       • e
+
+                            Military historiography
+  • Military history
+  • List of military museums
+
+                  • Albigensian Crusade
+                      □ Catharism debate
+                  • Crusades
+                      □ Islamic views
+                  • Eighty Years' War
+   Pre-18th           □ Origins
+    century       • Fall of Babylon
+   conflicts      • Gallic Wars
+                  • Late Bronze Age collapse
+                      □ Dorian invasion
+                      □ Sea Peoples
+                  • Peloponnesian War
+
+                                 • French Revolution
+                                     □ Pre-revolution [fr]
+                                     □ Causes
+                Coalition Wars       □ New Russian School [ru]
+                 (1792–1815)     • War in the Vendée
+                                 • Napoleonic era
+                                     □ Invasion of Russia
+                                     □ Waterloo
+
+                  • American Civil War
+                      □ Origins
+ 18th and 19th        □ Turning point
+    century       • Franco-Prussian War
+   conflicts          □ Causes
+                      □ Paris Commune
+                  • Great Game
+                  • Indian Rebellion of 1857
+                      □ Causes
+                  • Paraguayan War
+                  • War of 1812
+                      □ Origins
+                  • War of the Pacific
+                      □ Causes
+                      □ Myth of English aid [es]
+
+                  • Causes (Color books / Fischer thesis)
+                  • Late Ottoman genocides (Causes of the Armenian genocide)
+                  • Patriotic consent [fr]
+                  • Persian famine of 1917–1919
+                  • Powder keg of Europe
+                  • Schlieffen Plan
+  World War I     • Spirit of 1914 / 1917
+                  • Treaty of Brest-Litovsk [ru]
+
+                             • Reparations
+                Treaty of    • War guilt question
+                Versailles       □ Article 231
+                                 □ Reichstag inquiry
+
+                  • Burning of Smyrna
+                  • Polish–Soviet War
+Interwar period       □ Causes
+                  • Spanish Civil War
+                      □ Background
+
+                  • Causes
+                  • "Blitzkrieg" concept
+                  • Broad vs. narrow front
+                  • German resistance to Nazism
+                  • Nazi foreign policy debate
+
+                               • Molotov–Ribbentrop Pact
+                               • Soviet offensive plans
+                               • Soviets and the Warsaw Uprising
+                  Eastern      • Massacres of Poles in Volhynia and Eastern
+                   Front         Galicia
+                               • Winter War
+                                   □ Background
+                                   □ Spirit
+
+                               • Auschwitz bombing debate
+                               • Awareness in Nazi Germany and German-occupied
+                                 Europe
+ World War II                  • Functionalism–intentionalism debate
+                               • In relation to the Armenian genocide / Nakba
+                    The        • Pope Pius XII and the Holocaust
+                 Holocaust         □ Pius Wars
+                               • "Polish death camp"
+                               • Responsibility
+                               • Slovakia
+                               • Uniqueness
+
+                               • Atomic bombings of Hiroshima and Nagasaki
+                               • "Battle for Australia"
+                Pacific War    • Bengal famine
+                               • Second Sino-Japanese War
+                                   □ Nanjing Massacre
+
+                               • Battle of France
+                  Western      • Guilty Men
+                   Front       • Résistancialisme
+                               • Vichy France [fr]
+
+                  • Origins
+                  • 1948 Palestine war
+                      □ Palestinian expulsion and flight / Ongoing Nakba
+                      □ Zionism as settler colonialism
+                      □ New Historians
+                  • Malayan Emergency
+                      □ Causes
+                  • Algerian War
+   Cold War       • Six-Day War
+                      □ Origins
+                  • Iranian revolution
+                      □ Causes
+                  • Iran–Iraq War
+                  • Falklands War
+                      □ Sovereignty dispute
+                  • Sri Lankan civil war
+                      □ Origins
+
+                  • Russo-Georgian War
+                      □ Background
+ Post-Cold War        □ Responsibility
+                  • Syrian revolution
+                      □ Causes
+
+                  • Conflict thesis
+                  • Gunpowder and gun transmission
+    Related       • Torsion mangonel myth
+                  • War and genocide
+
+  • ● Category
+
+                 By person
+            • Adolf Hitler
+            • Alexander the Great
+            • Amin al-Husseini
+            • Aurangzeb
+            • Cato the Younger
+            • Che Guevara
+            • Chiang Ching-kuo [zh]
+            • Chiang Kai Shek [zh]
+            • Constantine the Great
+            • Gregory Palamas
+            • Horatio Nelson
+            • Hypatia
+            • Jiang Zemin [zh]
+            • Joseph Stalin [ru]
+            • José de San Martín
+            • Juan Manuel de Rosas
+            • Klemens von Metternich
+            • Leonid Brezhnev
+            • Louis Riel
+            • Mao Zedong [zh]
+            • Muammar Gaddafi
+Political   • Napoleon
+ leaders    • Neville Chamberlain
+            • Pedro II of Brazil
+            • Simon Bolivar
+                □ Cult of personality [es]
+                □ Bolivarianism
+            • Saladin
+            • Sun Yat-sen [zh]
+            • Thomas Aquinas
+            • Thomas Jefferson
+            • Ulysses S. Grant
+            • Warren G. Harding
+            • Yuan Shikai [zh]
+            • Zhou Enlai [zh]
+            • Zhuge Liang [zh]
+
+                       • Australia
+                       • Canada
+          Historical   • Modern Germany
+           rankings    • Netherlands
+                       • United Kingdom
+                       • United States
+
+            • The Beatles
+            • Charles Darwin
+            • Friedrich Nietzsche
+            • H. P. Lovecraft
+            • Jane Austen
+            • Muhammed
+                □ Historicity
+                □ Judaism
+                □ Medieval Christian
+            • Jesus
+                □ Historicity
+ Others         □ Resurrection
+                □ Religious perspectives
+                    ☆ Christianity
+                    ☆ Judaism
+                    ☆ Islam
+            • J. R. R. Tolkien
+                □ The Lord of the Rings
+            • Madonna
+            • Robert Falcon Scott
+            • Socrates
+            • Søren Kierkegaard
+            • William Shakespeare
+
+                            Other topics
+  • Bears in antiquity
+  • Crisis of historiography [pt]
+  • Feudalism
+  • Library of Alexandria
+  • Nationalism in the Middle Ages
+  • Professionalization and institutionalization of history
+  • Salons
+  • Western European colonialism and colonization
+  • Desacralization of knowledge
+
+             • Industrial Revolution
+             • Great Recession
+             • Great Depression
+Economics    • School of Thoughts
+                 □ Historical school of economics
+                 □ English historical school of economics
+
+             • Avestan geography
+             • Early Christianity
+                 □ Background
+                 □ Historical reliability of the Gospels
+                 □ Primacy of Peter
+                     ☆ Opposition to Papal supremacy
+                 □ Proto-orthodox Christianity
+             • Early Islam
+                 □ Criticism of the Quran
+                 □ Succession to Muhammad
+                 □ Islamic golden age
+                 □ Kharijites
+             • Ecclesiastical history of the Catholic Church
+                 □ Second Vatican Council
+                     ☆ Hermeneutics of Vatican Council II [it]
+             • Hesychast controversy
+ Religion    • Protestant Reformation
+                 □ Proto-Protestantism
+                 □ Criticism of Protestantism
+                 □ Protestant work ethic
+             • Jesuit historiography
+             • Modern Jewish history
+                 □ Wissenschaft des Judentums
+             • Schools of thought
+                 □ Biblical criticism
+                 □ Catholic theology
+                 □ Panbabylonism
+                 □ Urreligion
+                 □ Perennial
+                 □ Religionsgeschichtliche Schule
+                 □ Roman
+                 □ Revisionist school of Islamic studies
+
+             • Merton thesis
+Science /    • Protestant Ethic and Capitalism
+Technology   • Heroic theory of invention and scientific development
+             • Gunpowder and gun transmission
+             • Torsion mangonel myth
+
+ Organizations, publications
+  • Heritage registers
+  • Historical society (list)
+  • History institutes
+  • History journals
+      □ template
+
+                   Related
+  • Commemorative plaque
+  • Documentary film
+  • Hagiography
+  • Historical fiction
+      □ Historical realism
+      □ Historiographic metafiction
+  • Historical geographic information system
+
+  • ● Category
+  • ● Multimedia
+
+                                      • v
+                                      • t
+                                      • e
+
+                              Social philosophy
+               • Agency
+               • Anomie
+               • Convention
+               • Cosmopolitanism
+               • Customs
+               • Cultural heritage
+               • Culturalism
+                   □ Inter
+                   □ Mono
+                   □ Multi
+               • Culture
+                   □ Counter
+               • Familialism
+               • History
+               • Honour
+               • Human nature
+               • Identity
+                   □ Formation
+               • Ideology
+               • Institutions
+               • Invisible hand
+  Concepts     • Loyalty
+               • Modernity
+               • Morality
+                   □ Public
+               • Mores
+               • National character
+               • Natural law
+               • Personhood
+               • Reification
+               • Ressentiment
+               • Rights
+               • Sittlichkeit
+               • Social alienation
+               • Social norms
+               • Spontaneous order
+               • Stewardship
+               • Traditions
+               • Values
+                   □ Family
+               • Volksgeist
+               • Worldview
+
+               • Budapest School
+               • Catholic social teaching
+                   □ Distributism
+               • Communitarianism
+  Schools      • Confucianism
+               • Conservatism
+                   □ Social
+               • Frankfurt School
+               • Personalism
+
+                             • Augustine
+                             • Cicero
+                             • Confucius
+                             • Lactantius
+                             • Laozi
+                             • Mencius
+                             • Mozi
+                Ancient      • Origen
+                             • Philo
+                             • Plato
+                             • Polybius
+                             • Tertullian
+                             • Thucydides
+                             • Xunzi
+
+                             • Alpharabius
+                             • Aquinas
+                             • Avempace
+                             • Bruni
+                             • Dante
+                             • Gelasius
+               Medieval      • Ibn Khaldun
+                             • Maimonides
+                             • Muhammad
+                             • Photios
+                             • Plethon
+                             • Ibn Tufayl
+
+                             • Calvin
+                             • Erasmus
+                             • Guicciardini
+                             • Locke
+             Early modern    • Luther
+                             • Milton
+                             • Montaigne
+                             • Müntzer
+
+                             • Arnold
+                             • Bentham
+                             • Bonald
+                             • Burke
+                             • Carlyle
+                             • Comte
+                             • Condorcet
+                             • Emerson
+                             • Engels
+                             • Fichte
+                             • Fourier
+                             • Franklin
+                             • Hegel
+                             • Helvétius
+                             • Herder
+                             • Hume
+                             • Jefferson
+                             • Kant
+                             • Kierkegaard
+             18th and 19th   • Le Bon
+               centuries     • Le Play
+                             • Marx
+                             • Mill
+                             • Nietzsche
+                             • Owen
+                             • Renan
+                             • Rousseau
+                             • Royce
+                             • Ruskin
+                             • Smith
+                             • Spencer
+                             • de Staël
+                             • Stirner
+Philosophers                 • Taine
+                             • Thoreau
+                             • Tocqueville
+                             • Vico
+                             • Vivekananda
+                             • Voltaire
+
+                             • Adorno
+                             • Agamben
+                             • Arendt
+                             • Aron
+                             • Badiou
+                             • Baudrillard
+                             • Bauman
+                             • Benoist
+                             • Berlin
+                             • Butler
+                             • Camus
+                             • de Beauvoir
+                             • Debord
+                             • Deleuze
+                             • Dewey
+                             • Du Bois
+                             • Durkheim
+                             • Eco
+                             • Evola
+                             • Foucault
+                             • Fromm
+                             • Gandhi
+                             • Gehlen
+                             • Gentile
+                             • Gramsci
+                             • Guénon
+                             • Habermas
+                             • Han
+                             • Heidegger
+                             • Hoppe
+             20th and 21st   • Irigaray
+               centuries     • Kirk
+                             • Kołakowski
+                             • Kropotkin
+                             • Land
+                             • Lasch
+                             • MacIntyre
+                             • Marcuse
+                             • Maritain
+                             • Negri
+                             • Niebuhr
+                             • Nussbaum
+                             • Oakeshott
+                             • Ortega
+                             • Pareto
+                             • Polanyi
+                             • Radhakrishnan
+                             • Röpke
+                             • Santayana
+                             • Scruton
+                             • Shariati
+                             • Simmel
+                             • Skinner
+                             • Sombart
+                             • Sowell
+                             • Spengler
+                             • Taylor
+                             • Voegelin
+                             • Walzer
+                             • Weber
+                             • Weil
+                             • Zinn
+                             • Žižek
+
+               • De Officiis (44 BC)
+               • Oration on the Dignity of Man (1486)
+               • A Vindication of Natural Society (1756)
+               • Democracy in America (1835–1840)
+               • Civilization and Its Discontents (1930)
+               • The Work of Art in the Age of Mechanical Reproduction (1935)
+               • The Second Sex (1949)
+               • One-Dimensional Man (1964)
+   Works       • The Society of the Spectacle (1967)
+               • The History of Sexuality (1976)
+               • The Culture of Narcissism (1979)
+               • A Conflict of Visions (1987)
+               • The Closing of the American Mind (1987)
+               • Gender Trouble (1990)
+               • The Malaise of Modernity (1991)
+               • Intellectuals and Society (2010)
+
+               • Agnotology
+               • Axiology
+               • Critical theory
+               • Cultural criticism
+               • Cultural pessimism
+               • Ethics
+               • Historism
+               • Historicism
+  See also     • Humanities
+               • Philosophy of culture
+               • Philosophy of education
+               • Philosophy of history
+               • Political philosophy
+               • Social criticism
+               • Social science
+               • Social theory
+               • Sociology
+
+  • Category
+
+Authority control databases Edit this at Wikidata
+            • Japan
+National    • Czech Republic
+            • Spain
+
+  Other     • Encyclopedia of Modern Ukraine

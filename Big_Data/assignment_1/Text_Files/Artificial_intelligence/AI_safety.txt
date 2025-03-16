@@ -1,0 +1,1339 @@
+Research area on making AI safe and beneficial
+
+Part of a series on
+   Artificial intelligence (AI)
+[100px-Dall-e_]
+
+
+Major goals
+
+  • Artificial general intelligence
+  • Intelligent agent
+  • Recursive self-improvement
+  • Planning
+  • Computer vision
+  • General game playing
+  • Knowledge reasoning
+  • Natural language processing
+  • Robotics
+  • AI safety
+
+Approaches
+
+  • Machine learning
+  • Symbolic
+  • Deep learning
+  • Bayesian networks
+  • Evolutionary algorithms
+  • Hybrid intelligent systems
+  • Systems integration
+
+Applications
+
+  • Bioinformatics
+  • Deepfake
+  • Earth sciences
+  • Finance
+  • Generative AI
+      □ Art
+      □ Audio
+      □ Music
+  • Government
+  • Healthcare
+      □ Mental health
+  • Industry
+  • Translation
+  • Military
+  • Physics
+  • Projects
+
+Philosophy
+
+  • Artificial consciousness
+  • Chinese room
+  • Friendly AI
+  • Control problem/Takeover
+  • Ethics
+  • Existential risk
+  • Turing test
+  • Uncanny valley
+
+History
+
+  • Timeline
+  • Progress
+  • AI winter
+  • AI boom
+
+Glossary
+
+  • Glossary
+
+  • v
+  • t
+  • e
+
+AI safety is an interdisciplinary field focused on preventing accidents,
+misuse, or other harmful consequences arising from artificial intelligence (AI)
+systems. It encompasses machine ethics and AI alignment, which aim to ensure AI
+systems are moral and beneficial, as well as monitoring AI systems for risks
+and enhancing their reliability. The field is particularly concerned with
+existential risks posed by advanced AI models.
+
+Beyond technical research, AI safety involves developing norms and policies
+that promote safety. It gained significant popularity in 2023, with rapid
+progress in generative AI and public concerns voiced by researchers and CEOs
+about potential dangers. During the 2023 AI Safety Summit, the United States
+and the United Kingdom both established their own AI Safety Institute. However,
+researchers have expressed concern that AI safety measures are not keeping pace
+with the rapid development of AI capabilities.^[1]
+
+Motivations
+
+Scholars discuss current risks from critical systems failures,^[2] bias,^[3]
+and AI-enabled surveillance,^[4] as well as emerging risks like technological
+unemployment, digital manipulation,^[5] weaponization,^[6] AI-enabled
+cyberattacks^[7] and bioterrorism.^[8] They also discuss speculative risks from
+losing control of future artificial general intelligence (AGI) agents,^[9] or
+from AI enabling perpetually stable dictatorships.^[10]
+
+Existential safety
+
+See also: Existential risk from artificial general intelligence
+
+Some have criticized concerns about AGI, such as Andrew Ng who compared them in
+2015 to "worrying about overpopulation on Mars when we have not even set foot
+on the planet yet".^[11] Stuart J. Russell on the other side urges caution,
+arguing that "it is better to anticipate human ingenuity than to underestimate
+it".^[12]
+
+AI researchers have widely differing opinions about the severity and primary
+sources of risk posed by AI technology^[13]^[14]^[15] – though surveys suggest
+that experts take high consequence risks seriously. In two surveys of AI
+researchers, the median respondent was optimistic about AI overall, but placed
+a 5% probability on an "extremely bad (e.g. human extinction)" outcome of
+advanced AI.^[13] In a 2022 survey of the natural language processing
+community, 37% agreed or weakly agreed that it is plausible that AI decisions
+could lead to a catastrophe that is "at least as bad as an all-out nuclear
+war".^[16]
+
+History
+
+Risks from AI began to be seriously discussed at the start of the computer age:
+
+    Moreover, if we move in the direction of making machines which learn and
+    whose behavior is modified by experience, we must face the fact that every
+    degree of independence we give the machine is a degree of possible defiance
+    of our wishes.
+
+    — Norbert Wiener (1949)^[17]
+
+In 1988 Blay Whitby published a book outlining the need for AI to be developed
+along ethical and socially responsible lines.^[18]
+
+From 2008 to 2009, the Association for the Advancement of Artificial
+Intelligence (AAAI) commissioned a study to explore and address potential
+long-term societal influences of AI research and development. The panel was
+generally skeptical of the radical views expressed by science-fiction authors
+but agreed that "additional research would be valuable on methods for
+understanding and verifying the range of behaviors of complex computational
+systems to minimize unexpected outcomes".^[19]
+
+In 2011, Roman Yampolskiy introduced the term "AI safety engineering"^[20] at
+the Philosophy and Theory of Artificial Intelligence conference,^[21] listing
+prior failures of AI systems and arguing that "the frequency and seriousness of
+such events will steadily increase as AIs become more capable".^[22]
+
+In 2014, philosopher Nick Bostrom published the book Superintelligence: Paths,
+Dangers, Strategies. He has the opinion that the rise of AGI has the potential
+to create various societal issues, ranging from the displacement of the
+workforce by AI, manipulation of political and military structures, to even the
+possibility of human extinction.^[23] His argument that future advanced systems
+may pose a threat to human existence prompted Elon Musk,^[24] Bill Gates,^[25]
+and Stephen Hawking^[26] to voice similar concerns.
+
+In 2015, dozens of artificial intelligence experts signed an open letter on
+artificial intelligence calling for research on the societal impacts of AI and
+outlining concrete directions.^[27] To date, the letter has been signed by over
+8000 people including Yann LeCun, Shane Legg, Yoshua Bengio, and Stuart Russell
+.
+
+In the same year, a group of academics led by professor Stuart Russell founded
+the Center for Human-Compatible AI at the University of California Berkeley and
+the Future of Life Institute awarded $6.5 million in grants for research aimed
+at "ensuring artificial intelligence (AI) remains safe, ethical and
+beneficial".^[28]
+
+In 2016, the White House Office of Science and Technology Policy and Carnegie
+Mellon University announced The Public Workshop on Safety and Control for
+Artificial Intelligence,^[29] which was one of a sequence of four White House
+workshops aimed at investigating "the advantages and drawbacks" of AI.^[30] In
+the same year, Concrete Problems in AI Safety – one of the first and most
+influential technical AI Safety agendas – was published.^[31]
+
+In 2017, the Future of Life Institute sponsored the Asilomar Conference on
+Beneficial AI, where more than 100 thought leaders formulated principles for
+beneficial AI including "Race Avoidance: Teams developing AI systems should
+actively cooperate to avoid corner-cutting on safety standards".^[32]
+
+In 2018, the DeepMind Safety team outlined AI safety problems in specification,
+robustness,^[33] and assurance.^[34] The following year, researchers organized
+a workshop at ICLR that focused on these problem areas.^[35]
+
+In 2021, Unsolved Problems in ML Safety was published, outlining research
+directions in robustness, monitoring, alignment, and systemic safety.^[36]
+
+In 2023, Rishi Sunak said he wants the United Kingdom to be the "geographical
+home of global AI safety regulation" and to host the first global summit on AI
+safety.^[37] The AI safety summit took place in November 2023, and focused on
+the risks of misuse and loss of control associated with frontier AI models.^[38
+] During the summit the intention to create the International Scientific Report
+on the Safety of Advanced AI^[39] was announced.
+
+In 2024, The US and UK forged a new partnership on the science of AI safety.
+The MoU was signed on 1 April 2024 by US commerce secretary Gina Raimondo and
+UK technology secretary Michelle Donelan to jointly develop advanced AI model
+testing, following commitments announced at an AI Safety Summit in Bletchley
+Park in November.^[40]
+
+In 2025, an international team of 96 experts chaired by Yoshua Bengio published
+the first International AI Safety Report.^[41]^[42]
+
+Research focus
+
+         This section relies excessively on references to primary sources.
+         Please improve this section by adding secondary or tertiary sources.
+[50px-Q] Find sources: "." AI safety -Hendrycks – news · newspapers · books ·
+         scholar · JSTOR (July 2023) (Learn how and when to remove this message
+         )
+
+AI safety research areas include robustness, monitoring, and alignment.^[36]^[
+34]
+
+Robustness
+
+Adversarial robustness
+
+AI systems are often vulnerable to adversarial examples or "inputs to machine
+learning (ML) models that an attacker has intentionally designed to cause the
+model to make a mistake".^[43] For example, in 2013, Szegedy et al. discovered
+that adding specific imperceptible perturbations to an image could cause it to
+be misclassified with high confidence.^[44] This continues to be an issue with
+neural networks, though in recent work the perturbations are generally large
+enough to be perceptible.^[45]^[46]^[47]
+
+[350px-Illustration_of_imperceptible_adversarial_]
+Carefully crafted noise can be added to an image to cause it to be
+misclassified with high confidence.
+
+All of the images on the right are predicted to be an ostrich after the
+perturbation is applied. (Left) is a correctly predicted sample, (center)
+perturbation applied magnified by 10x, (right) adversarial example.^[44]
+
+Adversarial robustness is often associated with security.^[48] Researchers
+demonstrated that an audio signal could be imperceptibly modified so that
+speech-to-text systems transcribe it to any message the attacker chooses.^[49]
+Network intrusion^[50] and malware^[51] detection systems also must be
+adversarially robust since attackers may design their attacks to fool
+detectors.
+
+Models that represent objectives (reward models) must also be adversarially
+robust. For example, a reward model might estimate how helpful a text response
+is and a language model might be trained to maximize this score.^[52]
+Researchers have shown that if a language model is trained for long enough, it
+will leverage the vulnerabilities of the reward model to achieve a better score
+and perform worse on the intended task.^[53] This issue can be addressed by
+improving the adversarial robustness of the reward model.^[54] More generally,
+any AI system used to evaluate another AI system must be adversarially robust.
+This could include monitoring tools, since they could also potentially be
+tampered with to produce a higher reward.^[55]
+
+Monitoring
+
+Estimating uncertainty
+
+It is often important for human operators to gauge how much they should trust
+an AI system, especially in high-stakes settings such as medical diagnosis.^[56
+] ML models generally express confidence by outputting probabilities; however,
+they are often overconfident,^[57] especially in situations that differ from
+those that they were trained to handle.^[58] Calibration research aims to make
+model probabilities correspond as closely as possible to the true proportion
+that the model is correct.
+
+Similarly, anomaly detection or out-of-distribution (OOD) detection aims to
+identify when an AI system is in an unusual situation. For example, if a sensor
+on an autonomous vehicle is malfunctioning, or it encounters challenging
+terrain, it should alert the driver to take control or pull over.^[59] Anomaly
+detection has been implemented by simply training a classifier to distinguish
+anomalous and non-anomalous inputs,^[60] though a range of additional
+techniques are in use.^[61]^[62]
+
+Detecting malicious use
+
+Scholars^[6] and government agencies have expressed concerns that AI systems
+could be used to help malicious actors to build weapons,^[63] manipulate public
+opinion,^[64]^[65] or automate cyber attacks.^[66] These worries are a
+practical concern for companies like OpenAI which host powerful AI tools
+online.^[67] In order to prevent misuse, OpenAI has built detection systems
+that flag or restrict users based on their activity.^[68]
+
+Transparency
+
+Neural networks have often been described as black boxes,^[69] meaning that it
+is difficult to understand why they make the decisions they do as a result of
+the massive number of computations they perform.^[70] This makes it challenging
+to anticipate failures. In 2018, a self-driving car killed a pedestrian after
+failing to identify them. Due to the black box nature of the AI software, the
+reason for the failure remains unclear.^[71] It also raises debates in
+healthcare over whether statistically efficient but opaque models should be
+used.^[72]
+
+One critical benefit of transparency is explainability.^[73] It is sometimes a
+legal requirement to provide an explanation for why a decision was made in
+order to ensure fairness, for example for automatically filtering job
+applications or credit score assignment.^[73]
+
+Another benefit is to reveal the cause of failures.^[69] At the beginning of
+the 2020 COVID-19 pandemic, researchers used transparency tools to show that
+medical image classifiers were 'paying attention' to irrelevant hospital
+labels.^[74]
+
+Transparency techniques can also be used to correct errors. For example, in the
+paper "Locating and Editing Factual Associations in GPT", the authors were able
+to identify model parameters that influenced how it answered questions about
+the location of the Eiffel tower. They were then able to 'edit' this knowledge
+to make the model respond to questions as if it believed the tower was in Rome
+instead of France.^[75] Though in this case, the authors induced an error,
+these methods could potentially be used to efficiently fix them. Model editing
+techniques also exist in computer vision.^[76]
+
+Finally, some have argued that the opaqueness of AI systems is a significant
+source of risk and better understanding of how they function could prevent
+high-consequence failures in the future.^[77] "Inner" interpretability research
+aims to make ML models less opaque. One goal of this research is to identify
+what the internal neuron activations represent.^[78]^[79] For example,
+researchers identified a neuron in the CLIP artificial intelligence system that
+responds to images of people in spider man costumes, sketches of spiderman, and
+the word 'spider'.^[80] It also involves explaining connections between these
+neurons or 'circuits'.^[81]^[82] For example, researchers have identified
+pattern-matching mechanisms in transformer attention that may play a role in
+how language models learn from their context.^[83] "Inner interpretability" has
+been compared to neuroscience. In both cases, the goal is to understand what is
+going on in an intricate system, though ML researchers have the benefit of
+being able to take perfect measurements and perform arbitrary ablations.^[84]
+
+Detecting trojans
+
+Machine learning models can potentially contain "trojans" or "backdoors
+": vulnerabilities that malicious actors maliciously build into an AI system.
+For example, a trojaned facial recognition system could grant access when a
+specific piece of jewelry is in view;^[36] or a trojaned autonomous vehicle may
+function normally until a specific trigger is visible.^[85] Note that an
+adversary must have access to the system's training data in order to plant a
+trojan. ^[citation needed] This might not be difficult to do with some large
+models like CLIP or GPT-3 as they are trained on publicly available internet
+data.^[86] Researchers were able to plant a trojan in an image classifier by
+changing just 300 out of 3 million of the training images.^[87] In addition to
+posing a security risk, researchers have argued that trojans provide a concrete
+setting for testing and developing better monitoring tools.^[55]
+
+A 2024 research paper by Anthropic showed that large language models could be
+trained with persistent backdoors. These "sleeper agent" models could be
+programmed to generate malicious outputs (such as vulnerable code) after a
+specific date, while behaving normally beforehand. Standard AI safety measures,
+such as supervised fine-tuning, reinforcement learning and adversarial
+training, failed to remove these backdoors.^[88]
+
+Alignment
+
+This section is an excerpt from AI alignment.[edit]
+
+In the field of artificial intelligence (AI), alignment aims to steer AI
+systems toward a person's or group's intended goals, preferences, or ethical
+principles. An AI system is considered aligned if it advances the intended
+objectives. A misaligned AI system pursues unintended objectives.^[89]
+
+It is often challenging for AI designers to align an AI system because it is
+difficult for them to specify the full range of desired and undesired
+behaviors. Therefore, AI designers often use simpler proxy goals, such as
+gaining human approval. But proxy goals can overlook necessary constraints or
+reward the AI system for merely appearing aligned.^[89]^[90] AI systems may
+also find loopholes that allow them to accomplish their proxy goals efficiently
+but in unintended, sometimes harmful, ways (reward hacking).^[89]^[91]
+
+Advanced AI systems may develop unwanted instrumental strategies, such as
+seeking power or survival because such strategies help them achieve their
+assigned final goals.^[89]^[92]^[93] Furthermore, they might develop
+undesirable emergent goals that could be hard to detect before the system is
+deployed and encounters new situations and data distributions.^[94]^[95]
+Empirical research showed in 2024 that advanced large language models (LLMs)
+such as OpenAI o1 or Claude 3 sometimes engage in strategic deception to
+achieve their goals or prevent them from being changed.^[96]^[97]
+
+Today, some of these issues affect existing commercial systems such as LLMs,^[
+98]^[99]^[100] robots,^[101] autonomous vehicles,^[102] and social media
+recommendation engines.^[98]^[93]^[103] Some AI researchers argue that more
+capable future systems will be more severely affected because these problems
+partially result from high capabilities.^[104]^[91]^[90]
+
+Many prominent AI researchers and the leadership of major AI companies have
+argued or asserted that AI is approaching human-like (AGI) and superhuman
+cognitive capabilities (ASI), and could endanger human civilization if
+misaligned.^[105]^[93] These include "AI Godfathers" Geoffrey Hinton and Yoshua
+Bengio and the CEOs of OpenAI, Anthropic, and Google DeepMind.^[106]^[107]^[108
+] These risks remain debated.^[109]
+
+AI alignment is a subfield of AI safety, the study of how to build safe AI
+systems.^[110] Other subfields of AI safety include robustness, monitoring, and
+capability control.^[111] Research challenges in alignment include instilling
+complex values in AI, developing honest AI, scalable oversight, auditing and
+interpreting AI models, and preventing emergent AI behaviors like
+power-seeking.^[111] Alignment research has connections to interpretability
+research,^[112]^[113] (adversarial) robustness,^[110] anomaly detection,
+calibrated uncertainty,^[112] formal verification,^[114] preference learning,^[
+115]^[116]^[117] safety-critical engineering,^[118] game theory,^[119]
+algorithmic fairness,^[110]^[120] and social sciences.^[121]^[122]
+
+Systemic safety and sociotechnical factors
+
+It is common for AI risks (and technological risks more generally) to be
+categorized as misuse or accidents.^[123] Some scholars have suggested that
+this framework falls short.^[123] For example, the Cuban Missile Crisis was not
+clearly an accident or a misuse of technology.^[123] Policy analysts Zwetsloot
+and Dafoe wrote, "The misuse and accident perspectives tend to focus only on
+the last step in a causal chain leading up to a harm: that is, the person who
+misused the technology, or the system that behaved in unintended ways… Often,
+though, the relevant causal chain is much longer." Risks often arise from
+'structural' or 'systemic' factors such as competitive pressures, diffusion of
+harms, fast-paced development, high levels of uncertainty, and inadequate
+safety culture.^[123] In the broader context of safety engineering, structural
+factors like 'organizational safety culture' play a central role in the popular
+STAMP risk analysis framework.^[124]
+
+Inspired by the structural perspective, some researchers have emphasized the
+importance of using machine learning to improve sociotechnical safety factors,
+for example, using ML for cyber defense, improving institutional
+decision-making, and facilitating cooperation.^[36] Others have emphasized the
+importance of involving both AI practitioners and domain experts in the design
+process to address structural vulnerabilities.^[125]
+
+Cyber defense
+
+Some scholars are concerned that AI will exacerbate the already imbalanced game
+between cyber attackers and cyber defenders.^[126] This would increase 'first
+strike' incentives and could lead to more aggressive and destabilizing attacks.
+In order to mitigate this risk, some have advocated for an increased emphasis
+on cyber defense. In addition, software security is essential for preventing
+powerful AI models from being stolen and misused.^[6] Recent studies have shown
+that AI can significantly enhance both technical and managerial cybersecurity
+tasks by automating routine tasks and improving overall efficiency.^[127]
+
+Improving institutional decision-making
+
+The advancement of AI in economic and military domains could precipitate
+unprecedented political challenges.^[128] Some scholars have compared AI race
+dynamics to the cold war, where the careful judgment of a small number of
+decision-makers often spelled the difference between stability and catastrophe.
+^[129] AI researchers have argued that AI technologies could also be used to
+assist decision-making.^[36] For example, researchers are beginning to develop
+AI forecasting^[130] and advisory systems.^[131]
+
+Facilitating cooperation
+
+Many of the largest global threats (nuclear war,^[132] climate change,^[133]
+etc.) have been framed as cooperation challenges. As in the well-known
+prisoner's dilemma scenario, some dynamics may lead to poor results for all
+players, even when they are optimally acting in their self-interest. For
+example, no single actor has strong incentives to address climate change even
+though the consequences may be significant if no one intervenes.^[133]
+
+A salient AI cooperation challenge is avoiding a 'race to the bottom'.^[134] In
+this scenario, countries or companies race to build more capable AI systems and
+neglect safety, leading to a catastrophic accident that harms everyone
+involved. Concerns about scenarios like these have inspired both political^[135
+] and technical^[136] efforts to facilitate cooperation between humans, and
+potentially also between AI systems. Most AI research focuses on designing
+individual agents to serve isolated functions (often in 'single-player' games).
+^[137] Scholars have suggested that as AI systems become more autonomous, it
+may become essential to study and shape the way they interact.^[137]^[125]
+
+Challenges of large language models
+
+In recent years, the development of large language models (LLMs) has raised
+unique concerns within the field of AI safety. Researchers Bender and Gebru et
+al.^[138] have highlighted the environmental and financial costs associated
+with training these models, emphasizing that the energy consumption and carbon
+footprint of training procedures like those for Transformer models can be
+substantial. Moreover, these models often rely on massive, uncurated
+Internet-based datasets, which can encode hegemonic and biased viewpoints,
+further marginalizing underrepresented groups. The large-scale training data,
+while vast, does not guarantee diversity and often reflects the worldviews of
+privileged demographics, leading to models that perpetuate existing biases and
+stereotypes. This situation is exacerbated by the tendency of these models to
+produce seemingly coherent and fluent text, which can mislead users into
+attributing meaning and intent where none exists, a phenomenon described as
+'stochastic parrots'. These models, therefore, pose risks of amplifying
+societal biases, spreading misinformation, and being used for malicious
+purposes, such as generating extremist propaganda or deepfakes. To address
+these challenges, researchers advocate for more careful planning in dataset
+creation and system development, emphasizing the need for research projects
+that contribute positively towards an equitable technological ecosystem.^[139]^
+[140]
+
+The unique challenges posed by LLMs also extend to security vulnerabilities.
+These include various manipulation techniques, such as prompt injection,
+Misinformation Generation and model stealing,^[141] which can be exploited to
+compromise their intended function. This can allow attackers to bypass safety
+measures and elicit unintended responses
+
+In governance
+
+[279px-Vice_President_Harris_at_the_gro]
+The AI Safety Summit of November 2023^[142]
+
+AI governance is broadly concerned with creating norms, standards, and
+regulations to guide the use and development of AI systems.^[129]
+
+Research
+
+AI safety governance research ranges from foundational investigations into the
+potential impacts of AI to specific applications. On the foundational side,
+researchers have argued that AI could transform many aspects of society due to
+its broad applicability, comparing it to electricity and the steam engine.^[143
+] Some work has focused on anticipating specific risks that may arise from
+these impacts – for example, risks from mass unemployment,^[144] weaponization,
+^[145] disinformation,^[146] surveillance,^[147] and the concentration of
+power.^[148] Other work explores underlying risk factors such as the difficulty
+of monitoring the rapidly evolving AI industry,^[149] the availability of AI
+models,^[150] and 'race to the bottom' dynamics.^[134]^[151] Allan Dafoe, the
+head of longterm governance and strategy at DeepMind has emphasized the dangers
+of racing and the potential need for cooperation: "it may be close to a
+necessary and sufficient condition for AI safety and alignment that there be a
+high degree of caution prior to deploying advanced powerful systems; however,
+if actors are competing in a domain with large returns to first-movers or
+relative advantage, then they will be pressured to choose a sub-optimal level
+of caution".^[135] A research stream focuses on developing approaches,
+frameworks, and methods to assess AI accountability, guiding and promoting
+audits of AI-based systems.^[152]^[153]^[154]
+
+Efforts to enhance AI safety include frameworks designed to align AI outputs
+with ethical guidelines and reduce risks like misuse and data leakage. Tools
+such as Nvidia's Guardrails,^[155] Llama Guard,^[156] Preamble's customizable
+guardrails^[157] and Claude’s Constitution mitigate vulnerabilities like prompt
+injection and ensure outputs adhere to predefined principles. These frameworks
+are often integrated into AI systems to improve safety and reliability.^[158]
+
+Philosophical perspectives
+
+See also: Ethics of artificial intelligence
+
+The field of AI safety is deeply intertwined with philosophical considerations,
+particularly in the realm of ethics. Deontological ethics, which emphasizes
+adherence to moral rules, has been proposed as a framework for aligning AI
+systems with human values. By embedding deontological principles, AI systems
+can be guided to avoid actions that cause harm, ensuring their operations
+remain within ethical boundaries.^[159]
+
+Scaling local measures to global solutions
+
+In addressing the AI safety problem it is important to stress the distinction
+between local and global solutions. Local solutions focus on individual AI
+systems, ensuring they are safe and beneficial, while global solutions seek to
+implement safety measures for all AI systems across various jurisdictions. Some
+researchers^[160] argue for the necessity of scaling local safety measures to a
+global level, proposing a classification for these global solutions. This
+approach underscores the importance of collaborative efforts in the
+international governance of AI safety, emphasizing that no single entity can
+effectively manage the risks associated with AI technologies. This perspective
+aligns with ongoing efforts in international policy-making and regulatory
+frameworks, which aim to address the complex challenges posed by advanced AI
+systems worldwide.^[161]^[162]
+
+Government action
+
+See also: Regulation of artificial intelligence
+
+Some experts have argued that it is too early to regulate AI, expressing
+concerns that regulations will hamper innovation and it would be foolish to
+"rush to regulate in ignorance".^[163]^[164] Others, such as business magnate
+Elon Musk, call for pre-emptive action to mitigate catastrophic risks.^[165]
+
+Outside of formal legislation, government agencies have put forward ethical and
+safety recommendations. In March 2021, the US National Security Commission on
+Artificial Intelligence reported that advances in AI may make it increasingly
+important to "assure that systems are aligned with goals and values, including
+safety, robustness and trustworthiness".^[166] Subsequently, the National
+Institute of Standards and Technology drafted a framework for managing AI Risk,
+which advises that when "catastrophic risks are present – development and
+deployment should cease in a safe manner until risks can be sufficiently
+managed".^[167]
+
+In September 2021, the People's Republic of China published ethical guidelines
+for the use of AI in China, emphasizing that AI decisions should remain under
+human control and calling for accountability mechanisms. In the same month, The
+United Kingdom published its 10-year National AI Strategy,^[168] which states
+the British government "takes the long-term risk of non-aligned Artificial
+General Intelligence, and the unforeseeable changes that it would mean for ...
+the world, seriously".^[169] The strategy describes actions to assess long-term
+AI risks, including catastrophic risks.^[169] The British government held first
+major global summit on AI safety. This took place on the 1st and 2 November
+2023 and was described as "an opportunity for policymakers and world leaders to
+consider the immediate and future risks of AI and how these risks can be
+mitigated via a globally coordinated approach".^[170]^[171]
+
+Government organizations, particularly in the United States, have also
+encouraged the development of technical AI safety research. The Intelligence
+Advanced Research Projects Activity initiated the TrojAI project to identify
+and protect against Trojan attacks on AI systems.^[172] The DARPA engages in
+research on explainable artificial intelligence and improving robustness
+against adversarial attacks.^[173]^[174] And the National Science Foundation
+supports the Center for Trustworthy Machine Learning, and is providing millions
+of dollars in funding for empirical AI safety research.^[175]
+
+In 2024, the United Nations General Assembly adopted the first global
+resolution on the promotion of “safe, secure and trustworthy” AI systems that
+emphasized the respect, protection and promotion of human rights in the design,
+development, deployment and the use of AI.^[176]
+
+In May 2024, the Department for Science, Innovation and Technology (DSIT)
+announced £8.5 million in funding for AI safety research under the Systemic AI
+Safety Fast Grants Programme, led by Christopher Summerfield and Shahar Avin at
+the AI Safety Institute, in partnership with UK Research and Innovation.
+Technology Secretary Michelle Donelan announced the plan at the AI Seoul Summit
+, stating the goal was to make AI safe across society and that promising
+proposals could receive further funding. The UK also signed an agreement with
+10 other countries and the EU to form an international network of AI safety
+institutes to promote collaboration and share information and resources.
+Additionally, the UK AI Safety Institute planned to open an office in San
+Francisco.^[177]
+
+Corporate self-regulation
+
+AI labs and companies generally abide by safety practices and norms that fall
+outside of formal legislation.^[178] One aim of governance researchers is to
+shape these norms. Examples of safety recommendations found in the literature
+include performing third-party auditing,^[179] offering bounties for finding
+failures,^[179] sharing AI incidents^[179] (an AI incident database was created
+for this purpose),^[180] following guidelines to determine whether to publish
+research or models,^[150] and improving information and cyber security in AI
+labs.^[181]
+
+Companies have also made commitments. Cohere, OpenAI, and AI21 proposed and
+agreed on "best practices for deploying language models", focusing on
+mitigating misuse.^[182] To avoid contributing to racing-dynamics, OpenAI has
+also stated in their charter that "if a value-aligned, safety-conscious project
+comes close to building AGI before we do, we commit to stop competing with and
+start assisting this project"^[183] Also, industry leaders such as CEO of
+DeepMind Demis Hassabis, director of Facebook AI Yann LeCun have signed open
+letters such as the Asilomar Principles^[32] and the Autonomous Weapons Open
+Letter.^[184]
+
+See also
+
+  • AI alignment
+  • Artificial intelligence and elections
+  • Artificial intelligence detection software
+
+References
+
+ 1. ↑ Perrigo, Billy (2023-11-02). "U.K.'s AI Safety Summit Ends With Limited,
+    but Meaningful, Progress". Time. Retrieved 2024-06-02.
+ 2. ↑ De-Arteaga, Maria (2020-05-13). Machine Learning in High-Stakes Settings:
+    Risks and Opportunities (PhD). Carnegie Mellon University.
+ 3. ↑ Mehrabi, Ninareh; Morstatter, Fred; Saxena, Nripsuta; Lerman, Kristina;
+    Galstyan, Aram (2021). "A Survey on Bias and Fairness in Machine Learning".
+    ACM Computing Surveys. 54 (6): 1–35. arXiv:1908.09635. doi:10.1145/3457607.
+    ISSN 0360-0300. S2CID 201666566. Archived from the original on 2022-11-23.
+    Retrieved 2022-11-28.
+ 4. ↑ Feldstein, Steven (2019). The Global Expansion of AI Surveillance
+    (Report). Carnegie Endowment for International Peace.
+ 5. ↑ Barnes, Beth (2021). "Risks from AI persuasion". Lesswrong. Archived from
+    the original on 2022-11-23. Retrieved 2022-11-23.
+ 6. 1 2 3 Brundage, Miles; Avin, Shahar; Clark, Jack; Toner, Helen; Eckersley,
+    Peter; Garfinkel, Ben; Dafoe, Allan; Scharre, Paul; Zeitzoff, Thomas;
+    Filar, Bobby; Anderson, Hyrum; Roff, Heather; Allen, Gregory C; Steinhardt,
+    Jacob; Flynn, Carrick (2018-04-30). "The Malicious Use of Artificial
+    Intelligence: Forecasting, Prevention, and Mitigation". Apollo-University
+    Of Cambridge Repository, Apollo-University Of Cambridge Repository. Apollo
+    - University of Cambridge Repository. doi:10.17863/cam.22520. S2CID 3385567
+    . Archived from the original on 2022-11-23. Retrieved 2022-11-28. {{cite
+    journal}}: Cite journal requires |journal= (help)
+ 7. ↑ Davies, Pascale (December 26, 2022). "How NATO is preparing for a new era
+    of AI cyber attacks". euronews. Retrieved 2024-03-23.
+ 8. ↑ Ahuja, Anjana (February 7, 2024). "AI's bioterrorism potential should not
+    be ruled out". Financial Times. Retrieved 2024-03-23.
+ 9. ↑ Carlsmith, Joseph (2022-06-16). "Is Power-Seeking AI an Existential Risk?
+    ". arXiv:2206.13353. {{cite journal}}: Cite journal requires |journal= (
+    help)
+10. ↑ Minardi, Di (16 October 2020). "The grim fate that could be 'worse than
+    extinction'". BBC. Retrieved 2024-03-23.
+11. ↑ "AGI Expert Peter Voss Says AI Alignment Problem is Bogus |
+    NextBigFuture.com". 2023-04-04. Retrieved 2023-07-23.
+12. ↑ Dafoe, Allan (2016). "Yes, We Are Worried About the Existential Risk of
+    Artificial Intelligence". MIT Technology Review. Archived from the original
+    on 2022-11-28. Retrieved 2022-11-28.
+13. 1 2 Grace, Katja; Salvatier, John; Dafoe, Allan; Zhang, Baobao; Evans,
+    Owain (2018-07-31). "Viewpoint: When Will AI Exceed Human Performance?
+    Evidence from AI Experts". Journal of Artificial Intelligence Research. 62:
+    729–754. arXiv:1705.08807. doi:10.1613/jair.1.11222. ISSN 1076-9757. S2CID 
+    8746462. Archived from the original on 2023-02-10. Retrieved 2022-11-28.
+14. ↑ Zhang, Baobao; Anderljung, Markus; Kahn, Lauren; Dreksler, Noemi;
+    Horowitz, Michael C.; Dafoe, Allan (2021-05-05). "Ethics and Governance of
+    Artificial Intelligence: Evidence from a Survey of Machine Learning
+    Researchers". Journal of Artificial Intelligence Research. 71. arXiv:
+    2105.02117. doi:10.1613/jair.1.12895.
+15. ↑ Stein-Perlman, Zach; Weinstein-Raun, Benjamin; Grace (2022-08-04). "2022
+    Expert Survey on Progress in AI". AI Impacts. Archived from the original on
+    2022-11-23. Retrieved 2022-11-23.
+16. ↑ Michael, Julian; Holtzman, Ari; Parrish, Alicia; Mueller, Aaron; Wang,
+    Alex; Chen, Angelica; Madaan, Divyam; Nangia, Nikita; Pang, Richard
+    Yuanzhe; Phang, Jason; Bowman, Samuel R. (2022-08-26). "What Do NLP
+    Researchers Believe? Results of the NLP Community Metasurvey". Association
+    for Computational Linguistics. arXiv:2208.12852.
+17. ↑ Markoff, John (2013-05-20). "In 1949, He Imagined an Age of Robots". The
+    New York Times. ISSN 0362-4331. Archived from the original on 2022-11-23.
+    Retrieved 2022-11-23.
+18. ↑ https://sussex.figshare.com/articles/book/
+    Artificial_intelligence_a_handbook_of_professionalism/23312414
+19. ↑ Association for the Advancement of Artificial Intelligence. "AAAI
+    Presidential Panel on Long-Term AI Futures". Archived from the original on
+    2022-09-01. Retrieved 2022-11-23.
+20. ↑ Yampolskiy, Roman V.; Spellchecker, M. S. (2016-10-25). "Artificial
+    Intelligence Safety and Cybersecurity: a Timeline of AI Failures". arXiv:
+    1610.07997. {{cite journal}}: Cite journal requires |journal= (help)
+21. ↑ "PT-AI 2011 – Philosophy and Theory of Artificial Intelligence (PT-AI
+    2011)". Archived from the original on 2022-11-23. Retrieved 2022-11-23.
+22. ↑ Yampolskiy, Roman V. (2013), Müller, Vincent C. (ed.), "Artificial
+    Intelligence Safety Engineering: Why Machine Ethics is a Wrong Approach",
+    Philosophy and Theory of Artificial Intelligence, Studies in Applied
+    Philosophy, Epistemology and Rational Ethics, vol. 5, Berlin; Heidelberg,
+    Germany: Springer Berlin Heidelberg, pp. 389–396, doi:10.1007/
+    978-3-642-31674-6_29, ISBN 978-3-642-31673-9, archived from the original on
+    2023-03-15, retrieved 2022-11-23
+23. ↑ McLean, Scott; Read, Gemma J. M.; Thompson, Jason; Baber, Chris; Stanton,
+    Neville A.; Salmon, Paul M. (2023-07-04). "The risks associated with
+    Artificial General Intelligence: A systematic review". Journal of
+    Experimental & Theoretical Artificial Intelligence. 35 (5): 649–663.
+    Bibcode:2023JETAI..35..649M. doi:10.1080/0952813X.2021.1964003. hdl:11343/
+    289595. ISSN 0952-813X. S2CID 238643957.
+24. ↑ Wile, Rob (August 3, 2014). "Elon Musk: Artificial Intelligence Is
+    'Potentially More Dangerous Than Nukes'". Business Insider. Retrieved 
+    2024-02-22.
+25. ↑ Kuo, Kaiser (2015-03-31). Baidu CEO Robin Li interviews Bill Gates and
+    Elon Musk at the Boao Forum, March 29, 2015. Event occurs at 55:49.
+    Archived from the original on 2022-11-23. Retrieved 2022-11-23.
+26. ↑ Cellan-Jones, Rory (2014-12-02). "Stephen Hawking warns artificial
+    intelligence could end mankind". BBC News. Archived from the original on
+    2015-10-30. Retrieved 2022-11-23.
+27. ↑ Future of Life Institute. "Research Priorities for Robust and Beneficial
+    Artificial Intelligence: An Open Letter". Future of Life Institute.
+    Archived from the original on 2022-11-23. Retrieved 2022-11-23.
+28. ↑ Future of Life Institute (October 2016). "AI Research Grants Program".
+    Future of Life Institute. Archived from the original on 2022-11-23.
+    Retrieved 2022-11-23.
+29. ↑ "SafArtInt 2016". Archived from the original on 2022-11-23. Retrieved 
+    2022-11-23.
+30. ↑ Bach, Deborah (2016). "UW to host first of four White House public
+    workshops on artificial intelligence". UW News. Archived from the original
+    on 2022-11-23. Retrieved 2022-11-23.
+31. ↑ Amodei, Dario; Olah, Chris; Steinhardt, Jacob; Christiano, Paul;
+    Schulman, John; Mané, Dan (2016-07-25). "Concrete Problems in AI Safety".
+    arXiv:1606.06565. {{cite journal}}: Cite journal requires |journal= (help)
+32. 1 2 Future of Life Institute. "AI Principles". Future of Life Institute.
+    Archived from the original on 2022-11-23. Retrieved 2022-11-23.
+33. ↑ Yohsua, Bengio; Daniel, Privitera; Tamay, Besiroglu; Rishi, Bommasani;
+    Stephen, Casper; Yejin, Choi; Danielle, Goldfarb; Hoda, Heidari; Leila,
+    Khalatbari (May 2024). International Scientific Report on the Safety of
+    Advanced AI (Report). Department for Science, Innovation and Technology.
+34. 1 2 Research, DeepMind Safety (2018-09-27). "Building safe artificial
+    intelligence: specification, robustness, and assurance". Medium. Archived
+    from the original on 2023-02-10. Retrieved 2022-11-23.
+35. ↑ "SafeML ICLR 2019 Workshop". Archived from the original on 2022-11-23.
+    Retrieved 2022-11-23.
+36. 1 2 3 4 5 Hendrycks, Dan; Carlini, Nicholas; Schulman, John; Steinhardt,
+    Jacob (2022-06-16). "Unsolved Problems in ML Safety". arXiv:2109.13916. {{
+    cite journal}}: Cite journal requires |journal= (help)
+37. ↑ Browne, Ryan (2023-06-12). "British Prime Minister Rishi Sunak pitches UK
+    as home of A.I. safety regulation as London bids to be next Silicon Valley"
+    . CNBC. Retrieved 2023-06-25.
+38. ↑ Bertuzzi, Luca (October 18, 2023). "UK's AI safety summit set to
+    highlight risk of losing human control over 'frontier' models". Euractiv.
+    Retrieved March 2, 2024.
+39. ↑ Bengio, Yoshua; Privitera, Daniel; Bommasani, Rishi; Casper, Stephen;
+    Goldfarb, Danielle; Mavroudis, Vasilios; Khalatbari, Leila; Mazeika,
+    Mantas; Hoda, Heidari (2024-05-17). "International Scientific Report on the
+    Safety of Advanced AI" (PDF). GOV.UK. Archived (PDF) from the original on
+    2024-06-15. Retrieved 2024-07-08. Alt URL
+40. ↑ Shepardson, David (1 April 2024). "US, Britain announce partnership on AI
+    safety, testing". Retrieved 2 April 2024.
+41. ↑ "What International AI Safety report says on jobs, climate, cyberwar and
+    more". The Guardian. 2025-01-29. ISSN 0261-3077. Retrieved 2025-03-03.
+42. ↑ "Launch of the First International Report on AI Safety chaired by Yoshua
+    Bengio". mila.quebec. January 29, 2025. Retrieved 2025-03-03.
+43. ↑ Goodfellow, Ian; Papernot, Nicolas; Huang, Sandy; Duan, Rocky; Abbeel,
+    Pieter; Clark, Jack (2017-02-24). "Attacking Machine Learning with
+    Adversarial Examples". OpenAI. Archived from the original on 2022-11-24.
+    Retrieved 2022-11-24.
+44. 1 2 Szegedy, Christian; Zaremba, Wojciech; Sutskever, Ilya; Bruna, Joan;
+    Erhan, Dumitru; Goodfellow, Ian; Fergus, Rob (2014-02-19). "Intriguing
+    properties of neural networks". ICLR. arXiv:1312.6199.
+45. ↑ Kurakin, Alexey; Goodfellow, Ian; Bengio, Samy (2017-02-10). "Adversarial
+    examples in the physical world". ICLR. arXiv:1607.02533.
+46. ↑ Madry, Aleksander; Makelov, Aleksandar; Schmidt, Ludwig; Tsipras,
+    Dimitris; Vladu, Adrian (2019-09-04). "Towards Deep Learning Models
+    Resistant to Adversarial Attacks". ICLR. arXiv:1706.06083.
+47. ↑ Kannan, Harini; Kurakin, Alexey; Goodfellow, Ian (2018-03-16).
+    "Adversarial Logit Pairing". arXiv:1803.06373. {{cite journal}}: Cite
+    journal requires |journal= (help)
+48. ↑ Gilmer, Justin; Adams, Ryan P.; Goodfellow, Ian; Andersen, David; Dahl,
+    George E. (2018-07-19). "Motivating the Rules of the Game for Adversarial
+    Example Research". arXiv:1807.06732. {{cite journal}}: Cite journal
+    requires |journal= (help)
+49. ↑ Carlini, Nicholas; Wagner, David (2018-03-29). "Audio Adversarial
+    Examples: Targeted Attacks on Speech-to-Text". IEEE Security and Privacy
+    Workshops. arXiv:1801.01944.
+50. ↑ Sheatsley, Ryan; Papernot, Nicolas; Weisman, Michael; Verma, Gunjan;
+    McDaniel, Patrick (2022-09-09). "Adversarial Examples in Constrained
+    Domains". arXiv:2011.01183. {{cite journal}}: Cite journal requires |
+    journal= (help)
+51. ↑ Suciu, Octavian; Coull, Scott E.; Johns, Jeffrey (2019-04-13). "Exploring
+    Adversarial Examples in Malware Detection". IEEE Security and Privacy
+    Workshops. arXiv:1810.08280.
+52. ↑ Ouyang, Long; Wu, Jeff; Jiang, Xu; Almeida, Diogo; Wainwright, Carroll
+    L.; Mishkin, Pamela; Zhang, Chong; Agarwal, Sandhini; Slama, Katarina; Ray,
+    Alex; Schulman, John; Hilton, Jacob; Kelton, Fraser; Miller, Luke; Simens,
+    Maddie (2022-03-04). "Training language models to follow instructions with
+    human feedback". NeurIPS. arXiv:2203.02155.
+53. ↑ Gao, Leo; Schulman, John; Hilton, Jacob (2022-10-19). "Scaling Laws for
+    Reward Model Overoptimization". ICML. arXiv:2210.10760.
+54. ↑ Yu, Sihyun; Ahn, Sungsoo; Song, Le; Shin, Jinwoo (2021-10-27). "RoMA:
+    Robust Model Adaptation for Offline Model-based Optimization". NeurIPS.
+    arXiv:2110.14188.
+55. 1 2 Hendrycks, Dan; Mazeika, Mantas (2022-09-20). "X-Risk Analysis for AI
+    Research". arXiv:2206.05862. {{cite journal}}: Cite journal requires |
+    journal= (help)
+56. ↑ Tran, Khoa A.; Kondrashova, Olga; Bradley, Andrew; Williams, Elizabeth
+    D.; Pearson, John V.; Waddell, Nicola (2021). "Deep learning in cancer
+    diagnosis, prognosis and treatment selection". Genome Medicine. 13 (1):
+    152. doi:10.1186/s13073-021-00968-x. ISSN 1756-994X. PMC 8477474. PMID 
+    34579788.
+57. ↑ Guo, Chuan; Pleiss, Geoff; Sun, Yu; Weinberger, Kilian Q. (2017-08-06).
+    "On calibration of modern neural networks". Proceedings of the 34th
+    international conference on machine learning. Proceedings of machine
+    learning research. Vol. 70. PMLR. pp. 1321–1330.
+58. ↑ Ovadia, Yaniv; Fertig, Emily; Ren, Jie; Nado, Zachary; Sculley, D.;
+    Nowozin, Sebastian; Dillon, Joshua V.; Lakshminarayanan, Balaji; Snoek,
+    Jasper (2019-12-17). "Can You Trust Your Model's Uncertainty? Evaluating
+    Predictive Uncertainty Under Dataset Shift". NeurIPS. arXiv:1906.02530.
+59. ↑ Bogdoll, Daniel; Breitenstein, Jasmin; Heidecker, Florian; Bieshaar,
+    Maarten; Sick, Bernhard; Fingscheidt, Tim; Zöllner, J. Marius (2021).
+    "Description of Corner Cases in Automated Driving: Goals and Challenges".
+    2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
+    . pp. 1023–1028. arXiv:2109.09607. doi:10.1109/ICCVW54120.2021.00119. ISBN 
+    978-1-6654-0191-3. S2CID 237572375.
+60. ↑ Hendrycks, Dan; Mazeika, Mantas; Dietterich, Thomas (2019-01-28). "Deep
+    Anomaly Detection with Outlier Exposure". ICLR. arXiv:1812.04606.
+61. ↑ Wang, Haoqi; Li, Zhizhong; Feng, Litong; Zhang, Wayne (2022-03-21). "ViM:
+    Out-Of-Distribution with Virtual-logit Matching". CVPR. arXiv:2203.10807.
+62. ↑ Hendrycks, Dan; Gimpel, Kevin (2018-10-03). "A Baseline for Detecting
+    Misclassified and Out-of-Distribution Examples in Neural Networks". ICLR.
+    arXiv:1610.02136.
+63. ↑ Urbina, Fabio; Lentzos, Filippa; Invernizzi, Cédric; Ekins, Sean (2022).
+    "Dual use of artificial-intelligence-powered drug discovery". Nature
+    Machine Intelligence. 4 (3): 189–191. doi:10.1038/s42256-022-00465-9. ISSN 
+    2522-5839. PMC 9544280. PMID 36211133.
+64. ↑ Center for Security and Emerging Technology; Buchanan, Ben; Lohn, Andrew;
+    Musser, Micah; Sedova, Katerina (2021). "Truth, Lies, and Automation: How
+    Language Models Could Change Disinformation". doi:10.51593/2021ca003. S2CID
+     240522878. Archived from the original on 2022-11-24. Retrieved 2022-11-28.
+    {{cite journal}}: Cite journal requires |journal= (help)
+65. ↑ "Propaganda-as-a-service may be on the horizon if large language models
+    are abused". VentureBeat. 2021-12-14. Archived from the original on
+    2022-11-24. Retrieved 2022-11-24.
+66. ↑ Center for Security and Emerging Technology; Buchanan, Ben; Bansemer,
+    John; Cary, Dakota; Lucas, Jack; Musser, Micah (2020). "Automating Cyber
+    Attacks: Hype and Reality". Center for Security and Emerging Technology.
+    doi:10.51593/2020ca002. S2CID 234623943. Archived from the original on
+    2022-11-24. Retrieved 2022-11-28.
+67. ↑ "Lessons Learned on Language Model Safety and Misuse". OpenAI.
+    2022-03-03. Archived from the original on 2022-11-24. Retrieved 2022-11-24.
+68. ↑ Markov, Todor; Zhang, Chong; Agarwal, Sandhini; Eloundou, Tyna; Lee,
+    Teddy; Adler, Steven; Jiang, Angela; Weng, Lilian (2022-08-10).
+    "New-and-Improved Content Moderation Tooling". OpenAI. Archived from the
+    original on 2023-01-11. Retrieved 2022-11-24.
+69. 1 2 Savage, Neil (2022-03-29). "Breaking into the black box of artificial
+    intelligence". Nature. doi:10.1038/d41586-022-00858-1. PMID 35352042. S2CID
+     247792459. Archived from the original on 2022-11-24. Retrieved 2022-11-24.
+70. ↑ Center for Security and Emerging Technology; Rudner, Tim; Toner, Helen
+    (2021). "Key Concepts in AI Safety: Interpretability in Machine Learning".
+    CSET Issue Brief. doi:10.51593/20190042. S2CID 233775541. Archived from the
+    original on 2022-11-24. Retrieved 2022-11-28.
+71. ↑ McFarland, Matt (2018-03-19). "Uber pulls self-driving cars after first
+    fatal crash of autonomous vehicle". CNNMoney. Archived from the original on
+    2022-11-24. Retrieved 2022-11-24.
+72. ↑ Felder, Ryan Marshall (July 2021). "Coming to Terms with the Black Box
+    Problem: How to Justify AI Systems in Health Care". Hastings Center Report.
+    51 (4): 38–45. doi:10.1002/hast.1248. ISSN 0093-0334. PMID 33821471.
+73. 1 2 Doshi-Velez, Finale; Kortz, Mason; Budish, Ryan; Bavitz, Chris;
+    Gershman, Sam; O'Brien, David; Scott, Kate; Schieber, Stuart; Waldo, James;
+    Weinberger, David; Weller, Adrian; Wood, Alexandra (2019-12-20).
+    "Accountability of AI Under the Law: The Role of Explanation". arXiv:
+    1711.01134. {{cite journal}}: Cite journal requires |journal= (help)
+74. ↑ Fong, Ruth; Vedaldi, Andrea (2017). "Interpretable Explanations of Black
+    Boxes by Meaningful Perturbation". 2017 IEEE International Conference on
+    Computer Vision (ICCV). pp. 3449–3457. arXiv:1704.03296. doi:10.1109/
+    ICCV.2017.371. ISBN 978-1-5386-1032-9. S2CID 1633753.
+75. ↑ Meng, Kevin; Bau, David; Andonian, Alex; Belinkov, Yonatan (2022).
+    "Locating and editing factual associations in GPT". Advances in Neural
+    Information Processing Systems. 35. arXiv:2202.05262.
+76. ↑ Bau, David; Liu, Steven; Wang, Tongzhou; Zhu, Jun-Yan; Torralba, Antonio
+    (2020-07-30). "Rewriting a Deep Generative Model". ECCV. arXiv:2007.15646.
+77. ↑ Räuker, Tilman; Ho, Anson; Casper, Stephen; Hadfield-Menell, Dylan
+    (2022-09-05). "Toward Transparent AI: A Survey on Interpreting the Inner
+    Structures of Deep Neural Networks". IEEE SaTML. arXiv:2207.13243.
+78. ↑ Bau, David; Zhou, Bolei; Khosla, Aditya; Oliva, Aude; Torralba, Antonio
+    (2017-04-19). "Network Dissection: Quantifying Interpretability of Deep
+    Visual Representations". CVPR. arXiv:1704.05796.
+79. ↑ McGrath, Thomas; Kapishnikov, Andrei; Tomašev, Nenad; Pearce, Adam;
+    Wattenberg, Martin; Hassabis, Demis; Kim, Been; Paquet, Ulrich; Kramnik,
+    Vladimir (2022-11-22). "Acquisition of chess knowledge in AlphaZero".
+    Proceedings of the National Academy of Sciences. 119 (47): e2206625119.
+    arXiv:2111.09259. Bibcode:2022PNAS..11906625M. doi:10.1073/pnas.2206625119.
+    ISSN 0027-8424. PMC 9704706. PMID 36375061.
+80. ↑ Goh, Gabriel; Cammarata, Nick; Voss, Chelsea; Carter, Shan; Petrov,
+    Michael; Schubert, Ludwig; Radford, Alec; Olah, Chris (2021). "Multimodal
+    neurons in artificial neural networks". Distill. 6 (3). doi:10.23915/
+    distill.00030. S2CID 233823418.
+81. ↑ Olah, Chris; Cammarata, Nick; Schubert, Ludwig; Goh, Gabriel; Petrov,
+    Michael; Carter, Shan (2020). "Zoom in: An introduction to circuits".
+    Distill. 5 (3). doi:10.23915/distill.00024.001. S2CID 215930358.
+82. ↑ Cammarata, Nick; Goh, Gabriel; Carter, Shan; Voss, Chelsea; Schubert,
+    Ludwig; Olah, Chris (2021). "Curve circuits". Distill. 6 (1). doi:10.23915/
+    distill.00024.006 (inactive 1 November 2024). Archived from the original on
+    5 December 2022. Retrieved 5 December 2022.{{cite journal}}: CS1 maint: DOI
+    inactive as of November 2024 (link)
+83. ↑ Olsson, Catherine; Elhage, Nelson; Nanda, Neel; Joseph, Nicholas;
+    DasSarma, Nova; Henighan, Tom; Mann, Ben; Askell, Amanda; Bai, Yuntao;
+    Chen, Anna; Conerly, Tom; Drain, Dawn; Ganguli, Deep; Hatfield-Dodds, Zac;
+    Hernandez, Danny; Johnston, Scott; Jones, Andy; Kernion, Jackson; Lovitt,
+    Liane; Ndousse, Kamal; Amodei, Dario; Brown, Tom; Clark, Jack; Kaplan,
+    Jared; McCandlish, Sam; Olah, Chris (2022). "In-context learning and
+    induction heads". Transformer Circuits Thread. arXiv:2209.11895.
+84. ↑ Olah, Christopher. "Interpretability vs Neuroscience [rough note]".
+    Archived from the original on 2022-11-24. Retrieved 2022-11-24.
+85. ↑ Gu, Tianyu; Dolan-Gavitt, Brendan; Garg, Siddharth (2019-03-11).
+    "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply
+    Chain". arXiv:1708.06733. {{cite journal}}: Cite journal requires |journal=
+    (help)
+86. ↑ Chen, Xinyun; Liu, Chang; Li, Bo; Lu, Kimberly; Song, Dawn (2017-12-14).
+    "Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning".
+    arXiv:1712.05526. {{cite journal}}: Cite journal requires |journal= (help)
+87. ↑ Carlini, Nicholas; Terzis, Andreas (2022-03-28). "Poisoning and
+    Backdooring Contrastive Learning". ICLR. arXiv:2106.09667.
+88. ↑ "How 'sleeper agent' AI assistants can sabotage code". The Register. 16
+    January 2024. Archived from the original on 2024-12-24. Retrieved 
+    2025-01-12.
+89. 1 2 3 4 Russell, Stuart J.; Norvig, Peter (2021). Artificial intelligence:
+    A modern approach (4th ed.). Pearson. pp. 5, 1003. ISBN 9780134610993.
+    Retrieved September 12, 2022.
+90. 1 2 Ngo, Richard; Chan, Lawrence; Mindermann, Sören (2022). "The Alignment
+    Problem from a Deep Learning Perspective". International Conference on
+    Learning Representations. arXiv:2209.00626.
+91. 1 2 Pan, Alexander; Bhatia, Kush; Steinhardt, Jacob (2022-02-14). The
+    Effects of Reward Misspecification: Mapping and Mitigating Misaligned
+    Models. International Conference on Learning Representations. Retrieved 
+    2022-07-21.
+92. ↑ Carlsmith, Joseph (2022-06-16). "Is Power-Seeking AI an Existential Risk?
+    ". arXiv:2206.13353 [cs.CY].
+93. 1 2 3 Russell, Stuart J. (2020). Human compatible: Artificial intelligence
+    and the problem of control. Penguin Random House. ISBN 9780525558637. OCLC 
+    1113410915.
+94. ↑ Christian, Brian (2020). The alignment problem: Machine learning and
+    human values. W. W. Norton & Company. ISBN 978-0-393-86833-3. OCLC 
+    1233266753. Archived from the original on February 10, 2023. Retrieved 
+    September 12, 2022.
+95. ↑ Langosco, Lauro Langosco Di; Koch, Jack; Sharkey, Lee D.; Pfau, Jacob;
+    Krueger, David (2022-06-28). "Goal Misgeneralization in Deep Reinforcement
+    Learning". Proceedings of the 39th International Conference on Machine
+    Learning. International Conference on Machine Learning. PMLR. pp. 12004–
+    12019. Retrieved 2023-03-11.
+96. ↑ Pillay, Tharin (2024-12-15). "New Tests Reveal AI's Capacity for
+    Deception". TIME. Retrieved 2025-01-12.
+97. ↑ Perrigo, Billy (2024-12-18). "Exclusive: New Research Shows AI
+    Strategically Lying". TIME. Retrieved 2025-01-12.
+98. 1 2 Bommasani, Rishi; Hudson, Drew A.; Adeli, Ehsan; Altman, Russ; Arora,
+    Simran; von Arx, Sydney; Bernstein, Michael S.; Bohg, Jeannette; Bosselut,
+    Antoine; Brunskill, Emma; Brynjolfsson, Erik (2022-07-12). "On the
+    Opportunities and Risks of Foundation Models". Stanford CRFM. arXiv:
+    2108.07258.
+99. ↑ Ouyang, Long; Wu, Jeff; Jiang, Xu; Almeida, Diogo; Wainwright, Carroll
+    L.; Mishkin, Pamela; Zhang, Chong; Agarwal, Sandhini; Slama, Katarina; Ray,
+    Alex; Schulman, J.; Hilton, Jacob; Kelton, Fraser; Miller, Luke E.; Simens,
+    Maddie; Askell, Amanda; Welinder, P.; Christiano, P.; Leike, J.; Lowe, Ryan
+    J. (2022). "Training language models to follow instructions with human
+    feedback". arXiv:2203.02155 [cs.CL].
+100. ↑ Zaremba, Wojciech; Brockman, Greg; OpenAI (2021-08-10). "OpenAI Codex".
+    OpenAI. Archived from the original on February 3, 2023. Retrieved 
+    2022-07-23.
+101. ↑ Kober, Jens; Bagnell, J. Andrew; Peters, Jan (2013-09-01).
+    "Reinforcement learning in robotics: A survey". The International Journal
+    of Robotics Research. 32 (11): 1238–1274. doi:10.1177/0278364913495721.
+    ISSN 0278-3649. S2CID 1932843. Archived from the original on October 15,
+    2022. Retrieved September 12, 2022.
+102. ↑ Knox, W. Bradley; Allievi, Alessandro; Banzhaf, Holger; Schmitt, Felix;
+    Stone, Peter (2023-03-01). "Reward (Mis)design for autonomous driving".
+    Artificial Intelligence. 316: 103829. arXiv:2104.13906. doi:10.1016/
+    j.artint.2022.103829. ISSN 0004-3702. S2CID 233423198.
+103. ↑ Stray, Jonathan (2020). "Aligning AI Optimization to Community
+    Well-Being". International Journal of Community Well-Being. 3 (4): 443–463.
+    doi:10.1007/s42413-020-00086-3. ISSN 2524-5295. PMC 7610010. PMID 34723107.
+    S2CID 226254676.
+104. ↑ Russell, Stuart; Norvig, Peter (2009). Artificial Intelligence: A Modern
+    Approach. Prentice Hall. p. 1003. ISBN 978-0-13-461099-3.
+105. ↑ Smith, Craig S. "Geoff Hinton, AI's Most Famous Researcher, Warns Of
+    'Existential Threat'". Forbes. Retrieved 2023-05-04.
+106. ↑ Bengio, Yoshua; Hinton, Geoffrey; Yao, Andrew; Song, Dawn; Abbeel,
+    Pieter; Harari, Yuval Noah; Zhang, Ya-Qin; Xue, Lan; Shalev-Shwartz, Shai
+    (2024). "Managing extreme AI risks amid rapid progress". Science. 384
+    (6698): 842–845. arXiv:2310.17688. Bibcode:2024Sci...384..842B. doi:10.1126
+    /science.adn0117. PMID 38768279.
+107. ↑ "Statement on AI Risk | CAIS". www.safe.ai. Retrieved 2024-02-11.
+108. ↑ Grace, Katja; Stewart, Harlan; Sandkühler, Julia Fabienne; Thomas,
+    Stephen; Weinstein-Raun, Ben; Brauner, Jan (2024-01-05). "Thousands of AI
+    Authors on the Future of AI". arXiv:2401.02843 [cs.CY].
+109. ↑ Perrigo, Billy (2024-02-13). "Meta's AI Chief Yann LeCun on AGI,
+    Open-Source, and AI Risk". TIME. Retrieved 2024-06-26.
+110. 1 2 3 Amodei, Dario; Olah, Chris; Steinhardt, Jacob; Christiano, Paul;
+    Schulman, John; Mané, Dan (2016-06-21). "Concrete Problems in AI Safety".
+    arXiv:1606.06565 [cs.AI].
+111. 1 2 Ortega, Pedro A.; Maini, Vishal; DeepMind safety team (2018-09-27).
+    "Building safe artificial intelligence: specification, robustness, and
+    assurance". DeepMind Safety Research – Medium. Archived from the original
+    on February 10, 2023. Retrieved 2022-07-18.
+112. 1 2 Rorvig, Mordechai (2022-04-14). "Researchers Gain New Understanding
+    From Simple AI". Quanta Magazine. Archived from the original on February
+    10, 2023. Retrieved 2022-07-18.
+113. ↑ Doshi-Velez, Finale; Kim, Been (2017-03-02). "Towards A Rigorous Science
+    of Interpretable Machine Learning". arXiv:1702.08608 [stat.ML].
+      □ Wiblin, Robert (August 4, 2021). "Chris Olah on what the hell is going
+        on inside neural networks" (Podcast). 80,000 hours. No. 107. Retrieved 
+        2022-07-23.
+114. ↑ Russell, Stuart; Dewey, Daniel; Tegmark, Max (2015-12-31). "Research
+    Priorities for Robust and Beneficial Artificial Intelligence". AI Magazine.
+    36 (4): 105–114. arXiv:1602.03506. doi:10.1609/aimag.v36i4.2577. hdl:1721.1
+    /108478. ISSN 2371-9621. S2CID 8174496. Archived from the original on
+    February 2, 2023. Retrieved September 12, 2022.
+115. ↑ Wirth, Christian; Akrour, Riad; Neumann, Gerhard; Fürnkranz, Johannes
+    (2017). "A survey of preference-based reinforcement learning methods".
+    Journal of Machine Learning Research. 18 (136): 1–46.
+116. ↑ Christiano, Paul F.; Leike, Jan; Brown, Tom B.; Martic, Miljan; Legg,
+    Shane; Amodei, Dario (2017). "Deep reinforcement learning from human
+    preferences". Proceedings of the 31st International Conference on Neural
+    Information Processing Systems. NIPS'17. Red Hook, NY, USA: Curran
+    Associates Inc. pp. 4302–4310. ISBN 978-1-5108-6096-4.
+117. ↑ Heaven, Will Douglas (2022-01-27). "The new version of GPT-3 is much
+    better behaved (and should be less toxic)". MIT Technology Review. Archived
+    from the original on February 10, 2023. Retrieved 2022-07-18.
+118. ↑ Mohseni, Sina; Wang, Haotao; Yu, Zhiding; Xiao, Chaowei; Wang,
+    Zhangyang; Yadawa, Jay (2022-03-07). "Taxonomy of Machine Learning Safety:
+    A Survey and Primer". arXiv:2106.04823 [cs.LG].
+119. ↑ Clifton, Jesse (2020). "Cooperation, Conflict, and Transformative
+    Artificial Intelligence: A Research Agenda". Center on Long-Term Risk.
+    Archived from the original on January 1, 2023. Retrieved 2022-07-18.
+      □ Dafoe, Allan; Bachrach, Yoram; Hadfield, Gillian; Horvitz, Eric;
+        Larson, Kate; Graepel, Thore (2021-05-06). "Cooperative AI: machines
+        must learn to find common ground". Nature. 593 (7857): 33–36. Bibcode:
+        2021Natur.593...33D. doi:10.1038/d41586-021-01170-0. ISSN 0028-0836.
+        PMID 33947992. S2CID 233740521. Archived from the original on December
+        18, 2022. Retrieved September 12, 2022.
+120. ↑ Prunkl, Carina; Whittlestone, Jess (2020-02-07). "Beyond Near- and
+    Long-Term". Proceedings of the AAAI/ACM Conference on AI, Ethics, and
+    Society. New York NY USA: ACM. pp. 138–143. doi:10.1145/3375627.3375803.
+    ISBN 978-1-4503-7110-0. S2CID 210164673. Archived from the original on
+    October 16, 2022. Retrieved September 12, 2022.
+121. ↑ Irving, Geoffrey; Askell, Amanda (2019-02-19). "AI Safety Needs Social
+    Scientists". Distill. 4 (2): 10.23915/distill.00014. doi:10.23915/
+    distill.00014. ISSN 2476-0757. S2CID 159180422. Archived from the original
+    on February 10, 2023. Retrieved September 12, 2022.
+122. ↑ Gazos, Alexandros; Kahn, James; Kusche, Isabel; Büscher, Christian;
+    Götz, Markus (2025-04-01). "Organising AI for safety: Identifying
+    structural vulnerabilities to guide the design of AI-enhanced
+    socio-technical systems". Safety Science. 184: 106731. doi:10.1016/
+    j.ssci.2024.106731. ISSN 0925-7535.
+123. 1 2 3 4 Zwetsloot, Remco; Dafoe, Allan (2019-02-11). "Thinking About Risks
+    From AI: Accidents, Misuse and Structure". Lawfare. Archived from the
+    original on 2023-08-19. Retrieved 2022-11-24.
+124. ↑ Zhang, Yingyu; Dong, Chuntong; Guo, Weiqun; Dai, Jiabao; Zhao, Ziming
+    (2022). "Systems theoretic accident model and process (STAMP): A literature
+    review". Safety Science. 152: 105596. doi:10.1016/j.ssci.2021.105596. S2CID
+     244550153. Archived from the original on 2023-03-15. Retrieved 2022-11-28.
+125. 1 2 Gazos, Alexandros; Kahn, James; Kusche, Isabel; Büscher, Christian;
+    Götz, Markus (2025-04-01). "Organising AI for safety: Identifying
+    structural vulnerabilities to guide the design of AI-enhanced
+    socio-technical systems". Safety Science. 184: 106731. doi:10.1016/
+    j.ssci.2024.106731. ISSN 0925-7535.
+126. ↑ Center for Security and Emerging Technology; Hoffman, Wyatt (2021). "AI
+    and the Future of Cyber Competition". CSET Issue Brief. doi:10.51593/
+    2020ca007. S2CID 234245812. Archived from the original on 2022-11-24.
+    Retrieved 2022-11-28.
+127. ↑ Gafni, Ruti; Levy, Yair (2024-01-01). "The role of artificial
+    intelligence (AI) in improving technical and managerial cybersecurity
+    tasks' efficiency". Information & Computer Security. 32 (5): 711–728. doi:
+    10.1108/ICS-04-2024-0102. ISSN 2056-4961.
+128. ↑ Center for Security and Emerging Technology; Imbrie, Andrew; Kania, Elsa
+    (2019). "AI Safety, Security, and Stability Among Great Powers: Options,
+    Challenges, and Lessons Learned for Pragmatic Engagement". doi:10.51593/
+    20190051. S2CID 240957952. Archived from the original on 2022-11-24.
+    Retrieved 2022-11-28. {{cite journal}}: Cite journal requires |journal= (
+    help)
+129. 1 2 Future of Life Institute (2019-03-27). AI Strategy, Policy, and
+    Governance (Allan Dafoe). Event occurs at 22:05. Archived from the original
+    on 2022-11-23. Retrieved 2022-11-23.
+130. ↑ Zou, Andy; Xiao, Tristan; Jia, Ryan; Kwon, Joe; Mazeika, Mantas; Li,
+    Richard; Song, Dawn; Steinhardt, Jacob; Evans, Owain; Hendrycks, Dan
+    (2022-10-09). "Forecasting Future World Events with Neural Networks".
+    NeurIPS. arXiv:2206.15474.
+131. ↑ Gathani, Sneha; Hulsebos, Madelon; Gale, James; Haas, Peter J.;
+    Demiralp, Çağatay (2022-02-08). "Augmenting Decision Making via Interactive
+    What-If Analysis". Conference on Innovative Data Systems Research. arXiv:
+    2109.06160.
+132. ↑ Lindelauf, Roy (2021), Osinga, Frans; Sweijs, Tim (eds.), "Nuclear
+    Deterrence in the Algorithmic Age: Game Theory Revisited", NL ARMS
+    Netherlands Annual Review of Military Studies 2020, Nl Arms, The Hague:
+    T.M.C. Asser Press, pp. 421–436, doi:10.1007/978-94-6265-419-8_22, ISBN 
+    978-94-6265-418-1, S2CID 229449677
+133. 1 2 Newkirk II, Vann R. (2016-04-21). "Is Climate Change a Prisoner's
+    Dilemma or a Stag Hunt?". The Atlantic. Archived from the original on
+    2022-11-24. Retrieved 2022-11-24.
+134. 1 2 Armstrong, Stuart; Bostrom, Nick; Shulman, Carl. Racing to the
+    Precipice: a Model of Artificial Intelligence Development (Report). Future
+    of Humanity Institute, Oxford University.
+135. 1 2 Dafoe, Allan. AI Governance: A Research Agenda (Report). Centre for
+    the Governance of AI, Future of Humanity Institute, University of Oxford.
+136. ↑ Dafoe, Allan; Hughes, Edward; Bachrach, Yoram; Collins, Tantum; McKee,
+    Kevin R.; Leibo, Joel Z.; Larson, Kate; Graepel, Thore (2020-12-15). "Open
+    Problems in Cooperative AI". NeurIPS. arXiv:2012.08630.
+137. 1 2 Dafoe, Allan; Bachrach, Yoram; Hadfield, Gillian; Horvitz, Eric;
+    Larson, Kate; Graepel, Thore (2021). "Cooperative AI: machines must learn
+    to find common ground". Nature. 593 (7857): 33–36. Bibcode:
+    2021Natur.593...33D. doi:10.1038/d41586-021-01170-0. PMID 33947992. S2CID 
+    233740521. Archived from the original on 2022-11-22. Retrieved 2022-11-24.
+138. ↑ Bender, E.M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On
+    the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜. FAccT
+    '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability,
+    and Transparency, 610-623. https://doi.org/10.1145/3442188.3445922.
+139. ↑ Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and Policy
+    Considerations for Deep Learning in NLP. arXiv preprint arXiv:1906.02243.
+140. ↑ Schwartz, R., Dodge, J., Smith, N.A., & Etzioni, O. (2020). Green AI.
+    Communications of the ACM, 63(12), 54-63. https://doi.org/10.1145/
+    3442188.3445922.
+141. ↑ "How To Hack Large Language Models (LLM)".{{cite web}}: CS1 maint:
+    url-status (link)
+142. ↑ Satariano, Adam; Specia, Megan (2023-11-01). "Global Leaders Warn A.I.
+    Could Cause 'Catastrophic' Harm". The New York Times. ISSN 0362-4331.
+    Retrieved 2024-04-20.
+143. ↑ Crafts, Nicholas (2021-09-23). "Artificial intelligence as a
+    general-purpose technology: an historical perspective". Oxford Review of
+    Economic Policy. 37 (3): 521–536. doi:10.1093/oxrep/grab012. ISSN 0266-903X
+    . Archived from the original on 2022-11-24. Retrieved 2022-11-28.
+144. ↑ 葉俶禎; 黃子君; 張媁雯; 賴志樫 (2020-12-01). "Labor Displacement in
+    Artificial Intelligence Era: A Systematic Literature Review". 臺灣東亞文明
+    研究學刊. 17 (2). doi:10.6163/TJEAS.202012_17(2).0002. ISSN 1812-6243.
+145. ↑ Johnson, James (2019-04-03). "Artificial intelligence & future warfare:
+    implications for international security". Defense & Security Analysis. 35
+    (2): 147–169. doi:10.1080/14751798.2019.1600800. ISSN 1475-1798. S2CID 
+    159321626. Archived from the original on 2022-11-24. Retrieved 2022-11-28.
+146. ↑ Kertysova, Katarina (2018-12-12). "Artificial Intelligence and
+    Disinformation: How AI Changes the Way Disinformation is Produced,
+    Disseminated, and Can Be Countered". Security and Human Rights. 29 (1–4): 
+    55–81. doi:10.1163/18750230-02901005. ISSN 1874-7337. S2CID 216896677.
+147. ↑ Feldstein, Steven (2019). The Global Expansion of AI Surveillance.
+    Carnegie Endowment for International Peace.
+148. ↑ Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi (2019). The economics of
+    artificial intelligence: an agenda. Chicago, Illinois. ISBN 
+    978-0-226-61347-5. OCLC 1099435014. Archived from the original on
+    2023-03-15. Retrieved 2022-11-28.{{cite book}}: CS1 maint: location missing
+    publisher (link)
+149. ↑ Whittlestone, Jess; Clark, Jack (2021-08-31). "Why and How Governments
+    Should Monitor AI Development". arXiv:2108.12427. {{cite journal}}: Cite
+    journal requires |journal= (help)
+150. 1 2 Shevlane, Toby (2022). "Sharing Powerful AI Models | GovAI Blog".
+    Center for the Governance of AI. Archived from the original on 2022-11-24.
+    Retrieved 2022-11-24.
+151. ↑ Askell, Amanda; Brundage, Miles; Hadfield, Gillian (2019-07-10). "The
+    Role of Cooperation in Responsible AI Development". arXiv:1907.04534. {{
+    cite journal}}: Cite journal requires |journal= (help)
+152. ↑ Gursoy, Furkan; Kakadiaris, Ioannis A. (2022-08-31), System Cards for
+    AI-Based Decision-Making for Public Policy, arXiv:2203.04754
+153. ↑ Cobbe, Jennifer; Lee, Michelle Seng Ah; Singh, Jatinder (2021-03-01).
+    "Reviewable Automated Decision-Making: A Framework for Accountable
+    Algorithmic Systems". Proceedings of the 2021 ACM Conference on Fairness,
+    Accountability, and Transparency. FAccT '21. New York, NY, USA: Association
+    for Computing Machinery. pp. 598–609. doi:10.1145/3442188.3445921. ISBN 
+    978-1-4503-8309-7.
+154. ↑ Raji, Inioluwa Deborah; Smart, Andrew; White, Rebecca N.; Mitchell,
+    Margaret; Gebru, Timnit; Hutchinson, Ben; Smith-Loud, Jamila; Theron,
+    Daniel; Barnes, Parker (2020-01-27). "Closing the AI accountability gap:
+    Defining an end-to-end framework for internal algorithmic auditing".
+    Proceedings of the 2020 Conference on Fairness, Accountability, and
+    Transparency. FAT* '20. New York, NY, USA: Association for Computing
+    Machinery. pp. 33–44. doi:10.1145/3351095.3372873. ISBN 978-1-4503-6936-7.
+155. ↑ "NeMo Guardrails". NVIDIA NeMo Guardrails. Retrieved 2024-12-08.
+156. ↑ "Llama Guard: LLM-based Input-Output Safeguard for Human-AI
+    Conversations". Meta AI. Retrieved 2024-12-08.
+157. ↑ Šekrst, Kristina; McHugh, Jeremy; Cefalu, Jonathan Rodriguez (2024). "AI
+    Ethics by Design: Implementing Customizable Guardrails for Responsible AI
+    Development". arXiv:2411.14442 [cs.CY].
+158. ↑ Dong, Yi; Mu, Ronghui; Jin, Gaojie; Qi, Yi; Hu, Jinwei; Zhao, Xingyu;
+    Meng, Jie; Ruan, Wenjie; Huang, Xiaowei (2024). "Building Guardrails for
+    Large Language Models". arXiv:2402.01822 [cs].
+159. ↑ D’Alessandro, W. (2024). "Deontology and safe artificial intelligence".
+    Philosophical Studies. doi:10.1007/s11098-024-02174-y.
+160. ↑ Turchin, Alexey; Dench, David; Green, Brian Patrick (2019). "Global
+    Solutions vs. Local Solutions for the AI Safety Problem". Big Data and
+    Cognitive Computing. 3 (16): 1–25. doi:10.3390/bdcc3010016.
+161. ↑ Ziegler, Bart (8 April 2022). "Is It Time to Regulate AI?". Wall Street
+    Journal.
+162. ↑ Smith, John (15 May 2022). "Global Governance of Artificial
+    Intelligence: Opportunities and Challenges". The Guardian.
+163. ↑ Ziegler, Bart (8 April 2022). "Is It Time to Regulate AI?". Wall Street
+    Journal. Archived from the original on 2022-11-24. Retrieved 2022-11-24.
+164. ↑ Reed, Chris (2018-09-13). "How should we regulate artificial
+    intelligence?". Philosophical Transactions of the Royal Society A:
+    Mathematical, Physical and Engineering Sciences. 376 (2128): 20170360.
+    Bibcode:2018RSPTA.37670360R. doi:10.1098/rsta.2017.0360. ISSN 1364-503X.
+    PMC 6107539. PMID 30082306.
+165. ↑ Belton, Keith B. (2019-03-07). "How Should AI Be Regulated?".
+    IndustryWeek. Archived from the original on 2022-01-29. Retrieved 
+    2022-11-24.
+166. ↑ National Security Commission on Artificial Intelligence (2021), Final
+    Report
+167. ↑ National Institute of Standards and Technology (2021-07-12). "AI Risk
+    Management Framework". NIST. Archived from the original on 2022-11-24.
+    Retrieved 2022-11-24.
+168. ↑ Richardson, Tim (2021). "Britain publishes 10-year National Artificial
+    Intelligence Strategy". Archived from the original on 2023-02-10. Retrieved
+    2022-11-24.
+169. 1 2 "Guidance: National AI Strategy". GOV.UK. 2021. Archived from the
+    original on 2023-02-10. Retrieved 2022-11-24.
+170. ↑ Hardcastle, Kimberley (2023-08-23). "We're talking about AI a lot right
+    now – and it's not a moment too soon". The Conversation. Retrieved 
+    2023-10-31.
+171. ↑ "Iconic Bletchley Park to host UK AI Safety Summit in early November".
+    GOV.UK. Retrieved 2023-10-31.
+172. ↑ Office of the Director of National Intelligence, Intelligence Advanced
+    Research Projects Activity. "IARPA – TrojAI". Archived from the original on
+    2022-11-24. Retrieved 2022-11-24.
+173. ↑ Turek, Matt. "Explainable Artificial Intelligence". Archived from the
+    original on 2021-02-19. Retrieved 2022-11-24.
+174. ↑ Draper, Bruce. "Guaranteeing AI Robustness Against Deception". Defense
+    Advanced Research Projects Agency. Archived from the original on 2023-01-09
+    . Retrieved 2022-11-24.
+175. ↑ National Science Foundation (23 February 2023). "Safe Learning-Enabled
+    Systems". Archived from the original on 2023-02-26. Retrieved 2023-02-27.
+176. ↑ "General Assembly adopts landmark resolution on artificial intelligence"
+    . UN News. 21 March 2024. Archived from the original on 20 April 2024.
+    Retrieved 21 April 2024.
+177. ↑ Say, Mark (23 May 2024). "DSIT announces funding for research on AI
+    safety". Archived from the original on 24 May 2024. Retrieved 11 June 2024.
+178. ↑ Mäntymäki, Matti; Minkkinen, Matti; Birkstedt, Teemu; Viljanen, Mika
+    (2022). "Defining organizational AI governance". AI and Ethics. 2 (4): 603–
+    609. doi:10.1007/s43681-022-00143-x. ISSN 2730-5953. S2CID 247119668.
+179. 1 2 3 Brundage, Miles; Avin, Shahar; Wang, Jasmine; Belfield, Haydn;
+    Krueger, Gretchen; Hadfield, Gillian; Khlaaf, Heidy; Yang, Jingying; Toner,
+    Helen; Fong, Ruth; Maharaj, Tegan; Koh, Pang Wei; Hooker, Sara; Leung,
+    Jade; Trask, Andrew (2020-04-20). "Toward Trustworthy AI Development:
+    Mechanisms for Supporting Verifiable Claims". arXiv:2004.07213. {{cite
+    journal}}: Cite journal requires |journal= (help)
+180. ↑ "Welcome to the Artificial Intelligence Incident Database". Archived
+    from the original on 2022-11-24. Retrieved 2022-11-24.
+181. ↑ Wiblin, Robert; Harris, Keiran (2022). "Nova DasSarma on why information
+    security may be critical to the safe development of AI systems". 80,000
+    Hours. Archived from the original on 2022-11-24. Retrieved 2022-11-24.
+182. ↑ OpenAI (2022-06-02). "Best Practices for Deploying Language Models".
+    OpenAI. Archived from the original on 2023-03-15. Retrieved 2022-11-24.
+183. ↑ OpenAI. "OpenAI Charter". OpenAI. Archived from the original on
+    2021-03-04. Retrieved 2022-11-24.
+184. ↑ Future of Life Institute (2016). "Autonomous Weapons Open Letter: AI &
+    Robotics Researchers". Future of Life Institute. Archived from the original
+    on 2023-09-22. Retrieved 2022-11-24.
+
+External links
+
+  • Unsolved Problems in ML Safety
+  • On the Opportunities and Risks of Foundation Models
+  • An Overview of Catastrophic AI Risks
+  • AI Accidents: An Emerging Threat
+  • Engineering a Safer World
+
+                                  • v
+                                  • t
+                                  • e
+
+            Existential risk from artificial intelligence
+                • AGI
+                • AI alignment
+                • AI capability control
+                • AI safety
+                • AI takeover
+                • Consequentialism
+                • Effective accelerationism
+                • Ethics of artificial intelligence
+  Concepts      • Existential risk from artificial intelligence
+                • Friendly artificial intelligence
+                • Instrumental convergence
+                • Intelligence explosion
+                • Longtermism
+                • Machine ethics
+                • Suffering risks
+                • Superintelligence
+                • Technological singularity
+
+                • Alignment Research Center
+                • Center for AI Safety
+                • Center for Applied Rationality
+                • Center for Human-Compatible Artificial Intelligence
+                • Centre for the Study of Existential Risk
+                • EleutherAI
+                • Future of Humanity Institute
+Organizations   • Future of Life Institute
+                • Google DeepMind
+                • Humanity+
+                • Institute for Ethics and Emerging Technologies
+                • Leverhulme Centre for the Future of Intelligence
+                • Machine Intelligence Research Institute
+                • OpenAI
+
+                • Scott Alexander
+                • Sam Altman
+                • Yoshua Bengio
+                • Nick Bostrom
+                • Paul Christiano
+                • Eric Drexler
+                • Sam Harris
+                • Stephen Hawking
+                • Dan Hendrycks
+                • Geoffrey Hinton
+                • Bill Joy
+   People       • Shane Legg
+                • Elon Musk
+                • Steve Omohundro
+                • Huw Price
+                • Martin Rees
+                • Stuart J. Russell
+                • Jaan Tallinn
+                • Max Tegmark
+                • Frank Wilczek
+                • Roman Yampolskiy
+                • Eliezer Yudkowsky
+
+                • Statement on AI risk of extinction
+                • Human Compatible
+                • Open letter on artificial intelligence (2015)
+                • Our Final Invention
+    Other       • The Precipice
+                • Superintelligence: Paths, Dangers, Strategies
+                • Do You Trust This Computer?
+                • Artificial Intelligence Act
+
+● Category

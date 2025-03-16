@@ -1,0 +1,273 @@
+Quasiparticle
+
+In physics, the plasmaron was proposed by Lundqvist in 1967 as a quasiparticle
+arising in a system that has strong plasmon-electron interactions.^[1]^[2] In
+the original work, the plasmaron was proposed to describe a secondary peak (or
+satellite) in the photoemission spectral function of the electron gas. More
+precisely it was defined as an additional zero of the quasi-particle equation (
+ω − ϵ H − R e [ Σ ( ω ) ] = 0 ) {\displaystyle (\omega -\epsilon _{H}-Re[\Sigma
+(\omega )]=0)} {\displaystyle (\omega -\epsilon _{H}-Re[\Sigma (\omega )]=0)}.
+The same authors pointed out, in a subsequent work, that this extra solution
+might be an artifact of the used approximations:^[3]
+
+    We want to stress again that the discussion we have given of the
+    one-electron spectrum is based on the assumption that vertex corrections
+    are small. As discussed in the next section recent work by Langreth [29]
+    shows that vertex corrections in the core electron problem can have a quite
+    large effect on the form of satellite structures, while their effect on the
+    quasi particle properties seems to be small. Preliminary investigations by
+    one of us (L.H.) show similar strong vertex effects on the conduction band
+    satellite. The details of the plasmaron structure should thus not be taken
+    very seriously.
+
+A more mathematical discussion is provided.^[4]^[5]
+
+The plasmaron was also studied in more recent works in the literature.^[6] It
+was shown, also with the support of the numerical simulations, that the
+plasmaron energy is an artifact of the approximation used to numerically
+compute the spectral function, e.g. solution of the dyson equation for the many
+body green function with a frequency dependent GW self-energy.^[7] This
+approach give rise to a wrong plasmaron peak instead of the plasmon satellite
+which can be measured experimentally.
+
+Despite this fact, experimental observation of a plasmaron was reported in 2010
+for graphene.^[8]
+
+Also supported by earlier theoretical work.^[9] However subsequent works
+discussed that the theoretical interpretation of the experimental measure was
+not correct,^[10] in agreement with the fact that the plasmaron is only an
+artifact of the GW self-energy used with the Dyson equation. The artificial
+nature of the plasmaron peak was also proven via the comparison of experimental
+and numerical simulations for the photo-emission spectrum of bulk silicon.^[11]
+Other works on plasmaron have been published in the literature.^[12]^[13]^[14]^
+[15]
+
+Observation of plasmaron peaks have also been reported in optical measurements
+of elemental bismuth^[16] and in other optical measurements.^[17]
+
+References
+
+ 1. ↑ Hedin, L., Lundqvist, B. & Lundqvist, S. New structure in the
+    single-particle spectrum of an electron gas. Solid State Commun. 5, 237-239
+    (1967).
+ 2. ↑ Bengt Lundqvist (1967). "Single-particle spectrum of the degenerate
+    electron gas". Physik der Kondensierten Materie. 6 (3): 206–2017. doi:
+    10.1007/BF02422717. S2CID 120588057.
+ 3. ↑ L. Hedin, B. I. Lundqvist, and S. Lundqvist, J Res Natl Bur Stand A Phys
+    Chem. 74A, 417-431 (1970)
+ 4. ↑ Blomberg, Clas; Bergersen, Birger (1972). "Spurious Structure from
+    Approximations to the Dyson Equation". Canadian Journal of Physics. 50
+    (19): 2286–2293. doi:10.1139/p72-303.
+ 5. ↑ Bergersen, B.; Kus, F. W.; Blomberg, C. (1973). "Single Particle Green's
+    Function in the Electron–Plasmon Approximation". Canadian Journal of
+    Physics. 51 (1): 102–110. doi:10.1139/p73-012.
+ 6. ↑ P. von Allmen Phys. Rev. B 46, 13345 (1992)
+ 7. ↑ F. Aryasetiawan, L. Hedin, and K. Karlsson, Phys. Rev. Lett. 77, 2268
+    (1996)
+ 8. ↑ Bostwick; Speck, F.; Seyller, T.; Horn, K.; Polini, M.; Asgari, R.;
+    MacDonald, A. H.; Rotenberg, E.; et al. (21 May 2010). "Observation of
+    Plasmarons in Quasi-Freestanding Doped Graphene". Science. 328 (5981): 999–
+    1002. Bibcode:2010Sci...328..999B. doi:10.1126/science.1186489. hdl:11858/
+    00-001M-0000-0011-2564-C. PMID 20489018. S2CID 206525211.
+ 9. ↑ Polini, Marco; Asgari, Reza; Borghi, Giovanni; Barlas, Yafis;
+    Pereg-Barnea, T.; MacDonald, A. H. (2008). "Plasmons and the spectral
+    function of graphene". Physical Review B. 77 (8): 081411. arXiv:0707.4230.
+    doi:10.1103/physrevb.77.081411. S2CID 117935079.
+10. ↑ Lischner, Johannes; Vigil-Fowler, Derek; Louie, Steven G. (2013).
+    "Physical Origin of Satellites in Photoemission of Doped Graphene: AnAb
+    Initio<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display=
+    "inline"><mml:mi>G</mml:mi><mml:mi>W</mml:mi></mml:math>Plus Cumulant
+    Study". Physical Review Letters. 110 (14): 146801. arXiv:1302.3248. doi:
+    10.1103/physrevlett.110.146801. PMID 25167020.
+11. ↑ Matteo Guzzo; et al. (2011). "Valence Electron Photoemission Spectrum of
+    Semiconductors: Ab Initio Description of Multiple Satellites". Phys. Rev.
+    Lett. 107 (16): 166401. arXiv:1107.2207. doi:10.1103/PhysRevLett.107.166401
+    . PMID 22107408.
+12. ↑ Dial, O. E.; Ashoori, R. C.; Pfeiffer, L. N.; West, K. W. (2012).
+    "Observations of plasmarons in a two-dimensional system: Tunneling
+    measurements using time-domain capacitance spectroscopy". Physical Review B
+    . 85 (8): 081306. doi:10.1103/physrevb.85.081306. hdl:1721.1/71271.
+13. ↑ Yamase, Hiroyuki; Bejas, Matías; Greco, Andrés (2023). "Plasmarons in
+    high-temperature cuprate superconductors". Communications Physics. 6 (1).
+    arXiv:2208.11421. doi:10.1038/s42005-023-01276-z.
+14. ↑ Zhuravlev, A. S.; Kuznetsov, V. A.; Kulik, L. V.; Bisti, V. E.;
+    Kirpichev, V. E.; Kukushkin, I. V.; Schmult, S. (2016). "Artificially
+    Constructed Plasmarons and Plasmon-Exciton Molecules in 2D Metals".
+    Physical Review Letters. 117 (19): 196802. arXiv:1507.06036. doi:10.1103/
+    physrevlett.117.196802. ISSN 0031-9007. PMID 27858449. S2CID 23924836.
+15. ↑ Pramanik, Arindam; Thakur, Sangeeta; Singh, Bahadur; Willke, Philip;
+    Wenderoth, Martin; Hofsäss, Hans; Di Santo, Giovanni; Petaccia, Luca;
+    Maiti, Kalobaran (2022). "Anomalies at the Dirac Point in Graphene and Its
+    Hole-Doped Compositions". Physical Review Letters. 128 (16): 166401. doi:
+    10.1103/physrevlett.128.166401. PMID 35522498. S2CID 248246940.
+16. ↑ Riccardo Tediosi; N. P. Armitage; E. Giannini & D. van der Marel (13
+    September 1971). "Charge Carrier Interaction with a Purely Electronic
+    Collective Mode: Plasmarons and the Infrared Response of Elemental Bismuth"
+    . Phys. Rev. Lett. 27 (11): 711–714. arXiv:cond-mat/0701447. Bibcode:
+    2007PhRvL..99a6406T. doi:10.1103/PhysRevLett.99.016406. PMID 17678175.
+    S2CID 18516062.
+17. ↑ Ban, W J; Wu, D S; Xu, B; Luo, J L; Xiao, H (2019). "Revealing
+    'plasmaron' feature in DySb by optical spectroscopy study" (PDF). Journal
+    of Physics: Condensed Matter. 31 (40): 405701. doi:10.1088/1361-648x/ab2d1a
+    . PMID 31242466. S2CID 195694609.
+
+                                       • v
+                                       • t
+                                       • e
+
+                             Particles in physics
+                                      • Up (quark
+                                      • antiquark)
+                                      • Down (quark
+                                      • antiquark)
+                                      • Charm (quark
+                                      • antiquark)
+                            Quarks    • Strange (quark
+                                      • antiquark)
+                                      • Top (quark
+                                      • antiquark)
+                                      • Bottom (quark
+                                      • antiquark)
+
+                 Fermions             • Electron
+                                      • Positron
+                                      • Muon
+                                      • Antimuon
+                                      • Tau
+                                      • Antitau
+                            Leptons   • Neutrino
+                                          □ Electron neutrino
+                                          □ Electron antineutrino
+                                          □ Muon neutrino
+                                          □ Muon antineutrino
+                                          □ Tau neutrino
+                                          □ Tau antineutrino
+
+                                     • Photon
+                            Gauge    • Gluon
+                  Bosons             • W and Z bosons
+
+  Elementary                Scalar   • Higgs boson
+
+               Ghost fields   • Faddeev–Popov ghosts
+
+                                                     • Gluino
+                                          Gauginos   • Gravitino
+                                                     • Photino
+
+                            Superpartners            • Axino
+                                                     • Chargino
+                                           Others    • Higgsino
+                                                     • Neutralino
+                                                     • Sfermion (Stop squark)
+
+                                            • Axion
+                                            • Curvaton
+                                            • Dilaton
+               Hypothetical                 • Dual graviton
+                                            • Graviphoton
+                                            • Graviton
+                                            • Inflaton
+                                            • Leptoquark
+                               Others       • Magnetic monopole
+                                            • Majoron
+                                            • Majorana fermion
+                                            • Dark photon
+                                            • Preon
+                                            • Sterile neutrino
+                                            • Tachyon
+                                            • W′ and Z′ bosons
+                                            • X and Y bosons
+
+                                            • Nucleon
+                                                □ Proton
+                                                □ Antiproton
+                                                □ Neutron
+                                                □ Antineutron
+                               Baryons      • Delta baryon
+                                            • Lambda baryon
+                                            • Sigma baryon
+                                            • Xi baryon
+                                            • Omega baryon
+
+                                            • Pion
+                                            • Rho meson
+                 Hadrons                    • Eta and eta prime mesons
+                                            • Bottom eta meson
+                                            • Phi meson
+                                            • J/psi meson
+                               Mesons       • Omega meson
+                                            • Upsilon meson
+                                            • Kaon
+                                            • B meson
+                                            • D meson
+                                            • Quarkonium
+
+                               Exotic       • Tetraquark (Double-charm
+                               hadrons        tetraquark)
+  Composite                                 • Pentaquark
+
+                              • Atomic nuclei
+                              • Atoms
+                              • Exotic atoms
+                                  □ Positronium
+                                  □ Muonium
+                  Others          □ Tauonium
+                                  □ Onia
+                                  □ Pionium
+                                  □ Protonium
+                              • Superatoms
+                              • Molecules
+
+                                      • Hexaquark
+                            Baryons   • Heptaquark
+                                      • Skyrmion
+
+                                      • Glueball
+               Hypothetical Mesons    • Theta meson
+                                      • T meson
+
+                                     • Mesonic molecule
+                            Others   • Pomeron
+                                     • Diquark
+                                     • R-hadron
+
+                 • Anyon
+                 • Davydov soliton
+                 • Dropleton
+                 • Exciton
+                 • Fracton
+                 • Hole
+                 • Magnon
+Quasiparticles   • Phonon
+                 • Plasmaron
+                 • Plasmon
+                 • Polariton
+                 • Polaron
+                 • Roton
+                 • Trion
+
+                 • Baryons
+                 • Mesons
+    Lists        • Particles
+                 • Quasiparticles
+                 • Timeline of particle discoveries
+
+                 • History of subatomic physics
+                     □ timeline
+                 • Standard Model
+                     □ mathematical formulation
+                 • Subatomic particles
+                 • Particles
+                 • Antiparticles
+                 • Nuclear physics
+   Related       • Eightfold way
+                     □ Quark model
+                 • Exotic matter
+                 • Massless particle
+                 • Relativistic particle
+                 • Virtual particle
+                 • Wave–particle duality
+                 • Particle chauvinism
+
+● Physics portal

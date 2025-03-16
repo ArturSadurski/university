@@ -1,0 +1,8 @@
+{"error":"parameter-validation-failed","name":"id","value":"Mathematics_and_logic","failureCode":"badinteger","failureData":null,"type":"MediaWikiError
+/
+Bad_Request","title":"paramvalidator-badinteger","method":"get","detail":"Invalid
+value \"Mathematics_and_logic\" for integer parameter \"id\".","uri":"/w/
+rest.php/v1/revision/Mathematics_and_logic/
+html","errorKey":"badinteger","messageTranslations":{"en":"Invalid value \
+"Mathematics_and_logic\" for integer parameter \"id\
+"."},"httpCode":400,"httpReason":"Bad Request"}

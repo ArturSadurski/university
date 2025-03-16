@@ -1,0 +1,51 @@
+Class of magnetic confinement fusion reactor
+
+       This article is an orphan, as no other articles link to it. Please
+[40px] introduce links to this page from related articles; try the Find link
+       tool for suggestions. (December 2023)
+
+A quasi-isodynamic (QI) stellarator is a type of stellarator (a magnetic
+confinement fusion reactor) that satisfies the property of omnigeneity, avoids
+the potentially hazardous toroidal bootstrap current, and has minimal
+neoclassical transport in the collisionless regime.^[1]
+
+Wendelstein 7-X, the largest stellarator in the world, was designed to be
+roughly quasi-isodynamic (QI).
+
+In contrast to quasi-symmetric fields,^[2] exactly QI fields on flux surfaces
+cannot be expressed analytically.^[3] However, it has been shown that
+nearly-exact QI can be extremely well approximated through mathematical
+optimization,^[4] and that the resulting fields enjoy the aforementioned
+properties.
+
+In a QI field, level curves of the magnetic field strength B {\displaystyle B} 
+{\displaystyle B} on a flux surface close poloidally (the short way around the
+torus), and not toroidally (the long way around), causing the stellarator to
+resemble a series of linked magnetic mirrors.
+
+References
+
+ 1. ↑ Helander, Per; Nührenberg, Jurgen (February 2009). "Bootstrap current and
+    neoclassical transport in quasi-isodynamic stellarators". Plasma Physics
+    and Controlled Fusion. 51 (5): 055004. Bibcode:2009PPCF...51e5004H. doi:
+    10.1088/0741-3335/51/5/055004. hdl:11858/00-001M-0000-0026-F470-B. S2CID 
+    250779652.
+ 2. ↑ Boozer, Allen H. (1983). "Transport and isomorphic equilibria". Physics
+    of Fluids. 26 (2): 496–499. Bibcode:1983PhFl...26..496B. doi:10.1063/
+    1.864166.
+ 3. ↑ Cary, John R.; Shasharina, Svetlana G. (September 1997). "Omnigenity and
+    quasihelicity in helical plasma confinement systems". Physics of Plasmas. 4
+    (9): 3323–3333. Bibcode:1997PhPl....4.3323C. doi:10.1063/1.872473. ISSN 
+    1070-664X.
+ 4. ↑ Goodman, Alan; et al. (September 2023). "Constructing precisely
+    quasi-isodynamic magnetic fields". Journal of Plasma Physics. 89 (5):
+    905890504. arXiv:2211.09829. Bibcode:2023JPlPh..89e9004G. doi:10.1017/
+    S002237782300065X. S2CID 253708037.
+
+
+Stub   This article about nuclear power and nuclear reactors for power
+icon   generation is a stub. You can help Wikipedia by expanding it.
+
+  • v
+  • t
+  • e

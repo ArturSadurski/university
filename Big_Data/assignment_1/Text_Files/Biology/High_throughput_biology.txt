@@ -1,0 +1,164 @@
+       This article includes a list of general references, but it lacks
+[40px] sufficient corresponding inline citations. Please help to improve this
+       article by introducing more precise citations. (October 2012) (Learn how
+       and when to remove this message)
+
+High throughput biology (or high throughput cell biology) is the use of
+automation equipment with classical cell biology techniques to address
+biological questions that are otherwise unattainable using conventional
+methods. It may incorporate techniques from optics, chemistry, biology or image
+analysis to permit rapid, highly parallel research into how cells function,
+interact with each other and how pathogens exploit them in disease.^[1]
+
+High throughput cell biology has many definitions, but is most commonly defined
+by the search for active compounds in natural materials like in medicinal
+plants. This is also known as high throughput screening (HTS) and is how most
+drug discoveries are made today, many cancer drugs, antibiotics, or viral
+antagonists have been discovered using HTS.^[2] The process of HTS also tests
+substances for potentially harmful chemicals that could be potential human
+health risks.^[3] HTS generally involves hundreds of samples of cells with the
+model disease and hundreds of different compounds being tested from a specific
+source. Most often a computer is used to determine when a compound of interest
+has a desired or interesting effect on the cell samples.
+
+Using this method has contributed to the discovery of the drug Sorafenib
+(Nexavar). Sorafenib is used as medication to treat multiple types of cancers,
+including renal cell carcinoma (RCC, cancer in the kidneys), hepatocellular
+carcinoma (liver cancer), and thyroid cancer. It helps stop cancer cells from
+reproducing by blocking the abnormal proteins present. In 1994, high throughput
+screening for this particular drug was completed. It was initially discovered
+by Bayer Pharmaceuticals in 2001. By using a RAF kinase biochemical assay,
+200,000 compounds were screened from medicinal chemistry directed synthesis or
+combinatorial libraries to identify active molecules against activeRAF kinase.
+Following three trials of testing, it was found to have anti-angiogenic effects
+on the cancers, which stops the process of creating new blood vessels in the
+body.^[4]^[5]
+
+Another discovery made using HTS is Maraviroc. It is an HIV entry inhibitor,
+and slows the process and prevents HIV from being able to enter human cells.^[6
+] It is used to treat a variety of cancers as well, reducing or blocking the
+metastasis of cancer cells, which is when cancer cells spread to a completely
+different part of the body from where it started. High throughput screening for
+Maraviroc was completed in 1997, and finalized in 2005 by Pfizer global
+research and development team.
+
+High-throughput biology serves as one facet of what has also been called "omics
+research" - the interface between large scale biology (genome, proteome,
+transcriptome), technology and researchers. High throughput cell biology has a
+definite focus on the cell, and methods accessing the cell such as imaging,
+gene expression microarrays, or genome wide screening. The basic idea is to
+take methods normally performed on their own and do a very large number of them
+without impacting their quality ^[7]
+
+High throughput research can be defined as the automation of experiments such
+that large scale repetition becomes feasible. This is important because many of
+the questions faced by life science researchers now involve large numbers. For
+example, the Human Genome contains at least 21,000 genes,^[8] all of which can
+potentially contribute to cell function, or disease. To be able to capture an
+idea of how these genes interact with one another, which genes are involved in
+and where they are, methods that encompass from the cell to the genome are of
+interest.
+
+Use of robotics
+
+Classical High throughput screening robotics are now being tied closer to cell
+biology, principally using technologies such as High-content screening. High
+throughput cell biology dictates methods that can take routine cell biology
+from low scale research to the speed and scale necessary to investigate complex
+systems, achieve high sample size, or efficiently screen through a collection.
+
+Use of microscopy and cytometry
+
+High-content screening technology is mainly based on automated digital
+microscopy and flow cytometry, in combination with IT-systems for the analysis
+and storage of the data. "High-content" or visual biology technology has two
+purposes, first to acquire spatially or temporally resolved information on an
+event and second to automatically quantify it. Spatially resolved instruments
+are typically automated microscopes, and temporal resolution still requires
+some form of fluorescence measurement in most cases. This means that a lot of
+HCS instruments are (fluorescence) microscopes that are connected to some form
+of image analysis package. These take care of all the steps in taking
+fluorescent images of cells and provide rapid, automated and unbiased
+assessment of experiments.
+
+Development of technology
+
+The technology can be defined as being at the same development point as the
+first automated DNA sequencers in the early 1990s. Automated DNA sequencing was
+a disruptive technology when it became practical and -even if early devices had
+shortcomings- it enabled genome scale sequencing projects and created the field
+of bioinformatics. The impact of a similarly disruptive and powerful technology
+on molecular cell biology and translational research is hard to predict but
+what is clear is that it will cause a profound change in the way cell
+biologists research and medicines are discovered.
+
+See also
+
+  • Drug discovery
+  • High-throughput screening
+  • Drug discovery hit to lead
+  • High-content screening
+
+References
+
+ 1. ↑ Hsiao, A., & Kuo, M. D. (2009). High-throughput Biology in the
+    Postgenomic Era. Journal of Vascular and Interventional Radiology, 20(7),
+    S488–S496. https://doi.org/10.1016/j.jvir.2009.04.040
+ 2. ↑ Kalinina MA, Skvortsov DA, Rubtsova MP, Komarova ES, Dontsova OA.
+    Cytotoxicity Test Based on Human Cells Labeled with Fluorescent Proteins:
+    Fluorimetry, Photography, and Scanning for High-Throughput Assay. Molecular
+    Imaging & Biology. 2018;20(3):368-377. doi:10.1007/s11307-017-1152-0
+ 3. ↑ Mezencev, Roman; Subramaniam, Ravi (October 2019). "The use of evidence
+    from high-throughput screening and transcriptomic data in human health risk
+    assessments". Toxicology and Applied Pharmacology. 380: 114706. doi:10.1016
+    /j.taap.2019.114706. PMC 9624462. PMID 31400414.
+ 4. ↑ Hautier G. Finding the needle in the haystack: Materials discovery and
+    design through computational ab initio high-throughput screening.
+    Computational Materials Science. 2019;163:108-116. doi:10.1016/
+    j.commatsci.2019.02.040
+ 5. ↑ Yao, Yao; Wang, Tianqi; Liu, Yongjun; Zhang, Na (4 December 2019).
+    "Co-delivery of sorafenib and VEGF-siRNA via pH-sensitive liposomes for the
+    synergistic treatment of hepatocellular carcinoma". Artificial Cells,
+    Nanomedicine, and Biotechnology. 47 (1): 1374–1383. doi:10.1080/
+    21691401.2019.1596943. PMID 30977418.
+ 6. ↑ Maraviroc. AHFS Consumer Medication Information. September 2019:1.
+ 7. ↑ Taly, Valerie, Bernard T. Kelly, and Andrew D. Griffiths. "Droplets as
+    microreactors for high‐throughput biology." ChemBioChem 8.3 (2007):
+    263-272.
+ 8. ↑ "How Many Genes Are There?". Human Genome Project Information. U.S.
+    Department of Energy Office of Science. 2008-09-19.
+
+Further reading
+
+  • Abraham VC, Taylor DL, Haskins JR (January 2004). "High content screening
+    applied to large-scale cell biology". Trends Biotechnol. 22 (1): 15–22. doi
+    :10.1016/j.tibtech.2003.10.012. PMID 14690618.
+  • Bleicher KH, Böhm HJ, Müller K, Alanine AI (May 2003). "Hit and lead
+    generation: beyond high-throughput screening". Nat Rev Drug Discov. 2 (5): 
+    369–78. doi:10.1038/nrd1086. PMID 12750740. S2CID 4859609.
+  • Burdine L, Kodadek T (May 2004). "Target identification in chemical
+    genetics: the (often) missing link". Chem. Biol. 11 (5): 593–7. doi:10.1016
+    /j.chembiol.2004.05.001. PMID 15157870.
+  • Carpenter AE, Sabatini DM (January 2004). "Systematic genome-wide screens
+    of gene function". Nat. Rev. Genet. 5 (1): 11–22. doi:10.1038/nrg1248. PMID
+     14708012. S2CID 637682.
+  • Edwards BS, Oprea T, Prossnitz ER, Sklar LA (August 2004). "Flow cytometry
+    for high-throughput, high-content screening". Curr Opin Chem Biol. 8 (4): 
+    392–8. doi:10.1016/j.cbpa.2004.06.007. PMID 15288249.
+  • Eggert US, Mitchison TJ (June 2006). "Small molecule screening by imaging".
+    Curr Opin Chem Biol. 10 (3): 232–7. doi:10.1016/j.cbpa.2006.04.010. PMID 
+    16682248.
+  • Giuliano KA, Haskins JR, Taylor DL (August 2003). "Advances in high content
+    screening for drug discovery". Assay Drug Dev Technol. 1 (4): 565–77. doi:
+    10.1089/154065803322302826. PMID 15090253.
+  • Milligan G (July 2003). "High-content assays for ligand regulation of
+    G-protein-coupled receptors". Drug Discov. Today. 8 (13): 579–85. doi:
+    10.1016/S1359-6446(03)02738-7. PMID 12850333.
+
+External links
+
+[34p]
+Wikiquote has quotations related to High throughput biology.
+
+  • Yale Center for High Throughput Cell Biology
+  • The Advanced Cell Classifier project (ETH Zurich)

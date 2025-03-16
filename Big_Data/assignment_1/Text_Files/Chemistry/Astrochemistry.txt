@@ -1,0 +1,1015 @@
+Study of molecules in the Universe and their reactions
+
+[350px-Star-stuff]
+Infographic showing the theorized origin of the chemical elements that make up
+the human body
+
+Astrochemistry is the study of the abundance and reactions of molecules in the
+universe, and their interaction with radiation.^[1] The discipline is an
+overlap of astronomy and chemistry. The word "astrochemistry" may be applied to
+both the Solar System and the interstellar medium. The study of the abundance
+of elements and isotope ratios in Solar System objects, such as meteorites, is
+also called cosmochemistry, while the study of interstellar atoms and molecules
+and their interaction with radiation is sometimes called molecular
+astrophysics. The formation, atomic and chemical composition, evolution and
+fate of molecular gas clouds is of special interest, because it is from these
+clouds that solar systems form.
+
+History
+
+As an offshoot of the disciplines of astronomy and chemistry, the history of
+astrochemistry is founded upon the shared history of the two fields. The
+development of advanced observational and experimental spectroscopy has allowed
+for the detection of an ever-increasing array of molecules within solar systems
+and the surrounding interstellar medium. In turn, the increasing number of
+chemicals discovered by advancements in spectroscopy and other technologies
+have increased the size and scale of the chemical space available for
+astrochemical study.
+
+History of spectroscopy
+
+Main articles: History of spectroscopy and Astronomical spectroscopy
+
+Observations of solar spectra as performed by Athanasius Kircher (1646), Jan
+Marek Marci (1648), Robert Boyle (1664), and Francesco Maria Grimaldi (1665)
+all predated Newton's 1666 work which established the spectral nature of light
+and resulted in the first spectroscope.^[2] Spectroscopy was first used as an
+astronomical technique in 1802 with the experiments of William Hyde Wollaston,
+who built a spectrometer to observe the spectral lines present within solar
+radiation.^[3] These spectral lines were later quantified through the work of
+Joseph von Fraunhofer.
+
+Spectroscopy was first used to distinguish between different materials after
+the release of Charles Wheatstone's 1835 report that the sparks given off by
+different metals have distinct emission spectra.^[4] This observation was later
+built upon by Léon Foucault, who demonstrated in 1849 that identical absorption
+and emission lines result from the same material at different temperatures. An
+equivalent statement was independently postulated by Anders Jonas Ångström in
+his 1853 work Optiska Undersökningar, where it was theorized that luminous
+gases emit rays of light at the same frequencies as light which they may
+absorb.
+
+This spectroscopic data began to take upon theoretical importance with Johann
+Balmer's observation that the spectral lines exhibited by samples of hydrogen
+followed a simple empirical relationship which came to be known as the Balmer
+Series. This series, a special case of the more general Rydberg Formula
+developed by Johannes Rydberg in 1888, was created to describe the spectral
+lines observed for hydrogen. Rydberg's work expanded upon this formula by
+allowing for the calculation of spectral lines for multiple different chemical
+elements.^[5] The theoretical importance granted to these spectroscopic results
+was greatly expanded upon the development of quantum mechanics, as the theory
+allowed for these results to be compared to atomic and molecular emission
+spectra which had been calculated a priori.
+
+History of astrochemistry
+
+While radio astronomy was developed in the 1930s, it was not until 1937 that
+any substantial evidence arose for the conclusive identification of an
+interstellar molecule^[6] – up until this point, the only chemical species
+known to exist in interstellar space were atomic. These findings were confirmed
+in 1940, when McKellar et al. identified and attributed spectroscopic lines in
+an as-of-then unidentified radio observation to CH and CN molecules in
+interstellar space.^[7] In the thirty years afterwards, a small selection of
+other molecules were discovered in interstellar space: the most important being
+OH, discovered in 1963 and significant as a source of interstellar oxygen,^[8]
+and H[2]CO (formaldehyde), discovered in 1969 and significant for being the
+first observed organic, polyatomic molecule in interstellar space^[9]
+
+The discovery of interstellar formaldehyde – and later, other molecules with
+potential biological significance, such as water or carbon monoxide – is seen
+by some as strong supporting evidence for abiogenetic theories of life:
+specifically, theories which hold that the basic molecular components of life
+came from extraterrestrial sources. This has prompted a still ongoing search
+for interstellar molecules which are either of direct biological importance –
+such as interstellar glycine, discovered in a comet within our solar system in
+2009^[10] – or which exhibit biologically relevant properties like chirality –
+an example of which (propylene oxide) was discovered in 2016^[11] – alongside
+more basic astrochemical research.
+
+Spectroscopy
+
+Main article: Spectroscopy
+
+One particularly important experimental tool in astrochemistry is spectroscopy
+through the use of telescopes to measure the absorption and emission of light
+from molecules and atoms in various environments. By comparing astronomical
+observations with laboratory measurements, astrochemists can infer the
+elemental abundances, chemical composition, and temperatures of stars and
+interstellar clouds. This is possible because ions, atoms, and molecules have
+characteristic spectra: that is, the absorption and emission of certain
+wavelengths (colors) of light, often not visible to the human eye. However,
+these measurements have limitations, with various types of radiation (radio,
+infrared, visible, ultraviolet etc.) able to detect only certain types of
+species, depending on the chemical properties of the molecules. Interstellar
+formaldehyde was the first organic molecule detected in the interstellar
+medium.
+
+Perhaps the most powerful technique for detection of individual chemical
+species is radio astronomy, which has resulted in the detection of over a
+hundred interstellar species, including radicals and ions, and organic (i.e.
+carbon-based) compounds, such as alcohols, acids, aldehydes, and ketones. One
+of the most abundant interstellar molecules, and among the easiest to detect
+with radio waves (due to its strong electric dipole moment), is CO (carbon
+monoxide). In fact, CO is such a common interstellar molecule that it is used
+to map out molecular regions.^[12] The radio observation of perhaps greatest
+human interest is the claim of interstellar glycine,^[13] the simplest amino
+acid, but with considerable accompanying controversy.^[14] One of the reasons
+why this detection was controversial is that although radio (and some other
+methods like rotational spectroscopy) are good for the identification of simple
+species with large dipole moments, they are less sensitive to more complex
+molecules, even something relatively small like amino acids.
+
+Moreover, such methods are completely blind to molecules that have no dipole.
+For example, by far the most common molecule in the universe is H[2] (hydrogen
+gas, or chemically better said dihydrogen), but it does not have a dipole
+moment, so it is invisible to radio telescopes. Moreover, such methods cannot
+detect species that are not in the gas-phase. Since dense molecular clouds are
+very cold (10 to 50 K [−263.1 to −223.2 °C; −441.7 to −369.7 °F]), most
+molecules in them (other than dihydrogen) are frozen, i.e. solid. Instead,
+dihydrogen and these other molecules are detected using other wavelengths of
+light. Dihydrogen is easily detected in the ultraviolet (UV) and visible ranges
+from its absorption and emission of light (the hydrogen line). Moreover, most
+organic compounds absorb and emit light in the infrared (IR) so, for example,
+the detection of methane in the atmosphere of Mars^[15] was achieved using an
+IR ground-based telescope, NASA's 3-meter Infrared Telescope Facility atop
+Mauna Kea, Hawaii. NASA's researchers use airborne IR telescope SOFIA and space
+telescope Spitzer for their observations, researches and scientific operations.
+^[16]^[17] Somewhat related to the recent detection of methane in the
+atmosphere of Mars. Christopher Oze, of the University of Canterbury in New
+Zealand and his colleagues reported, in June 2012, that measuring the ratio of
+dihydrogen and methane levels on Mars may help determine the likelihood of life
+on Mars.^[18]^[19] According to the scientists, "...low H[2]/CH[4] ratios (less
+than approximately 40) indicate that life is likely present and active."^[18]
+Other scientists have recently reported methods of detecting dihydrogen and
+methane in extraterrestrial atmospheres.^[20]^[21]
+
+Infrared astronomy has also revealed that the interstellar medium contains a
+suite of complex gas-phase carbon compounds called polyaromatic hydrocarbons,
+often abbreviated PAHs or PACs. These molecules, composed primarily of fused
+rings of carbon (either neutral or in an ionized state), are said to be the
+most common class of carbon compound in the Galaxy. They are also the most
+common class of carbon molecule in meteorites and in cometary and asteroidal
+dust (cosmic dust). These compounds, as well as the amino acids, nucleobases,
+and many other compounds in meteorites, carry deuterium and isotopes of carbon,
+nitrogen, and oxygen that are very rare on Earth, attesting to their
+extraterrestrial origin. The PAHs are thought to form in hot circumstellar
+environments (around dying, carbon-rich red giant stars).
+
+Infrared astronomy has also been used to assess the composition of solid
+materials in the interstellar medium, including silicates, kerogen-like
+carbon-rich solids, and ices. This is because unlike visible light, which is
+scattered or absorbed by solid particles, the IR radiation can pass through the
+microscopic interstellar particles, but in the process there are absorptions at
+certain wavelengths that are characteristic of the composition of the grains.^[
+22] As above with radio astronomy, there are certain limitations, e.g. N[2] is
+difficult to detect by either IR or radio astronomy.
+
+Such IR observations have determined that in dense clouds (where there are
+enough particles to attenuate the destructive UV radiation) thin ice layers
+coat the microscopic particles, permitting some low-temperature chemistry to
+occur. Since dihydrogen is by far the most abundant molecule in the universe,
+the initial chemistry of these ices is determined by the chemistry of the
+hydrogen. If the hydrogen is atomic, then the H atoms react with available O, C
+and N atoms, producing "reduced" species like H[2]O, CH[4], and NH[3]. However,
+if the hydrogen is molecular and thus not reactive, this permits the heavier
+atoms to react or remain bonded together, producing CO, CO[2], CN, etc. These
+mixed-molecular ices are exposed to ultraviolet radiation and cosmic rays,
+which results in complex radiation-driven chemistry.^[22] Lab experiments on
+the photochemistry of simple interstellar ices have produced amino acids.^[23]
+The similarity between interstellar and cometary ices (as well as comparisons
+of gas phase compounds) have been invoked as indicators of a connection between
+interstellar and cometary chemistry. This is somewhat supported by the results
+of the analysis of the organics from the comet samples returned by the Stardust
+mission but the minerals also indicated a surprising contribution from
+high-temperature chemistry in the solar nebula.
+
+Research
+
+[220px-Turbulent_border_in_Orio]
+Transition from atomic to molecular gas at the border of the Orion molecular
+cloud^[24]
+
+Research is progressing on the way in which interstellar and circumstellar
+molecules form and interact, e.g. by including non-trivial quantum mechanical
+phenomena for synthesis pathways on interstellar particles.^[25] This research
+could have a profound impact on our understanding of the suite of molecules
+that were present in the molecular cloud when our solar system formed, which
+contributed to the rich carbon chemistry of comets and asteroids and hence the
+meteorites and interstellar dust particles which fall to the Earth by the ton
+every day.
+
+The sparseness of interstellar and interplanetary space results in some unusual
+chemistry, since symmetry-forbidden reactions cannot occur except on the
+longest of timescales. For this reason, molecules and molecular ions which are
+unstable on Earth can be highly abundant in space, for example the H[3]^+ ion.
+
+Astrochemistry overlaps with astrophysics and nuclear physics in characterizing
+the nuclear reactions which occur in stars, as well as the structure of stellar
+interiors. If a star develops a largely convective envelope, dredge-up events
+can occur, bringing the products of nuclear burning to the surface. If the star
+is experiencing significant mass loss, the expelled material may contain
+molecules whose rotational and vibrational spectral transitions can be observed
+with radio and infrared telescopes. An interesting example of this is the set
+of carbon stars with silicate and water-ice outer envelopes. Molecular
+spectroscopy allows us to see these stars transitioning from an original
+composition in which oxygen was more abundant than carbon, to a carbon star
+phase where the carbon produced by helium burning is brought to the surface by
+deep convection, and dramatically changes the molecular content of the stellar
+wind.^[26]^[27]
+
+In October 2011, scientists reported that cosmic dust contains organic matter
+("amorphous organic solids with a mixed aromatic-aliphatic structure") that
+could be created naturally, and rapidly, by stars.^[28]^[29]^[30]
+
+On August 29, 2012, and in a world first, astronomers at Copenhagen University
+reported the detection of a specific sugar molecule, glycolaldehyde, in a
+distant star system. The molecule was found around the protostellar binary IRAS
+16293-2422, which is located 400 light years from Earth.^[31]^[32]
+Glycolaldehyde is needed to form ribonucleic acid, or RNA, which is similar in
+function to DNA. This finding suggests that complex organic molecules may form
+in stellar systems prior to the formation of planets, eventually arriving on
+young planets early in their formation.^[33]
+
+In September, 2012, NASA scientists reported that polycyclic aromatic
+hydrocarbons (PAHs), subjected to interstellar medium (ISM) conditions, are
+transformed, through hydrogenation, oxygenation and hydroxylation, to more
+complex organics – "a step along the path toward amino acids and nucleotides,
+the raw materials of proteins and DNA, respectively".^[34]^[35] Further, as a
+result of these transformations, the PAHs lose their spectroscopic signature
+which could be one of the reasons "for the lack of PAH detection in
+interstellar ice grains, particularly the outer regions of cold, dense clouds
+or the upper molecular layers of protoplanetary disks."^[34]^[35]
+
+In February 2014, NASA announced the creation of an improved spectral database
+^[36] for tracking polycyclic aromatic hydrocarbons (PAHs) in the universe.
+According to scientists, more than 20% of the carbon in the universe may be
+associated with PAHs, possible starting materials for the formation of life.
+PAHs seem to have been formed shortly after the Big Bang, are widespread
+throughout the universe, and are associated with new stars and exoplanets.^[37]
+
+On August 11, 2014, astronomers released studies, using the Atacama Large
+Millimeter/Submillimeter Array (ALMA) for the first time, that detailed the
+distribution of HCN, HNC, H[2]CO, and dust inside the comae of comets C/2012 F6
+(Lemmon) and C/2012 S1 (ISON).^[38]^[39]
+
+For the study of the recourses of chemical elements and molecules in the
+universe is developed the mathematical model of the molecules composition
+distribution in the interstellar environment on thermodynamic potentials by
+professor M.Yu. Dolomatov using methods of the probability theory, the
+mathematical and physical statistics and the equilibrium thermodynamics.^[40]^[
+41]^[42] Based on this model are estimated the resources of life-related
+molecules, amino acids and the nitrogenous bases in the interstellar medium.
+The possibility of the oil hydrocarbons molecules formation is shown. The given
+calculations confirm Sokolov's and Hoyl's hypotheses about the possibility of
+the oil hydrocarbons formation in Space. Results are confirmed by data of
+astrophysical supervision and space researches.
+
+In July 2015, scientists reported that upon the first touchdown of the Philae
+lander on comet 67/P's surface, measurements by the COSAC and Ptolemy
+instruments revealed sixteen organic compounds, four of which were seen for the
+first time on a comet, including acetamide, acetone, methyl isocyanate and
+propionaldehyde.^[43]^[44]^[45]
+
+In December 2023, astronomers reported the first time discovery, in the plumes
+of Enceladus, moon of the planet Saturn, of hydrogen cyanide, a possible
+chemical essential for life^[46] as we know it, as well as other organic
+molecules, some of which are yet to be better identified and understood.
+According to the researchers, "these [newly discovered] compounds could
+potentially support extant microbial communities or drive complex organic
+synthesis leading to the origin of life."^[47]^[48]
+
+[990px-The_Celestial_Zoo_infographic_wikimedia]
+The chemical diversity in the different types of astronomical object is
+noteworthy. In this infographic, astronomical objects of different type and
+scale show their distinguishing chemical features.
+
+See also
+
+  • Astrobotany – Study of plants grown in spacecraft
+  • Astrobiology – Science concerned with life in the universe
+  • Astrophysics – Subfield of astronomy
+  • Astrosciences – Overview of and topical guide to space sciencePages
+    displaying short descriptions of redirect targets
+  • Hemolithin – Protein claimed to be of extraterrestrial origin
+  • Interstellar medium – Matter and radiation in the space between the star
+    systems in a galaxy
+  • List of interstellar and circumstellar molecules
+  • Molecular astrophysics – Field of study on atomic and molecular particles
+    in spacePages displaying short descriptions of redirect targets
+  • Nucleocosmochronology – Technique to determine timescales for astrophysical
+    objects and events
+  • Recombination – Epoch c. 370,000 years after the Big Bang
+  • Reionization – Cosmological process in the early universe
+
+References
+
+ 1. ↑ "Astrochemistry". www.cfa.harvard.edu/. 2013-07-15. Archived from the
+    original on 2016-11-20. Retrieved 2016-11-20.
+ 2. ↑ Burns, Thorburn (1987). "Aspects of the development of colorimetric
+    analysis and quantitative molecular spectroscopy in the ultraviolet-visible
+    region". In Burgess, C.; Mielenz, K. D. (eds.). Advances in Standards and
+    Methodology in Spectrophotometry. Burlington: Elsevier Science. p. 1. ISBN 
+    978-0444599056.
+ 3. ↑ "A Timeline of Atomic Spectroscopy". Archived from the original on 9
+    August 2014. Retrieved 24 November 2012.
+ 4. ↑ Charles Wheatstone (1836). "On the prismatic decomposition of electrical
+    light". Journal of the Franklin Institute. 22 (1): 61–63. doi:10.1016/
+    S0016-0032(36)91307-8.
+ 5. ↑ Bohr, N Rydberg's discovery of the spectral laws. p. 16.
+ 6. ↑ Swings, P. & Rosenfeld, L. (1937). "Considerations Regarding Interstellar
+    Molecules". Astrophysical Journal. 86: 483–486. Bibcode:1937ApJ....86..483.
+    . doi:10.1086/143879.{{cite journal}}: CS1 maint: multiple names: authors
+    list (link)
+ 7. ↑ McKellar, A. (1940). "Evidence for the Molecular Origin of Some Hitherto
+    Unidentified Interstellar Lines". Publications of the Astronomical Society
+    of the Pacific. 52 (307): 187. Bibcode:1940PASP...52..187M. doi:10.1086/
+    125159. S2CID 122134703.
+ 8. ↑ S. Weinreb, A. H. Barrett, M. L. Meeks & J. C. Henry (1963). "Radio
+    Observations of OH in the Interstellar Medium". Nature. 200 (4909): 829–
+    831. Bibcode:1963Natur.200..829W. doi:10.1038/200829a0. S2CID 38569542.{{
+    cite journal}}: CS1 maint: multiple names: authors list (link))
+ 9. ↑ Lewis E. Snyder, David Buhl, B. Zuckerman, and Patrick Palmer (1969).
+    "Microwave Detection of Interstellar Formaldehyde". Phys. Rev. Lett. 22
+    (13): 679–681. Bibcode:1969PhRvL..22..679S. doi:10.1103/PhysRevLett.22.679.
+    {{cite journal}}: CS1 maint: multiple names: authors list (link)
+10. ↑ "NASA Researchers Make First Discovery of Life's Building Block in Comet"
+    . Retrieved 8 June 2017.
+11. ↑ Brett A. McGuire, P. Brandon Carroll, Ryan A. Loomis, Ian A. Finneran,
+    Philip R. Jewell, Anthony J. Remijan, Geoffrey A. Blake (2016). "Discovery
+    of the interstellar chiral molecule propylene oxide (CH3CHCH2O)". Science.
+    352 (6292): 1449–1452. arXiv:1606.07483. Bibcode:2016Sci...352.1449M. doi:
+    10.1126/science.aae0328. PMID 27303055. S2CID 23838503.{{cite journal}}:
+    CS1 maint: multiple names: authors list (link)
+12. ↑ "CO_survey_aitoff.jpg". Harvard University. 18 Jan 2008. Retrieved 18 Apr
+    2013.
+13. ↑ Kuan, Y. J.; Charnley, S. B.; Huang, H. C.; et al. (2003). "Interstellar
+    glycine". Astrophys. J. 593 (2): 848–867. Bibcode:2003ApJ...593..848K. doi:
+    10.1086/375637.
+14. ↑ Snyder, L. E.; Lovas, F. J.; Hollis, J. M.; et al. (2005). "A rigorous
+    attempt to verify interstellar glycine". Astrophys. J. 619 (2): 914–930.
+    arXiv:astro-ph/0410335. Bibcode:2005ApJ...619..914S. doi:10.1086/426677.
+    S2CID 16286204.
+15. ↑ Mumma; Villanueva, GL; Novak, RE; Hewagama, T; Bonev, BP; Disanti, MA;
+    Mandell, AM; Smith, MD; et al. (2009). "Strong Release of Methane on Mars
+    in Northern Summer 2003". Science. 323 (5917): 1041–1045. Bibcode:
+    2009Sci...323.1041M. doi:10.1126/science.1165243. PMID 19150811. S2CID 
+    25083438.
+16. ↑ "upGREAT – a new far-infrared spectrometer for SOFIA". DLR Portal.
+    Archived from the original on 2016-11-21. Retrieved 2016-11-21.
+17. ↑ Greicius, Tony (2015-03-26). "Spitzer Space Telescope – Mission Overview"
+    . NASA. Retrieved 2016-11-21.
+18. 1 2 Oze, Christopher; Jones, Camille; Goldsmith, Jonas I.; Rosenbauer,
+    Robert J. (June 7, 2012). "Differentiating biotic from abiotic methane
+    genesis in hydrothermally active planetary surfaces". PNAS. 109 (25): 9750–
+    9754. Bibcode:2012PNAS..109.9750O. doi:10.1073/pnas.1205223109. PMC 3382529
+    . PMID 22679287.
+19. ↑ Staff (June 25, 2012). "Mars Life Could Leave Traces in Red Planet's Air:
+    Study". Space.com. Retrieved June 27, 2012.
+20. ↑ Brogi, Matteo; Snellen, Ignas A. G.; De Kok, Remco J.; Albrecht, Simon;
+    Birkby, Jayne; De Mooij, Ernest J. W. (June 28, 2012). "The signature of
+    orbital motion from the dayside of the planet t Boötis b". Nature. 486
+    (7404): 502–504. arXiv:1206.6109. Bibcode:2012Natur.486..502B. doi:10.1038/
+    nature11161. PMID 22739313. S2CID 4368217.
+21. ↑ Mann, Adam (June 27, 2012). "New View of Exoplanets Will Aid Search for
+    E.T." Wired. Retrieved June 28, 2012.
+22. 1 2 "The Astrophysics & Astrochemistry Laboratory". NASA Ames Research
+    Center. 10 Sep 2013. Retrieved 18 Apr 2014.^[permanent dead link‍]
+23. ↑ "Astrobiology: Photochemistry on ice". Macmillan Publishers Ltd. 28 Mar
+    2002. Retrieved 18 Apr 2014.
+24. ↑ "Turbulent border". www.eso.org. Archived from the original on 16 August
+    2016. Retrieved 15 August 2016.
+25. ↑ Trixler, F (2013). "Quantum tunnelling to the origin and evolution of
+    life". Current Organic Chemistry. 17 (16): 1758–1770. doi:10.2174/
+    13852728113179990083. PMC 3768233. PMID 24039543.
+26. ↑ Wallerstein, George; Knapp, Gillian R. (September 1998). "Carbon Stars".
+    Annual Review of Astronomy and Astrophysics. 36: 369–433. Bibcode:1998ARA&
+    A..36..369W. doi:10.1146/annurev.astro.36.1.369. Retrieved 30 January 2021.
+27. ↑ Suh, Kyung-Won (29 February 2016). "A Model for the Dust Envelope of the
+    Silicate Carbon Star Iras 09425-6040". The Astrophysical Journal. 819 (1):
+    61. Bibcode:2016ApJ...819...61S. doi:10.3847/0004-637X/819/1/61. S2CID 
+    123696114.
+28. ↑ Chow, Denise (26 October 2011). "Discovery: Cosmic Dust Contains Matter
+    from Stars". Space.com. Retrieved 2011-10-26.
+29. ↑ ScienceDaily Staff (26 October 2011). "Astronomers Discover Complex
+    Organic Matter Exists Throughout the Universe". ScienceDaily. Retrieved 
+    2011-10-27.
+30. ↑ Kwok, Sun; Zhang, Yong (26 October 2011). "Mixed aromatic–aliphatic
+    organic nanoparticles as carriers of unidentified infrared emission
+    features". Nature. 479 (7371): 80–83. Bibcode:2011Natur.479...80K. doi:
+    10.1038/nature10542. PMID 22031328. S2CID 4419859.
+31. ↑ Than, Ker (August 29, 2012). "Sugar Found In Space". National Geographic.
+    Archived from the original on September 1, 2012. Retrieved August 31, 2012.
+32. ↑ Staff (August 29, 2012). "Sweet! Astronomers spot sugar molecule near
+    star". AP News. Retrieved August 31, 2012.
+33. ↑ Jørgensen, J. K.; Favre, C.; Bisschop, S.; Bourke, T.; Dishoeck, E.;
+    Schmalzl, M. (2012). "Detection of the simplest sugar, glycolaldehyde, in a
+    solar-type protostar with ALMA" (PDF). The Astrophysical Journal Letters.
+    eprint. 757 (1): L4. arXiv:1208.5498. Bibcode:2012ApJ...757L...4J. doi:
+    10.1088/2041-8205/757/1/L4. S2CID 14205612.
+34. 1 2 Staff (September 20, 2012). "NASA Cooks Up Organics to Mimic Life's
+    Origins". Space.com. Retrieved September 22, 2012.
+35. 1 2 Gudipati, Murthy S.; Yang, Rui (September 1, 2012). "In-Situ Probing Of
+    Radiation-Induced Processing Of Organics In Astrophysical Ice Analogs –
+    Novel Laser Desorption Laser Ionization Time-Of-Flight Mass Spectroscopic
+    Studies". The Astrophysical Journal Letters. 756 (1): L24. Bibcode:
+    2012ApJ...756L..24G. doi:10.1088/2041-8205/756/1/L24. S2CID 5541727.
+36. ↑ "NASA Ames PAH IR Spectroscopic Database". The Astrophysics &
+    Astrochemistry Laboratory, NASA-Ames. 29 Oct 2013. Archived from the
+    original on 16 April 2014. Retrieved 18 Apr 2014.
+37. ↑ Hoover, Rachel (February 21, 2014). "Need to Track Organic Nano-Particles
+    Across the Universe? NASA's Got an App for That". NASA. Archived from the
+    original on May 10, 2020. Retrieved February 22, 2014.
+38. ↑ Zubritsky, Elizabeth; Neal-Jones, Nancy (August 11, 2014). "NASA's 3-D
+    Study of Comets Reveals Chemical Factory at Work". NASA. Retrieved August
+    12, 2014.
+39. ↑ Cordiner, M.A.; et al. (August 11, 2014). "Mapping the Release of
+    Volatiles in the Inner Comae of Comets C/2012 F6 (Lemmon) and C/2012 S1
+    (ISON) Using the Atacama Large Millimeter/Submillimeter Array". The
+    Astrophysical Journal. 792 (1): L2. arXiv:1408.2458. Bibcode:
+    2014ApJ...792L...2C. doi:10.1088/2041-8205/792/1/L2. S2CID 26277035.
+40. ↑ Dolomatov, Michel Y. (May 2014). "Thermodynamic models of the
+    distribution of life-related organic molecules in the interstellar medium".
+    Astrophysics and Space Science. 351 (1): 213–218. Bibcode:2014Ap&
+    SS.351..213D. doi:10.1007/s10509-014-1844-8. S2CID 119971379.
+41. ↑ Dolomatov, Michel Yu.; Zhuravliova, Nadezhda A.; Tanatarova, Diana R. (20
+    July 2014). "About Organic Systems Origin According to Equilibrium
+    Thermodynamic Models of Molecules Distribution in Interstellar Medium".
+    Applied Physics Research. 6 (5). doi:10.5539/apr.v6n5p65.
+42. ↑ Dolomatov, Michel Yu.; Zhuravliova, Nadezhda A.; Tanatarova, Diana R. (25
+    Sep 2012). "The Thermodynamic Models of Molecular Chemical Compound
+    Distribution in the Giant Molecular Clouds Medium". Applied Physics
+    Research. 6 (5). Bibcode:2012ApPhR...4.....D. doi:10.5539/apr.v6n5p65.
+43. ↑ Jordans, Frank (July 30, 2015). "Philae probe finds evidence that comets
+    can be cosmic labs". The Washington Post. Associated Press. Archived from
+    the original on October 7, 2019. Retrieved July 30, 2015.
+44. ↑ "Science on the Surface of a Comet". European Space Agency. July 30, 2015
+    . Retrieved July 30, 2015.
+45. ↑ Bibring, J.-P.; Taylor, M.G.G.T.; Alexander, C.; Auster, U.; Biele, J.;
+    Finzi, A. Ercoli; Goesmann, F.; Klingehoefer, G.; Kofman, W.; Mottola, S.;
+    Seidenstiker, K.J.; Spohn, T.; Wright, I. (July 31, 2015). "Philae's First
+    Days on the Comet - Introduction to Special Issue". Science. 349 (6247):
+    493. Bibcode:2015Sci...349..493B. doi:10.1126/science.aac5116. PMID 
+    26228139.
+46. ↑ Green, Jaime (5 December 2023). "What Is Life? - The answer matters in
+    space exploration. But we still don't really know". The Atlantic. Archived
+    from the original on 5 December 2023. Retrieved 15 December 2023.
+47. ↑ Chang, Kenneth (14 December 2023). "Poison Gas Hints at Potential for
+    Life on an Ocean Moon of Saturn - A researcher who has studied the icy
+    world said "the prospects for the development of life are getting better
+    and better on Enceladus."". The New York Times. Archived from the original
+    on 14 December 2023. Retrieved 15 December 2023.
+48. ↑ Peter, Jonah S.; et al. (14 December 2023). "Detection of HCN and diverse
+    redox chemistry in the plume of Enceladus". Nature Astronomy. 8 (2): 164–
+    173. arXiv:2301.05259. doi:10.1038/s41550-023-02160-0. Archived from the
+    original on 15 December 2023. Retrieved 15 December 2023.
+
+External links
+
+●
+Wikimedia Commons has media related to Astrochemistry.
+
+  • Astrochemistry division of the International Astronomical Union
+  • The University of Arizona Astrochemistry Group
+  • Astrophysics & Astrochemistry at Astrochemistry.eu
+  • The Astrochemistry Lab at NASA Ames Research Center
+  • The Astrochemistry Lab at NASA Goddard Space Flight Center
+  • The University of Leiden Laboratory for Astrophysics
+  • The astrochemist (Resources for Astrochemists & Interested Bystanders)
+
+                             • v
+                             • t
+                             • e
+
+                         Astronomy
+  • Outline
+  • History
+      □ Timeline
+  • Astronomer
+  • Astronomical symbols
+  • Astronomical object
+  • Glossary
+  • ... in space
+
+                                 • Amateur
+                                 • Observational
+                  Manner         • Sidewalk
+                                 • Space telescope
+
+                                 • Galactic / Extragalactic
+             Celestial subject   • Local system
+                                     □ Solar
+
+                                 • Radio
+                                 • Submillimetre
+                                 • Infrared (Far-infrared)
+                                 • Visible-light (optical)
+                EM methods       • Ultraviolet
+                                 • X-ray
+                                     □ History
+                                 • Gamma-ray
+
+                                 • Neutrino
+                                 • Cosmic rays
+Astronomy by                     • Gravitational radiation
+               Other methods     • High-energy
+                                 • Radar
+                                 • Spherical
+                                 • Multi-messenger
+
+                                 • Australian Aboriginal
+                                 • Babylonian
+                                 • Chinese
+                                 • Egyptian
+                                 • Greek
+                                 • Hebrew
+                  Culture        • Indian
+                                 • Inuit
+                                 • Maya
+                                 • Medieval Islamic
+                                 • Persian
+                                 • Serbian
+                                     □ folk
+                                 • Tibetan
+
+               • List
+               • Category
+               • Extremely large telescope
+               • Extremely Large Telescope
+               • Gran Telescopio Canarias
+  Optical      • Hale Telescope
+ telescopes    • Hubble Space Telescope
+               • Keck Observatory
+               • Large Binocular Telescope
+               • Southern African Large Telescope
+               • Very Large Telescope
+
+               • Archaeoastronomy
+               • Astrobiology
+               • Astrochemistry
+               • Astroinformatics
+               • Astrophysics
+               • Astrology and astronomy
+               • Astrometry
+               • Astronomers Monument
+               • Astroparticle physics
+               • Binoculars
+               • Constellation
+                   □ IAU
+               • Cosmogony
+               • Photometry
+  Related      • Planetarium
+               • Planetary geology
+               • Physical cosmology
+               • Quantum cosmology
+               • List of astronomers
+                   □ French
+                   □ Medieval Islamic
+                   □ Russian
+                   □ Women
+               • Telescope
+                   □ X-ray telescope
+                   □ history
+                   □ lists
+               • Zodiac
+
+  • ● Category
+  • ● Commons
+
+                                     • v
+                                     • t
+                                     • e
+
+                           Branches of chemistry
+  • Glossary of chemical formulae
+  • List of biomolecules
+  • List of inorganic compounds
+  • Periodic table
+
+                      • Instrumental chemistry
+                      • Electroanalytical methods
+                      • Spectroscopy
+                          □ IR
+                          □ Raman
+                          □ UV-Vis
+                          □ NMR
+                      • Mass spectrometry
+                          □ EI
+                          □ ICP
+    Analytical            □ MALDI
+                      • Separation process
+                      • Chromatography
+                          □ GC
+                          □ HPLC
+                      • Crystallography
+                      • Characterization
+                      • Titration
+                      • Wet chemistry
+                      • Calorimetry
+                      • Elemental analysis
+
+                      • Quantum chemistry
+                      • Computational chemistry
+                          □ Mathematical chemistry
+                      • Molecular modelling
+    Theoretical       • Molecular mechanics
+                      • Molecular dynamics
+                      • Molecular geometry
+                          □ VSEPR theory
+
+                      • Electrochemistry
+                          □ Spectroelectrochemistry
+                          □ Photoelectrochemistry
+                      • Thermochemistry
+                      • Chemical thermodynamics
+                      • Surface science
+                      • Interface and colloid science
+                          □ Micromeritics
+                      • Cryochemistry
+                      • Sonochemistry
+     Physical         • Structural chemistry
+                      • Chemical physics
+                          □ Molecular physics
+                      • Femtochemistry
+                      • Chemical kinetics
+                      • Spectroscopy
+                      • Photochemistry
+                      • Spin chemistry
+                      • Microwave chemistry
+                      • Equilibrium chemistry
+                      • Mechanochemistry
+
+                      • Coordination chemistry
+                      • Magnetochemistry
+                      • Organometallic chemistry
+     Inorganic            □ Organolanthanide chemistry
+                      • Cluster chemistry
+                      • Solid-state chemistry
+                      • Ceramic chemistry
+
+                      • Stereochemistry
+                          □ Alkane stereochemistry
+                      • Physical organic chemistry
+                      • Organic reactions
+                      • Organic synthesis
+                      • Retrosynthetic analysis
+      Organic         • Enantioselective synthesis
+                      • Total synthesis / Semisynthesis
+                      • Fullerene chemistry
+                      • Polymer chemistry
+                      • Petrochemistry
+                      • Dynamic covalent chemistry
+
+                      • Biochemistry
+                          □ Molecular biology
+                          □ Cell biology
+                      • Chemical biology
+                          □ Bioorthogonal chemistry
+                      • Medicinal chemistry
+    Biological            □ Pharmacology
+                      • Clinical chemistry
+                      • Neurochemistry
+                      • Bioorganic chemistry
+                      • Bioorganometallic chemistry
+                      • Bioinorganic chemistry
+                      • Biophysical chemistry
+
+                      • Nuclear chemistry
+                          □ Radiochemistry
+                          □ Radiation chemistry
+                          □ Actinide chemistry
+                      • Cosmochemistry / Astrochemistry / Stellar chemistry
+                      • Geochemistry
+                          □ Biogeochemistry
+                          □ Photogeochemistry
+
+                      • Environmental chemistry
+                          □ Atmospheric chemistry
+                          □ Ocean chemistry
+                      • Clay chemistry
+                      • Carbochemistry
+                      • Food chemistry
+                          □ Carbohydrate chemistry
+                          □ Food physical chemistry
+                      • Agricultural chemistry
+                          □ Soil chemistry
+
+Interdisciplinarity   • Chemistry education
+                          □ Amateur chemistry
+                          □ General chemistry
+                      • Clandestine chemistry
+                      • Forensic chemistry
+                          □ Forensic toxicology
+                          □ Post-mortem chemistry
+
+                      • Nanochemistry
+                          □ Supramolecular chemistry
+                      • Chemical synthesis
+                          □ Green chemistry
+                          □ Click chemistry
+                          □ Combinatorial chemistry
+                          □ Biosynthesis
+                      • Chemical engineering
+                          □ Stoichiometry
+                      • Materials science
+                          □ Metallurgy
+                          □ Ceramic engineering
+                          □ Polymer science
+
+                      • History of chemistry
+                      • Nobel Prize in Chemistry
+                      • Timeline of chemistry
+                          □ of element discoveries
+                      • "The central science"
+                      • Chemical reaction
+                          □ Catalysis
+                      • Chemical element
+     See also         • Chemical compound
+                      • Atom
+                      • Molecule
+                      • Ion
+                      • Chemical substance
+                      • Chemical bond
+                      • Alchemy
+                      • Quantum mechanics
+
+  • ● Category
+  • ● Commons
+  • ● Portal
+  • ● WikiProject
+
+              • v
+              • t
+              • e
+
+Major subfields of astronomy
+  • Astrobiology
+  • Astrochemistry
+  • Astrometry
+  • Astrophysics
+  • Cosmochemistry
+  • Cosmology
+  • Extragalactic astronomy
+  • Galactic astronomy
+  • Orbital mechanics
+  • Physical cosmology
+  • Planetary geology
+  • Planetary science
+  • Solar astronomy
+  • Stellar astronomy
+
+                                       • v
+                                       • t
+                                       • e
+
+                       Molecules detected in outer space
+                        • Aluminium monochloride
+                        • Aluminium monofluoride
+                        • Aluminium(II) oxide
+                        • Argonium
+                        • Carbon cation
+                        • Carbon monophosphide
+                        • Carbon monosulfide
+                        • Carbon monoxide
+                        • Cyano radical
+                        • Diatomic carbon
+                        • Fluoromethylidynium
+                        • Helium hydride ion
+                        • Hydrogen chloride
+                        • Hydrogen fluoride
+                        • Hydrogen (molecular)
+                        • Hydroxyl radical
+                        • Imidogen
+            Diatomic    • Iron(II) oxide
+                        • Magnesium monohydride
+                        • Methylidyne radical
+                        • Nitric oxide
+                        • Nitrogen (molecular)
+                        • Oxygen (molecular)
+                        • Phosphorus monoxide
+                        • Phosphorus mononitride
+                        • Potassium chloride
+                        • Silicon carbide
+                        • Silicon monoxide
+                        • Silicon monosulfide
+                        • Sodium chloride
+                        • Sodium iodide
+                        • Sulfanyl
+                        • Sulfur mononitride
+                        • Sulfur monoxide
+                        • Titanium(II) oxide
+
+                        • Aluminium(I) hydroxide
+                        • Aluminium isocyanide
+                        • Amino radical
+                        • Carbon dioxide
+                        • Carbonyl sulfide
+                        • CCP radical
+                        • Chloronium
+                        • Diazenylium
+                        • Dicarbon monoxide
+                        • Disilicon carbide
+                        • Ethynyl radical
+                        • Formyl radical
+                        • Hydrogen cyanide (HCN)
+                        • Hydrogen isocyanide (HNC)
+                        • Hydrogen sulfide
+                        • Hydroperoxyl
+                        • Iron cyanide
+                        • Isoformyl
+                        • Magnesium cyanide
+            Triatomic   • Magnesium isocyanide
+                        • Methylene
+                        • Methylidynephosphane
+                        • N[2]H^+
+                        • Nitrous oxide
+                        • Nitroxyl
+                        • Ozone
+                        • Potassium cyanide
+                        • Sodium cyanide
+                        • Sodium hydroxide
+                        • Silicon carbonitride
+                        • c-Silicon dicarbide
+                        • SiNC
+                        • Sulfur dioxide
+                        • Thioformyl
+                        • Thioxoethenylidene
+                        • Titanium dioxide
+                        • Tricarbon
+                        • Trihydrogen cation
+                        • Water
+
+                        • Acetylene
+                        • Ammonia
+                        • Cyanoethynyl
+                        • Formaldehyde
+                        • Fulminic acid
+                        • HCCN
+                        • Hydrogen peroxide
+                        • Hydromagnesium isocyanide
+                        • Isocyanic acid
+                        • Isothiocyanic acid
+              Four      • Ketenyl
+              atoms     • Methyl cation                               [60px-Ni]
+                        • Methyl radical
+                        • Methylene amidogen
+                        • Propynylidyne
+ Molecules              • Protonated carbon dioxide                   [60px-Et]
+                        • Protonated hydrogen cyanide
+                        • Silicon tricarbide
+                        • Thiocyanic acid
+                        • Thioformaldehyde                            [60px-Bu]
+                        • Tricarbon monosulfide
+                        • Tricarbon monoxide
+
+                        • Ammonium ion
+                        • Butadiynyl
+                        • Carbodiimide
+                        • Cyanamide
+                        • Cyanoacetylene
+                        • Cyanoformaldehyde
+                        • Cyanomethyl
+                        • Cyclopropenylidene
+              Five      • Formic acid
+              atoms     • Isocyanoacetylene
+                        • Ketene
+                        • Methane
+                        • Methoxy radical
+                        • Methylenimine
+                        • Propadienylidene
+                        • Protonated formaldehyde
+                        • Silane
+                        • Silicon-carbide cluster
+
+                        • Acetonitrile
+                        • Cyanobutadiynyl radical
+                        • Cyclopropenone
+                        • Diacetylene
+                        • E-Cyanomethanimine
+                        • Ethylene
+                        • Formamide
+               Six      • HC[4]N
+              atoms     • Ketenimine
+                        • Methanethiol
+                        • Methanol
+                        • Methyl isocyanide
+                        • Pentynylidyne
+                        • Propynal
+                        • Protonated cyanoacetylene
+
+                        • Acetaldehyde
+                        • Acrylonitrile
+                            □ Vinyl cyanide
+                        • Cyanodiacetylene
+                        • Ethylene oxide
+              Seven     • Glycolonitrile
+              atoms     • Hexatriynyl radical
+                        • Methyl isocyanate
+                        • Methylamine
+                        • Propyne
+                        • Vinyl alcohol
+
+                        • Acetic acid
+                        • Acrolein
+                        • Aminoacetonitrile
+                        • Cyanoallene
+              Eight     • Ethanimine
+              atoms     • Glycolaldehyde
+                        • Hexapentaenylidene
+                        • Methyl formate
+                        • Methylcyanoacetylene
+
+                        • Acetamide
+                        • Cyanohexatriyne
+                        • Dimethyl ether
+                        • Ethanethiol
+              Nine      • Ethanol
+              atoms     • Methyldiacetylene
+                        • N-Methylformamide
+                        • Octatetraynyl radical
+                        • Propene
+                        • Propionitrile
+
+                        • Acetone
+                        • Benzene
+                        • Benzonitrile
+                        • Buckminsterfullerene (C[60], C[60]^+,
+                          fullerene, buckyball)
+                        • Butyronitrile
+               Ten      • C[70] fullerene
+              atoms     • Cyanodecapentayne
+             or more    • Ethyl formate
+                        • Ethylene glycol
+                        • Heptatrienyl radical
+                        • Methyl acetate
+                        • Methyl-cyano-diacetylene
+                        • Methyltriacetylene
+                        • Propionaldehyde
+                        • Pyrimidine
+
+              • Ammonia
+              • Ammonium ion
+              • Formaldehyde
+              • Formyl radical
+              • Heavy water
+Deuterated    • Hydrogen cyanide
+ molecules    • Hydrogen deuteride
+              • Hydrogen isocyanide
+              • N[2]D^+
+              • Propyne
+              • Trihydrogen cation
+
+              • Anthracene
+              • Dihydroxyacetone
+              • Glycine
+              • Graphene
+              • H[2]NCO^+
+              • Hemolithin
+Unconfirmed   • Linear C[5]
+              • Methoxyethane
+              • Naphthalene cation
+              • Phosphine
+              • Pyrene
+              • Silylidyne
+
+              • Abiogenesis
+              • Astrobiology
+              • Astrochemistry
+              • Atomic and molecular astrophysics
+              • Chemical formula
+              • Circumstellar dust
+              • Circumstellar envelope
+              • Cosmic dust
+              • Cosmic ray
+              • Cosmochemistry
+              • Diffuse interstellar band
+              • Earliest known life forms
+              • Extraterrestrial life
+              • Extraterrestrial liquid water
+              • Forbidden mechanism
+              • Homochirality
+  Related     • Intergalactic dust
+              • Interplanetary medium
+              • Interstellar medium
+              • Iron–sulfur world theory
+              • Kerogen
+              • Molecules in stars
+              • Nexus for Exoplanet System Science
+              • Organic compound
+              • Outer space
+              • PAH world hypothesis
+              • Photodissociation region
+              • Polycyclic aromatic hydrocarbon (PAH)
+              • Pseudo-panspermia
+              • RNA world hypothesis
+              • Spectroscopy
+              • Tholin
+
+  • ● Category:Astrochemistry
+  • ● Outer space portal
+  • ● Astronomy portal
+  • ● Chemistry portal
+
+Portals:
+
+  • ● Spaceflight
+  • icon Stars
