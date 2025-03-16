@@ -1,0 +1,11 @@
+
+Number of rows: 39345522
+Number of columns: 3
+Columns: ['Agency', 'Complaint Type', 'Borough']
+
+Total unique complaints: 501
+Total complaints: 39345522
+
+Execution time for Complaint Type: 148.64 seconds
+Execution time for Borough complaints: 110.93 seconds
+Execution time for Agency complaints: 106.96 seconds
