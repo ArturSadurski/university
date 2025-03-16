@@ -1,3 +1,0 @@
-Execution time for Complaint Type query: 219.68 seconds
-Execution time for Borough complaints query: 596.12 seconds
-Execution time for Agency complaints query: 43.25 seconds
